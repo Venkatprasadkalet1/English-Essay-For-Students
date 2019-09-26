@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Google"
+    tools:showIn="@layout/activity_google">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Google
+
+Google is indubitably the most popular and most exciting company in the world today. According to its corporate website, it's mission is to “organize the world's information and make it universally accessible and useful” (Google, 2010). Google ranked first place in Fortune Magazine's annual “Best Companies to Work For,” besting other top companies for two consecutive years, in 2007 and 2008. The most cited reason its performance as a top employer is because of its internal company culture. Google is the ultimate global company and is described as “high-energy, fast paced work environment” (Google, 2010). On its website, its policy of “favoring ability over experience” rings true as the employees of Google are all college degree holders at the very least. Because Google is oriented toward its “youthful” internet-savvy market, the average age of its employees is noticeably lower than most companies. The median age at Google is 30 years old and the gender distribution is 65% male and 35% female (Linkedin, 2010). The dress code is “casual” and laid-back because the company values ability and hard work, not appearance. Google has a very engaging company culture. Its headquarters at Google Mountain View, CA called Googleplex is designed to be have a “campus-like” feel attuned to its predominantly young college-level fresh recruits (Google, 2010). There are several facilities in Googleplex such as a café, snack rooms that are well-stocked, and a café. There is also a great degree of independence for Google engineers because of the so-called 20% program. Engineers can devote 20% of the total number of work hours on projects that truly interest them . This policy reduces the level of stress as well as promotes creative thinking. Despite being a global business, Google executives say they try to maintain a “small company feel” and treat everyone equally (Google, 2010). During lunches, everyone eats at the office café, we still maintain a small company feel. At lunchtime, almost everyone eats in the office café and the environment is kept casual in order to allow Googlers to interact and share ideas with other teams. There are plenty of perks available for employees. Google have shared cubicles, laptops for everybody, bicycles/scooters for inter-office travels during meetings, massage chairs, dogs, inflatable balls and dogs. There are also assorted recreational activities and facilities such as pool tables, foosball, ping pong tables, video games, pianos, and even yoga classes. Employee groups devoted to all sorts of interests are also encouraged. Nutrition is emphasized with healthy lunches offered at the café.
+Company Profile
+
+Google has expanded from a two-man team in 1998. Although based in Mountain View, California, Google has over 20,000 employees offices in 57 countries all over the world (Linkedin, 2010). In the US alone, Google offices are located in almost all major cities. Google specializes in Internet-based products and services and derives most of its revenue from advertising profits via the Adwords application. It is most famous for its search engine Google, ranked by Alexa as “the Internet's most visited website” (Alexa, 2009). Its products include email software Gmail, social networking tools like ORKUT and Buzz, desktop applications, web browser Google Chrome, photo editing software, Googletalk instant messaging, and the Android mobile phone (Google, 2010). Google's main competitors are the topnotch tech companies that are competing for the most innovative products to introduce to the world market: Apple, Microsoft, Amazon.com, Facebook, Twitter, Mozilla, Yahoo, Cisco, IBM, and Nokia (Global Thoughtz, 2010). Recruitment at Google is famous for being a tough process. Acceptance of applications are based on interviews and college grades. There are also allegations that the company recruits only those below 30 (Logan, 2009). Candidates undergo multiple face interviews and are judged mainly on college academic performance. Google has an “unlimited sick leave policy” and requires employees to work hard only “70 percent of the time” (Google, 2010).
+References
+
+Alexa (2009). “Google.com's worldwide traffic rank.” Retrieved from http://www.alexa.com/siteinfo/google.com
+
+Linkedin. (2010). “Google.” Retrieved from http://www.linkedin.com/companies/google
+
+Global Thoughtz Technology (2010). “10 Toughest Competitors for Google.” Retrieved from http://technology.globalthoughtz.com/index.php/10-toughest-competitors-of-google-in-2010/
+
+Google (2010). “The Google Culture.” Retrieved from http://www.google.com/corporate/culture.html
+
+Logan, G. (2008). “Google hiring policy is key to its success as best place to work in UK.” Retrieved from http://www.personneltoday.com/articles/2008/06/02/46091/google-hiring-policy-is-key-to-its-success-as-best-place-to-work-in-uk.html"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

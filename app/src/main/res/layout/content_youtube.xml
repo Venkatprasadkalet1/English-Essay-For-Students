@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Youtube"
+    tools:showIn="@layout/activity_youtube">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Social Media: YouTube essay
+
+Today, social media play an increasingly more important role in the life of society because users spend a lot of time online and they view social media as an important source of information about issues which users are concerned with. YouTube, being one of the mainstream social media, allows users to share their videos online, create their channels and, thus, create their virtual communities united by common interests. YouTube also becomes a tool of the promotion of individuals and ideas because users can use the social media to promote themselves and their ideas. In such a situation, the distinct feature of YouTube is its performativity because users publishing their videos on YouTube focus on their performativity. Otherwise, they will not attract many users and become virtually useless for other users of YouTube but the authors of those videos (Lombe and Ssewamala 39). Hence, the performativity is not only the distinct feature of YouTube but also an essential condition of success of videos published on YouTube, whereas the public grows too concerned with the performativity that often leads to the failure of the audience to notice really significant and important issues, while perfomrability become prior to the cultural and social value of videos and messages published on YouTube. In such a way, the performativity of YouTube has a dubious effect, since, on the one hand, YouTube performativity makes it attractive and powerful social media allowing sharing visual data by users worldwide, while, on the other hand, YouTube performativity has a de structive impact on the existing legal and socio-cultural or ethical norms because often data published on YouTube violate basic rights, such as privacy or copyright, and offend existing ethical norms.
+
+At the same time, social media became generators of the mainstream culture and new trends. In this regard, it is worth mentioning the fact that the development of social media, like YouTube, opens new opportunities for the development of virtual social communities united by their common interests. Users spend more and more time online developing their virtual social relations online. Social media become an important part of their life and virtual communities created with the help of and within social media play an important part in the development of socio-cultural norms and standards that affect the development of basic ethical and cultural norms of people and influence their lifestyle substantially.
+
+YouTube has become a highly influential media which is extremely popular among users worldwide. Today, YouTube has millions or even billions of users worldwide. This is one of the most popular social media along with FaceBook, Twitter and others. The popularity of YouTube is closely intertwined with the publishing opportunity offered by the social media because users can publish their videos both documentary and featured ones. In such a way, users get ample opportunities to share their videos instantly. At the same time, the distinct feature of YouTube is its perfomrability because it is the performativity of videos that attracts users and the more performable a video is the more users will watch it, the more popular it becomes.
+
+Even though YouTube focuses on sharing videos mainly, the social media still opens wide opportunities for users to share their creative ideas and make them performable. Users may be driven by different concerns, while publishing their videos and sharing information with others. Some of them may be willing to publishing some interesting facts recorded by them in the real world, while others manifest their creativity with the help of YouTube.
+
+YouTube allows watching diverse videos and channels which may vary in their content. However, the popularity of videos determines their availability to the audience that influences the perception of information by the audience. For instance, the video that has the highest number of views becomes more and more popular and becomes mainstream, even though in its essence the video may have little cultural value or poor messages (Warr 291). In fact, the point is to make videos performable. The overwhelming majority of users publishing their videos on YouTube are concerned with the popularity of their videos than their content. Such a competition encourages users to focus on performativity of their videos above all.
+
+What makes YouTube really popular and mainstream social media is its performativity because the audience receive what it wants and expects from the media, the performance, the show and entertainment with the possibility of the further communication and even interaction with other users of YouTube. For instance, users publishing the video on YouTube may expect the positive feedback from other users. If they receive a negative feedback, they may become interested in creating a new video to match the public interests. In such a way, videos become more and more performable to gain the positive feedback from the part of other users watching them on YouTube.
+
+However, often the quantity of views determines the popularity of videos in YouTube and users erroneously associate the quality of the video with the number of views. In other words, they may believe that if the video has a large number of views, than it is good and mainstream.
+
+Furthermore, users can leave comments after the video that also contributes to the formation of specific ideas because users may conduct disputes as they leave their comments.
+
+Furthermore, videos published on YouTube may encourage users to publish their video responses that contribute to the further attraction of the users’ attention to the issue that has become the subject of controversy or dispute between users.
+
+The popularity of YouTube is, to a significant extent, determined by the interest of the audience in visual information. In fact, it is not the interest proper. To put it more precisely, users prefer YouTube because this social media provides them with visual messages which are preferable for the public than print messages for instance (Warr 290). As people perceive the information about the surrounding world with the help of vision, they naturally choose YouTube in place of other social media because they have an opportunity to receive visual information that facilitates their perception of messages conveyed via YouTube.
+
+At the same time, it is necessary to take the commercial background and opportunities offered by YouTube to its users. For instance, users can benefit from the cooperation with advertisers but they need to make their videos and channels popular to attract more advertisers. In such a way, YouTube offers business opportunities for users that stimulates the development of diverse channels to meet current demands of the public or create new ones."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Horticulture"
+    tools:showIn="@layout/activity_horticulture">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="
+
+Essay on Horticulture in India!
+
+The horticulture sector which includes a wide variety of crops such as fruits, vegetables, spices, plantation crops, floriculture, medicinal and aromatic plants, cashew etc. is nowadays recognised as an important sector for potential diversification and value addition in agriculture.
+
+It has been recognised that growing horticulture crops is now an ideal option to improve livelihood security, enhance employment generation, attain income and food security, and increase income through value addition.
+
+ADVERTISEMENTS:
+
+Horticultural crops, particularly fruits are now receiving increasing attention in view of its increasing commercial importance accentuated by quick transportation to vast internal market. India accounts for 10 per cent of world production of fruit crops, mango, banana, citrus, apple, guava, papaya, pineapple and grapes account for the bulk of fruit production. In dry land areas, ber and amla have become popular.
+
+Adoption of drip irrigation has led to increase in the productivity of mangoes, grapes, citrus and coconut. More than 3 lakh hectares have been brought under drip irrigation and the Ninth Plan envisages to bring another 80,000 ha of land in different states under drip irrigation.
+
+Estimated production of main horticultural crops during the current period is shown in Table 7.7.1:
+
+Estimated Production of Principal Horticultral Crops
+
+Total production of horticultural crops which was 96.6 million tonnes in 1990-91, gradually increased to 207.1 million tonnes in 2007-08.
+
+
+Fruits:
+
+From Table 7.7.1 it is revealed that the total production of fruit crops in India has increased from 28.6 million tonnes in 1991-92 to 76.0 million tonnes in 2011-2012. India ranks first in the production of both mango and banana with a share of about 42 per cent and 26 per cent. During 2001-02, India produced 1061akh tonnes of mangoes from an area of about 15 lakh ha and also produced 165 lakh tonnes of banana from an area of 6.00 lakh ha.
+
+Productivity of grapes in India is the highest in world. Total production of citrus fruits was 45.8 lakh tonnes during 2001-02 from an area of 560 lakh ha. Total production of apple during 2001-02 was 14.2 lakh tonnes from an area of 2.5 lakh hec. India is second largest producer of fruits in the world producing about 10 per cent of global production of fruits.
+
+Vegetables:
+
+India is considered as the second largest producer of vegetables, next only to China. In 1999-2000 with an estimated production of 90.8 million tonnes, India accounted for 14.4 per cent of world production of vegetables. In 2011-2012, total production of vegetables in India has further increased to 156.0 million tonnes.
+
+Spices:
+
+India grows a wide variety of spices like black pepper, ginger, cardamom, turmeric, garlic, chilies etc. The export demand for such spices is increasing and accordingly, the export earnings from spices has increased from Rs 1,231 crore in 1996-97 to Rs 1,758 crore in 1998-99 and to Rs 1,861 crore in 1999-2000.
+
+Total estimated production of spices has increased from 1.9 million tonnes in 1991-92 to 4.1 million tonnes in 2007-2008. The area under spices is expanding and North eastern region is also becoming an important area for production of spices.
+
+
+Flowers:
+
+India grows flowers and the area under flower cultivation during 1998-99 was reported to be around 73,971 ha with an estimated production of 4, 59,163 tonnes of loose flowers and 115.6 million cut flowers. The volume of trade in the domestic markets is estimated to be around Rs 500 crore. Flower trade especially in Delhi and other metropolitan cities has grown manifold during the last decade.
+
+However, India’s share in world export of flowers is negligible with just about Rs 96.6 crore export earnings in 1998-99. But India is having a rich potential in the flower exports, which can be materialized in near future. In 2006-07, the area under flower cultivation has increased to 0.15 million hectares and the total production of flowers has increased to 0.87 million tonnes.
+
+Others:
+
+Other two important items include coconut and cashew-nut. India is the largest producer of coconut in the world with the distinction of having the highest productivity. Southern states account for more than 80 per cent of coconut nuts production. Total production of coconut in India has increased from 6.3 million tonnes in 1991-92 to 12.5 million tonnes in 2003-04.
+
+Cashewnut is the another important horticultural crop of India. India occupies a premier position in cashew-nut production, contributing about 43 per cent of the world production. India is also the largest exporter of cashew-nut in the world. Total production of cashew-nut has increased from 3.0 lakh tonne in 1991- 92 to 6.0 lakh tonne in 2003-2004, which is obtained from an area of 9.0 lakh hectares.
+
+However, production of raw cashew-nut in India is far below the requirement of the processing sector necessitating therefore import of raw cashew-nut. Thus total production of plantation crops was 12.04 million tonnes in 2007-08 which include cashew, areca-nut and coconut. Moreover, total production of other crops was 0.5 million tonne in 2006-07. Thus horticulture sectors provide ample opportunities for income generation.
+
+Globally India is the second largest producer of mango, banana, coconut, cashew, papaya and pomegranate; and the largest producer and exporter of spices. Horticulture production is estimated at 265 million tonnes in 2012-13, which exceeded the production of food grains and oilseeds in 2012-13, owing to 8.6 per cent increase in productivity of horticulture crops between 2008-09 and 2012-13. "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

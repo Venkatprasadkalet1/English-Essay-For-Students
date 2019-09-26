@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Technologyindustry"
+    tools:showIn="@layout/activity_technologyindustry">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="The information technology industry has grown into one of the most robust industry in the world today. Today nearly every major industry in the world has the information technology, software and hardware associated with the IT industry as its integral part. Information technology has increased productivity more than any other economic facet or industry, especially in the developed countries. This has made the industry as the key driver of the growth of the global economy. This rapidly growing industry can be characterized by the insatiable demand and economies of scale from both the enterprises and the consumer. The industry has greatly blossomed majorly because all the aspects of the information systems based on the computers are growing rapidly. It entails the software development, IT industry hardware involved, computer systems, IT development and study, implementation, design and management systems. The industry has made the products and services to be easy to access and ensured the products are readily available. The sector has become the cornerstone of global growth and employment.
+The Role of IT Industry
+
+The IT industry has served as the medium for e-governance due to its assurance of accessing the information easily. IT sector has ensured that the service sector improves its operational efficiency and transparency. The industry also acts as the medium for creating the skills.
+Features of IT industry
+
+The information technology industry has economies of scale which is much higher. The marginal cost per unit of the additional hardware or software is of less concern compare to the resulting value addition from it. The IT industry is well known as the knowledge based industry unlike other industries or simply known as the geeks centre. When the skilled labor forces are efficiently utilized in an It sector, the economy is likely to achieve a faster and a paced rapid economic growth. The information technology sector doesn't only help itself rather it also helps a lot more other sector that are in the process of growing the economy including the manufacturing and the service sectors."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

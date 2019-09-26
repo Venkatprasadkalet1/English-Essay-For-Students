@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cool"
+    tools:context="com.actionbar.venkat.thor.MainActivity4">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/button71"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back4"
+            android:text="social media" />
+
+        <Button
+            android:id="@+id/button72"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back3"
+            android:text="whats app" />
+
+        <Button
+            android:id="@+id/button73"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back4"
+            android:text="instagram" />
+
+        <Button
+            android:id="@+id/button74"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back3"
+            android:text="twitter" />
+
+        <Button
+            android:id="@+id/button75"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back4"
+            android:text="facebook" />
+
+        <Button
+            android:id="@+id/button76"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back3"
+            android:text="google" />
+
+        <Button
+            android:id="@+id/button77"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back4"
+            android:text="yahoo" />
+
+        <Button
+            android:id="@+id/button78"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back3"
+            android:text="youtube" />
+
+        <Button
+            android:id="@+id/button79"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back4"
+            android:text="Email" />
+
+        <Button
+            android:id="@+id/button80"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back3"
+            android:text="search from web" />
+
+    </LinearLayout>
+</ScrollView>

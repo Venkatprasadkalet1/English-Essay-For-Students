@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Soilpollution"
+    tools:showIn="@layout/activity_soilpollution">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Soil pollution is the contamination of fresh and fertile soil which adversely affects the health of crops, plants, animals, human beings and other organisms living in it. Addition of variety of unwanted substances and toxic chemicals from many sources to the soil in the odd proportion causes whole land pollution. Once the pollutants gets mixed to the soil remains in direct contact with soil for long period of time. Increasing industrialization and increasing consumption of various effective fertilizers in the fertile land is continuously changing the soil composition and complexion of earth strata which is very dangerous indication to the future of life on the earth.
+
+All the fertile land on the earth is getting heavily polluted gradually day by day through the mixing of toxic materials released by the industries and domestic circles. Major sources of the soil pollution are industrial wastes, urban wastes, chemical pollutants, metallic pollutants, biological agents, radioactive pollutants, wrong agricultural practices, etc. Industrial wastes released by the industrial processes contain organic, inorganic and non-biodegradable materials which have ability to change physiochemical and biological characteristics of the soil. It totally disturbs the level of texture and mineral, bacterial and fungal colonies of the soil.
+
+Urban wastes are solid wastes include commercial and domestic wastes which make a huge heap on the soil and contribute to the soil pollution. Chemical pollutants and metallic pollutants are the industrial wastes from the textile, soap, dyes, synthetic, detergents, metal, and drugs industries which are dumping their hazardous wastes continuously in the soil and water. It directly affects the living organisms of the soil and reduces fertility level of soil. Biological agents (such as bacteria, algae, fungi, protozoan and microorganisms like nematodes, millipedes, earthworms, snail, etc) also disturb the physio chemical and biological atmosphere of soil and cause soil pollution.
+
+Some radioactive pollutants from the sources like nuclear reactors, explosions, hospitals, scientific laboratories, etc go very deep to the soil, remain there for long time and cause soil pollution. Wrong agricultural practices using advance agro-technology means use of huge quantities of toxic fertilizers including herbicides, weedicides, pesticides, etc enhances soil fertility however gradually declines the physio-chemical and biological property of the soil. Other sources of the soil pollution are municipal garbage heap, food processing wastes, mining practices, and many more. Soil pollution is very hazardous to the health because toxic chemicals enter to the body through food chain and disturbs whole internal body system. In order to reduce and restrict the soil pollution, all the effective control measures including environment protection laws should be followed by the people especially industrialist. Recycling and reuse of the solid wastes and maximum possible tree plantation should be promoted among people.
+
+"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

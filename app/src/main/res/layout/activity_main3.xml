@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cool"
+    tools:context="com.actionbar.venkat.thor.MainActivity3">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/button61"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back7"
+            android:text="Environment" />
+
+        <Button
+            android:id="@+id/button62"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="Environment pollution" />
+
+        <Button
+            android:id="@+id/button63"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back7"
+            android:text="air polluiion" />
+
+        <Button
+            android:id="@+id/button64"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="water pollution" />
+
+        <Button
+            android:id="@+id/button65"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back7"
+            android:text="Soil pollution" />
+
+        <Button
+            android:id="@+id/button66"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="earth" />
+
+        <Button
+            android:id="@+id/button67"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back7"
+            android:text="earth pollution" />
+
+        <Button
+            android:id="@+id/button68"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="biosphere" />
+
+        <Button
+            android:id="@+id/button69"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back7"
+            android:text="Global warming" />
+
+        <Button
+            android:id="@+id/button70"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="search from web" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Easter"
+    tools:showIn="@layout/activity_easter">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Easter is one of the most important Christian festivals which is observed in March or April. On this day the Christians celebrate the resurrection of Jesus after his death by crucifixion which is believed to have happened during this time around 30-33 A.D.
+
+In Western Christianity, Easter always falls on a Sunday between March 22 and April 25. The following day this is an Easter Monday, a holiday in countries having predominant Christian tradition.
+
+In Western countries, Easter marks the end of the forty days of Lent, a period during which the Christians observe fast and penitence in preparation for the Easter which begins on Ash Monday and ends on Easter Sunday.
+
+The week prior to Easter is of great importance in the Christian tradition. The Sunday before Easter is Palm Sunday and the last three days are Maundy Thursday or Holy Thursday, Good Friday and Holy Saturday.
+
+Palm Sunday, Maundy, Thursday and Good Friday respectively commemorate 'Jesus' entry into Jerusalem, the Last Supper, and the Crucifixion.
+
+These three days are sometimes referred to as the Easter Tridum. In some countries Easter lasts for two days, with the second called 'Easter Monday'.
+
+The Eastern Christianity starts preparing for the Easter with the Great Lent. Following the fifth Sunday of Great Lent is Palm Week, which ends with Lazarous Saturday, the day which officially brings Great Lent to a close, but the fast continues for the following week.
+
+Lazarous Saturday is followed by Palm Sunday, Holy Week and finally Easter. Easter is immediately followed by Bright Week, during which there is rto fasting.
+
+Easter is the fundamental and the most important festival of the Eastern and the Oriental orthodox. Every other religious festival including Christmas is of secondary importance in comparison to the celebration of the Resurrection of the Lord."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

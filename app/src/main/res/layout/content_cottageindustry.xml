@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Cottageindustry"
+    tools:showIn="@layout/activity_cottageindustry">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Before the establishment and expansion of factories, there was cottage industry in India. Cottage industry is also known as home industry. It means the manufacturing of goods at home by hands. For this purpose, very small capital is needed. The goods are produced in small scale. The members of a family are involved in a cottage industry.
+
+India is an agricultural country. Agriculture is not a strong source of income for us. So many Indians depended upon cottage industry in past as the secondary source of income. In the ancient days, cottage industries played an important role in the economy of our country. Many people got employment in those cottage industries. There was no poverty, at that time. But later on the cottage industries collapsed and poverty was born.
+
+Cottage industries have a lot of merits. In India, most of the farmers complete their farming in less than six months. They spend the next six months in idle manner. They can employ themselves and have additional income through cottage industries. Secondly, in many families, women labour is not utilised at all.
+
+In cottage industries, women can work and can be, self-dependent. Further, there is no conflict between the labour and the owner. So, there is no possibility of unrest. There is no corruption and no exploitation of the poor by the rich. The works is pleasant and risk less. M.K. Gandhi, the father of our nation, supported the cottage industries in our country and inspired the Indians to utilise manual labour.
+
+In Orissa there are various types of cottage industries. These are the weaving industry, filigree work, Leather Industries, Wood Industry. The Filigree work of Cuttack, the sarees of typical design made in Sambalpur and Berhampur are very famous in India and in the world too.
+
+The weavers of Sambalpur have a good reputation in the textile market. Leather industry is also another important cottage industry in Orissa. Madhusudan Das, the famous lawyer and patriot, started the Utkal Tannery which produced leather shoes. In Coastal Orissa, people make baskets, mats etc. out of bamboo and other leaves.
+
+Now-a-days, cottage industries are breaking down for several reasons. The chief reason is the non-availability of raw materials. Cost of labour has gone up very high. The products of cottage industries are facing great Competition in market. In this situation, government should look after the future of the cottage industries."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

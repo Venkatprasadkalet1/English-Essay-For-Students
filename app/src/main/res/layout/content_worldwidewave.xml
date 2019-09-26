@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Worldwidewave"
+    tools:showIn="@layout/activity_worldwidewave">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Developed in 1992,'the World Wide Web (www) is a means to exchange information on the internet. It uses a programme known as a browser.
+
+A number of browsers are available for working on the web. Two most widely used browsers are Internet Explorer and Netscape Navigator. These display multimedia objects such as texts, images, audio and video in a special format known as hypertext.
+
+Hypertext is written in a special language known as hypertext mark-up language (him). Browsers are clients that communicate with servers and display a home page.
+
+The home page contains highlighted words and objects known as hypertext links or simply hyperlinks. Clicking on a hyperlink directs the browser to another hypertext. Thus moving from hyperlink to hyperlink is known as surfing the net or web.
+
+Each hypertext has a unique address called uniform resource locator (URL). The URL takes a form like. Here, http; // identifies the hypertext format of the text and the communication of the format is governed by a hypertext transfer protocol (http). Each computer on the internet has an IP address.
+
+An IP address is a four integer separated by dots (Example: 128.40.46.17), Such an IP address can be understood by a computer and is not user friendly. It is translated into its corresponding URL. An URL identifies a particular computer. It is made up of domains and sub-domains.
+
+On the right hand side, we find the domain and when we move from right to left, the domain is broken into sub-domains. In the above URL, biochem.ucl.ac.uk, .uk is the country domain (United Kingdom) and biochem are sub-domains and spell academic, University College of London and Biochemistry Department, respectively.
+
+Thus, we mean that the said computer is placed in the biochemistry department of the University College of London in the United Kingdom.
+
+The browser maintains a list of URLs visited over the past in the history file. A list of URLs can be added to the list of Favorites in the Internet Explorer or Bookmarks in the Netscape Navigator. A number of search engines are available for searching a site on the internet.
+
+Some academic institutes have a local network of computers, which can only be accessed from a computer within the institute. This networking has been known as intranet."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

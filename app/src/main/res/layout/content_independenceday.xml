@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Independenceday"
+    tools:showIn="@layout/activity_independenceday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Independence Day Essay 6 (400 words)
+
+Independence Day in India is the most important day for every Indian citizen as our country got freedom from the British rule. We celebrate this day every year on 15th of August from 1947. Our country is counted as the world’s largest democracy all over the world. India become an independent country on 15th of August in 1947 after sacrifices of thousands of freedom fighters (such as Mahatma Gandhi, Bhagat Singh, Netaji Subhash Chandra Bose, Sardar Vallabhbhai Patel, Dr. Rajendra Prasad, Moulana Abul Kalam Azad, Sukhdev, Gopal Krishna Gokhale, Lala Lajpat Rai, Lokmanya Balgangadhar Tilak, Chandra Shekhar Azad, etc) who worked hard to get independence from the British rule.
+
+Each and every Indian celebrate his/her freedom in their own way such as decorating their places of celebration, raising National Flag, march past, watching favourite movies, dancing in the streets, singing National Anthem or patriotic songs or participating in many social activities organized at public places. Independence Day is celebrated by the government of India every year when the current Prime Minister of India raises out tricolour national flag at the Red Fort in Delhi followed by Indian army parade, march past, National Anthem recitation, speech and other cultural activities.
+
+Independence Day in India is celebrated with the National Flag salute by the 21 guns firing. Similarly Independence Day celebration takes place in every states of the country where Governor and the Chief Minister of the states become main guests. Some people get prepared in the early morning and wait for the speech of the Indian Prime Minister at TV. On 15th of August people get inspired with the history of India’s independence and do some social activities like that and watch movies based on the patriotic themes.
+
+The great non-violence movement of the Mahatma Gandhi, Bapu, helps a lot to our freedom fighters to get freedom from the British rule after 200 long years of struggle. The hard struggle for Independence of India has worked as a huge moving force for every Indian which bind them together at one place whether they belong to different castes, classes, cultures to ritual beliefs to fight them from British rule for their rights. Even women (Aruna Asaf Ali, Vijay Laxmi Pandit, Sarojine Naidu, Kasturba Gandhi, Kamala Nehru, Annie Besant, etc) came out from their houses and played their great role in getting freedom."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

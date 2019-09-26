@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".The_Cow"
+    tools:showIn="@layout/activity_the__cow">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Cow Essay 6 (400 words)-----------------------------------------------
+
+Cow is a very useful pet animal. It is a successful domestic animal kept by people at home for many purposes. It is a four footed female animal having a large body, two horns, two eyes, two ears, one nose, one mouth, one head, a big back and stomach. She eats large amount of food in one time. She gives us milk to make us healthy and strong. It keeps us away from the diseases and infections by increasing our immunity power. She is a sacred animal and worshipped in India like a Goddess. She has been given a status of Mother in the Hindu society and called as “Gau Mata”.
+
+
+
+
+
+It is a very famous milk giving animal useful for many purposes. In Hindu religion, it is considered as Gau Dan is the biggest Dan in the world. Cow is a sacred animal to Hindus. Cow gives us lots of benefit all through her life and even after her death. She gives us milk, calf (either female cow or male cow ox), co-dung, gau-mutra while living and lots of leather and strong bones after death. So, we can say that her whole body is useful to us. We can get lots of products from the milk given by her like ghee, cream, butter, curd, dahi, whey, condensed milk, variety of sweets, etc. Her co-dung and urine is highly useful to the farmers for making natural fertilizer for plants, trees, crops, etc.
+
+She eats green grasses, foods, grains, hay and other eatable things. She uses her one pair of strong and tight horns to attack on the people as a defence organ to save her child. She also uses her tail sometime to attack. She has long hairs on the tip of her tail. She also has small hair on her body and uses them frighten away the flies. She has highly helped in the human lives for years in many ways. She has been reason of our healthy lives from more than thousands of years. The origin of cow on the earth for nourishing the human lives has a great history behind. We all should know her importance and necessity in our lives and respect her forever. We should never hurt cows and give them proper food and water timely. Cow differs in its colour, size and shape from region to region. Some cows are small, big, white, black and some are of mixed colour."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

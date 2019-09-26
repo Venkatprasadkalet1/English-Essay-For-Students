@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Gandhijayanti"
+    tools:showIn="@layout/activity_gandhijayanti">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Gandhi Jayanti Essay 6 (400 words)
+
+Gandhi Jayanti is a national event celebrated every year to pay tribute to the Father of the Nation, Mahatma Gandhi. This day is also celebrated as the International Day of Non-Violence all over the world. Gandhi Jayanti has been declared as International Day of Non-Violence by the United Nations General Assembly on 15th of June 2007. Gandhi Jayanti is observed as a national holiday all through the country in order to commemorate the birth anniversary of Mohandas Karamchand Gandhi (born on 2nd of October in 1869). His non-violence movement for independence of India is still continues influencing political leaders and youths of our own country as well as other countries worldwide.
+
+The aim of celebrating Gandhi Jayanti as the International Day of non-violence is to distribute Bapu’s philosophy, believe in non-violence, principle, etc all over the world. It is celebrated through theme based proper activities in order to enhance the public awareness worldwide. Gandhi Jayanti celebration involves commemorating Mahatma Gandhi’s life and his contributions in India’s Independence. He was born in a small coastal town (Porbandar, Gujarat) however he performed great works all through his life which still influences the people in advance era.
+
+He worked great for achieving Sawaraj, remove untouchability from society, abolition of other social evils, improving economic condition of farmers, empowering women rights and many more. The movements run by him are non-cooperation movement in 1920, Dandi March or Salt Satyagraha in 1930 and Quit India Movement in 1942 in order to help Indian people in getting freedom from British rule. His Quit India Movement was a call to British to leave India. Gandhi Jayanti is celebrated in various innovative ways by the students, teachers, government officials, etc all over the country. It is celebrated at Raj Ghat, New Delhi by offering flowers on Gandhi’s statues, singing his favorite devotional song “Raghupati Raghava Raja Ram” and other ceremonial activities by the government officials.
+
+It is one of the three National Holidays of the country (other two are Independence Day and Republic Day) celebrated every year in the schools, colleges, educational institutions, government and non-government organizations, etc. Schools, colleges, government offices, post offices, banks, etc remain closed on Gandhi Jayanti in order to pay tribute to the great leader of India. We remember Bapu and his great deeds by celebrating the Gandhi Jayanti. Students are assigned for various tasks to perform at this day such as poem or speech recitation, drama play, essay writing, slogan writing, group discussion, etc based on the life and works of Mahatma Gandhi."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

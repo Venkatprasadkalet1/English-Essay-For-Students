@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Dussehra"
+    tools:showIn="@layout/activity_dussehra">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Dussehra Essay 6 (400 words)
+
+Dussehra festival is one of the most significant and longest festivals of the India. It is celebrated every year with full enthusiasm, faith, love and honour by the people of Hindu religion all over the country. It is really the great time to enjoy by all. Students also get holidays for many days from their schools and colleges to fully enjoy the festival of Dussehra. This festival falls two or three weeks earlier to the Diwali every year in the month of September or October. People wait for this festival to occur with huge patience.
+
+India is a country which is very famous for its culture and tradition, fair and festivals. It is a country of fairs and festivals where people celebrate and enjoy every festival with great joy and faith. The festival of Dussehra has been declared by the government of India as the gazetted holiday to allow people to fully enjoy this festival as well as giving importance to the Hindu festival. The meaning of Dussehra is the victory of Lord Rama over the ten headed demon king Ravana. The real meaning of the word Dussehra is the defeat of ten headed (Dus head) demon on tenth day of this festival. Tenth day of this festival is celebrated by burning the Ravana clones by the people all over the country.
+
+There are many myths related to this festival according to the customs and traditions of the people in many regions of the country. This festival was started celebrating by the people of Hindu religion from the day Lord Rama had killed the demon king Ravana on the day of Dussehra (means 10th day of Ashwayuja month of Hindu calendar). Lord Rama had killed Ravana because he had kidnapped the Mata Seeta and was not agree to return her to the Lord Rama. Lord Rama had won the war with Ravana by the help of younger brother Lakshman and Vanar soldier of Hanuman.
+
+According to the Hindu Scripture, Ramayana, it is mentioned that Lord Ram had performed Chandi Hom to make goddess Durga happy and get blessings. In this way Lord Rama, got victory by knowing the secret of Ravana’s killing on 10th day of the war. Finally, he retained his wife Seeta safely after killing the Ravana. Dussehra festival is also known as the Durgotsav because it is considered that on the same day another demon called Mahishasura was killed by the Mata Durga on the tenth day. A huge fair of Ramlila takes place in the Ram-Lila ground where people from nearby regions come to see the fair and dramatic representation of the ramlila."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Mangalpandey"
+    tools:showIn="@layout/activity_mangalpandey">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Born on July 19, 1827 in the village of Nagwa, district Ballia, Uttar Pradesh, Mangal Pandey was introduced to Indian history as the first freedom fighter and martyr of 1857. He is popularly named ‘Shaheed Mangal Pandey’ because ‘Shaheed’ means martyr in Urdu and he was the first Indian sepoy who woke up the Indian masses to fight for the nation.
+
+Mangal Pandey, at the age of 22 joined the British East India Company as a soldier in the 34th Regiment of Bengal Native Infantry. He was a true freedom fighter who gave a spark to the First War of Indian Independence. The British termed it as Sepoy Mutiny 1857 as it was a mass revolt of Indian soldiers in the British Army.
+
+The main reason of Sepoy Mutiny was the Pattern 1853 Enfield rifled musket. To load a new rifle, the soldiers had to bite the cartridge and open to pour gunpowder into the rifle’s muzzle. There was a widespread rumor that these cartridges were greased with lard or tallow. Lard is the pork fat which the Muslims regarded as unclean and tallow is the beef fat which the Hindus regarded as sacred. The British army constituted 96% of Indians and so both the Hindus and the Muslims refused to accept these cartridges. Everyone had a firm belief that this was done intentionally and this discontent turned into a major revolt.
+
+Mass revolt forced Pandey to attack his British sergeant on the parade ground, besides wounding an adjutant. A native soldier stopped him from killing them. The officer in charge ordered a Jamadaar of the troop to arrest Pandey but he refused to do so. Mangal tried to commit suicide to light the flame of nationalism in the hearts of millions of Indians but he failed to do so. He was then captured and sentenced to death on April 8, 1857 in Barrackpore. March 29, 1857 is considered to be a day when Mangal Pandey reaped the seed for a struggle which gave India her freedom.
+
+"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

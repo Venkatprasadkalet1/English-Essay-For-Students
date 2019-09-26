@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Chandrashekharazad"
+    tools:showIn="@layout/activity_chandrashekharazad">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text=" An Introduction to Business
+
+Business plays a major role within our society. It is a creative and competitive activity that continuously contributes to the shaping of our society. By satisfying the needs and wants people cannot satisfy themselves, businesses improve the quality of life for people and create a higher standard of living.
+
+It is a way for individuals to provide goods and services to consumers, and at the same time, produce a profit for themselves. Businesses are not only important because they provide goods and services for consumers, but they also improve the economy and increase jobs for people within society which is an additional fact producing a higher standard of living. To measure our societies standard of …show more content…
+International trade deficits occur when a nation imports more then it exports. The Decline of Smokestack America is when there is a change from an industrial to a post-industrial economy. Finally, the conservation of energy is so that there are a sufficient amount of natural resources necessary to produce goods. General economic growth or stagnation also has an important influence on business within our society. Many factors can affect it's condition, such as war, new inventions and technology, political assassinations, the discovery of physical and natural resources, labor negotiations, government action, and many others. When the economy is strong and the demand is high, businesses can prosper. Regardless of how great the economy may become, businesses still must compete with other firms for scarce raw materials and labor.
+
+A businesses environment creates many opportunities as well as problems for prospering businesses. The environment determines what a business can do by shaping and channeling its development. Businesses function within an environment by allowing entrepreneurs to raise capital and create profits freely. The supply of money available within a business as well as the economic stability through times of growth and recession have strong effects on businesses. Not only is the physical environment, including natural resources, pollution and energy as discussed previously, important, but many other
+"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

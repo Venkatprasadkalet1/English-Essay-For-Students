@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Thefarmer"
+    tools:showIn="@layout/activity_thefarmer">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Free Essay on Farmer – A farmer is one of the most important members of society. He is the giver of food to the people, to all practical purposes.
+
+He gets up early in the morning and goes to his fields. Now-a-days, in a number of states, the days of ploughing the fields with the help of oxen are almost over except for the farmers who are – too poor to purchase a tractor.
+
+The farmer has many kinds of works to do. He ploughs his fields. He sows the seeds. He waters the fields regularly. He has to take care of the crops. He has to protect them against hail and frost.
+
+
+He has to apply compost and fertilizers. He has also to ; sprinkle insecticides and pesticides to protect the crops against pests and insects.
+
+Most of the old farmers are illiterate. But the farmers of the new generation are mostly educated. Their being educated helps them a lot. They get the soil of their fields tested in a labora­tory. Thus, they can know what kind of crop will grow best in their fields.
+
+Although the lot of big farmers has greatly improved, the condition of small land-holders and marginal farmers is still far from being satisfactory.
+
+
+Such farmers get big loans from banks which they cannot repay. Many farmers have committed suicide in various states during the last few years.
+
+Most of the farmers are not interested in free electricity and water. They rather want an uninterrupted supply of electricity for which they are ready to pay.
+
+In states like Punjab, at first the Green Revolution helped the farmers a lot. But the low prices of their produce on account of bumper crops became a negative factor for them.
+
+Small farmers should also start some cottage industries. Crop rotation system and contract crop system has been started in some states. Such steps are in the right direction and will help the farmers in the long run."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

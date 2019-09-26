@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Write"
+    tools:showIn="@layout/activity_write">
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Writing a persuasive essay is like being a lawyer arguing a case before a jury. The writer takes a stand on an issue—either “for” or “against”—and builds the strongest possible argument to win over the reader.
+
+In a persuasive essay, it’s the writer’s job to convince the reader to accept a particular point of view or take a specific action. Persuasive essays require good research, awareness of the reader’s biases, and a solid understanding of both sides of the issue. A good persuasive essay demonstrates not only why the writer’s opinion is correct, but also why the opposing view is incorrect.
+
+Persuasive writing is a fixture of modern life—found in advertising, newspaper editorials, blogs, and political speeches. Often persuasive writing assignments and test prompts concern contemporary issues, for example: “The school board is debating on whether or not to ban cell phone use in school. Write an essay convincing the board to adopt your position.” As shown in this persuasive writing prompt, the main purpose is not to inform, but to “persuade” or “convince” an audience (the school board) to think or act a certain way.
+The Five-Step Writing Process for Persuasive Essays
+
+At Time4Writing, we believe the five-step writing process is the best approach to learning how to write a persuasive essay. Here are persuasive essay tips for each phase of the writing process.
+1. Prewriting for the Persuasive Essay
+
+The prewriting phase of writing a persuasive essay is extremely important. During this phase, students should plan every aspect of the essay:
+
+    Choose a position. Students should think about the issue and pick the side they wish to advocate.
+    Understand the audience. In order to write an effective persuasive essay, the writer must understand the reader’s perspective. Is the reader undecided or inclined to favor one side or the other?
+    Do the research. A persuasive essay depends upon solid, convincing evidence. Don’t rely on a single source. Pull information from multiple websites and reference materials. Speak with community experts and teachers. Read and take notes. There is no substitute for knowledge of both sides of the issue.
+    Identify the most convincing evidence, as well as the key points for the opposing view.
+
+Organizing the Persuasive Essay: Outline and Structure
+
+Next, create an outline. Organize the evidence to build the strongest possible argument. If the teacher has specified an essay structure, incorporate it into the outline. Typically, the persuasive essay comprises five or six paragraphs:
+Persuasive Essay Outline
+Introductory Paragraph
+
+    Grab the reader’s attention by using a “hook.”
+    Give an overview of the argument.
+    Close with a thesis statement that reveals the position to be argued.
+
+Body Paragraphs
+
+    Each body paragraph should focus on one piece of evidence.
+    Within each paragraph, provide sufficient supporting detail.
+
+Opposing View Paragraph
+
+    Describe and then refute the key points of the opposing view.
+
+Concluding Paragraph
+
+    Restate and reinforce the thesis and supporting evidence.
+
+2. Drafting the Persuasive Essay
+
+When writing the initial draft of a persuasive essay, consider the following suggestions:
+
+    The introductory paragraph should have a strong “hook” that grabs the reader’s attention. Open with an unusual fact or statistic, a question or quotation, or an emphatic statement. For example: “Driving while talking on a cell phone, even hands-free, is the equivalent of driving drunk.”
+    The thesis statement should leave no doubts about the writer’s position.
+    Each body paragraph should cover a separate point, and the sentences of each paragraph should offer strong evidence in the form of facts, statistics, quotes from experts, and real-life examples.
+
+The Secret to Good Paragraph Writing
+
+    Consider various ways to make the argument, including using an analogy, drawing comparisons, or illustrating with hypothetical situation (e.g., what if, suppose that…).
+    Don’t assume the audience has in-depth knowledge of the issue. Define terms and give background information.
+    The concluding paragraph should summarize the most important evidence and encourage the reader to adopt the position or take action. The closing sentence can be a dramatic plea, a prediction that implies urgent action is needed, a question that provokes readers to think seriously about the issue, or a recommendation that gives readers specific ideas on what they can do.
+
+3. Revising the Persuasive Essay
+
+In the revision phase, students review, modify, and reorganize their work with the goal of making it the best it can be. Keep these considerations in mind:
+
+    Does the essay present a firm position on the issue, supported by relevant facts, statistics, quotes, and examples?
+    Does the essay open with an effective “hook” that intrigues readers and keeps them reading?
+    Does each paragraph offer compelling evidence focused on a single supporting point?
+    Is the opposing point of view presented and convincingly refuted?
+    Is the sentence structure varied? Is the word choice precise? Do the transitions between sentences and paragraphs help the reader’s understanding?
+    Does the concluding paragraph convey the value of the writer’s position and urge the reader to think and act?
+
+If the essay is still missing the mark, take another look the thesis. Does it present the strongest argument? Test it by writing a thesis statement for the opposing viewpoint. In comparison, does the original thesis need strengthening? Once the thesis presents a well-built argument with a clear adversarial viewpoint, the rest of the essay should fall into place more easily."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

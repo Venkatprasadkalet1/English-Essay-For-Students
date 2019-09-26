@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.actionbar.venkat.thor">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".MainActivity3" />
+        <activity android:name=".MainActivity1" />
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".MainActivity4" />
+        <activity android:name=".MainActivity5" />
+        <activity android:name=".MainActivity6" />
+        <activity android:name=".MainActivity7" />
+        <activity android:name=".MainActivity8" />
+        <activity android:name=".MainActivity9" />
+        <activity android:name=".MainActivity10" />
+        <activity android:name=".setting" />
+        <activity android:name=".Import" />
+        <activity android:name=".Gallery" />
+        <activity android:name=".Slideshow" />
+        <activity android:name=".Tools" />
+        <activity android:name=".Share" />
+        <activity
+            android:name=".The_Cow"
+            android:label="@string/title_activity_the__cow"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".The_tiger"
+            android:label="@string/title_activity_the_tiger"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".The_Lion"
+            android:label="@string/title_activity_the__lion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".The_Crow"
+            android:label="@string/title_activity_the__crow"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".The_Dog"
+            android:label="@string/title_activity_the__dog"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".The_Bullock"
+            android:label="@string/title_activity_the__bullock"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Bottle"
+            android:label="@string/title_activity_bottle"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".How"
+            android:label="@string/title_activity_how"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Reason"
+            android:label="@string/title_activity_reason"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Teacup"
+            android:label="@string/title_activity_teacup"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Intro"
+            android:label="@string/title_activity_intro"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Howto"
+            android:label="@string/title_activity_howto"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Injured"
+            android:label="@string/title_activity_injured"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Taking"
+            android:label="@string/title_activity_taking"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Write"
+            android:label="@string/title_activity_write"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Studentlife"
+            android:label="@string/title_activity_studentlife"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Hostellife"
+            android:label="@string/title_activity_hostellife"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Discipline"
+            android:label="@string/title_activity_discipline"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Studentandolan"
+            android:label="@string/title_activity_studentandolan"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Studentpoli"
+            android:label="@string/title_activity_studentpoli"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Rules"
+            android:label="@string/title_activity_rules"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Healthinst"
+            android:label="@string/title_activity_healthinst"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Goodst"
+            android:label="@string/title_activity_goodst"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".StudentUnion"
+            android:label="@string/title_activity_student_union"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Struggle"
+            android:label="@string/title_activity_struggle"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Success"
+            android:label="@string/title_activity_success"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Massaage" />
+        <activity
+            android:name=".Telivision"
+            android:label="@string/title_activity_telivision"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Computer"
+            android:label="@string/title_activity_computer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Modern"
+            android:label="@string/title_activity_modern"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Radio"
+            android:label="@string/title_activity_radio"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Solar"
+            android:label="@string/title_activity_solar"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Space"
+            android:label="@string/title_activity_space"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Astronaut"
+            android:label="@string/title_activity_astronaut"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Heat"
+            android:label="@string/title_activity_heat"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Internet"
+            android:label="@string/title_activity_internet"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Benefits"
+            android:label="@string/title_activity_benefits"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Thefarmer"
+            android:label="@string/title_activity_thefarmer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Organicf"
+            android:label="@string/title_activity_organicf"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Pisciculture"
+            android:label="@string/title_activity_pisciculture"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Horticulture"
+            android:label="@string/title_activity_horticulture"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Poultryfarming"
+            android:label="@string/title_activity_poultryfarming"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Agriculture"
+            android:label="@string/title_activity_agriculture"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Pesticides"
+            android:label="@string/title_activity_pesticides"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Greenrevolution"
+            android:label="@string/title_activity_greenrevolution"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Roleoffarmer"
+            android:label="@string/title_activity_roleoffarmer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Autobiography"
+            android:label="@string/title_activity_autobiography"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Searchfromb" />
+        <activity
+            android:name=".Environment"
+            android:label="@string/title_activity_environment"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Enviropollu"
+            android:label="@string/title_activity_enviropollu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Airpollution"
+            android:label="@string/title_activity_airpollution"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".waterpollution"
+            android:label="@string/title_activity_waterpollution"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Soilpollution"
+            android:label="@string/title_activity_soilpollution"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Earth"
+            android:label="@string/title_activity_earth"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Nature"
+            android:label="@string/title_activity_nature"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Earthpollution"
+            android:label="@string/title_activity_earthpollution"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Biosphere"
+            android:label="@string/title_activity_biosphere"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Globalwarming"
+            android:label="@string/title_activity_globalwarming"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Searchfw" />
+        <activity
+            android:name=".Socialmedia"
+            android:label="@string/title_activity_socialmedia"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Whatsapp"
+            android:label="@string/title_activity_whatsapp"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Instagram"
+            android:label="@string/title_activity_instagram"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Twitter"
+            android:label="@string/title_activity_twitter"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Facebook"
+            android:label="@string/title_activity_facebook"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Google"
+            android:label="@string/title_activity_google"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Yahoo"
+            android:label="@string/title_activity_yahoo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Youtube"
+            android:label="@string/title_activity_youtube"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Email"
+            android:label="@string/title_activity_email"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".searchfwe" />
+        <activity
+            android:name=".Independenceday"
+            android:label="@string/title_activity_independenceday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Republicday"
+            android:label="@string/title_activity_republicday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Gandhijayanti"
+            android:label="@string/title_activity_gandhijayanti"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Worldhindiday"
+            android:label="@string/title_activity_worldhindiday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Armyday"
+            android:label="@string/title_activity_armyday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".valentineday"
+            android:label="@string/title_activity_valentineday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Nationalscienceday"
+            android:label="@string/title_activity_nationalscienceday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Worldtbday"
+            android:label="@string/title_activity_worldtbday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Worldhealthday"
+            android:label="@string/title_activity_worldhealthday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Earthday"
+            android:label="@string/title_activity_earthday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Nationalpanchayatiday"
+            android:label="@string/title_activity_nationalpanchayatiday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mothersday"
+            android:label="@string/title_activity_mothersday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Worldredcrossday"
+            android:label="@string/title_activity_worldredcrossday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Fathersday"
+            android:label="@string/title_activity_fathersday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Engineersday"
+            android:label="@string/title_activity_engineersday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Worldheartday"
+            android:label="@string/title_activity_worldheartday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Worldaidsday"
+            android:label="@string/title_activity_worldaidsday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Humanrightsday"
+            android:label="@string/title_activity_humanrightsday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Christmasday"
+            android:label="@string/title_activity_christmasday"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Searchfweb" />
+        <activity
+            android:name=".Diwali"
+            android:label="@string/title_activity_diwali"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Holi"
+            android:label="@string/title_activity_holi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Dussehra"
+            android:label="@string/title_activity_dussehra"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Durgapuja"
+            android:label="@string/title_activity_durgapuja"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Janmashtami"
+            android:label="@string/title_activity_janmashtami"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Ganeshchaturthi"
+            android:label="@string/title_activity_ganeshchaturthi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Gurupurab"
+            android:label="@string/title_activity_gurupurab"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Rakshabandhan"
+            android:label="@string/title_activity_rakshabandhan"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Eidulfitr"
+            android:label="@string/title_activity_eidulfitr"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Bihu"
+            android:label="@string/title_activity_bihu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Hemis"
+            android:label="@string/title_activity_hemis"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Pongal"
+            android:label="@string/title_activity_pongal"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Christmas"
+            android:label="@string/title_activity_christmas"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Easter"
+            android:label="@string/title_activity_easter"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Baisakhi"
+            android:label="@string/title_activity_baisakhi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Searchfrweb" />
+        <activity
+            android:name=".Business"
+            android:label="@string/title_activity_business"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Cottageindustry"
+            android:label="@string/title_activity_cottageindustry"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Lightindustry"
+            android:label="@string/title_activity_lightindustry"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Manufacturing"
+            android:label="@string/title_activity_manufacturing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Timberindustry"
+            android:label="@string/title_activity_timberindustry"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Pharmaceuticalindustry"
+            android:label="@string/title_activity_pharmaceuticalindustry"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Softwareindustry"
+            android:label="@string/title_activity_softwareindustry"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Technologyindustry"
+            android:label="@string/title_activity_technologyindustry"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Realestateindustry"
+            android:label="@string/title_activity_realestateindustry"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Filmindustry"
+            android:label="@string/title_activity_filmindustry"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Worldwidewave"
+            android:label="@string/title_activity_worldwidewave"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mining"
+            android:label="@string/title_activity_mining"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Industryrevolution"
+            android:label="@string/title_activity_industryrevolution"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Searchfromweb" />
+        <activity
+            android:name=".Mahatmagandhi"
+            android:label="@string/title_activity_mahatmagandhi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Subhashchandrabose"
+            android:label="@string/title_activity_subhashchandrabose"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Chandrashekharazad"
+            android:label="@string/title_activity_chandrashekharazad"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Jawaharlalnehru"
+            android:label="@string/title_activity_jawaharlalnehru"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Ranilakshmibai"
+            android:label="@string/title_activity_ranilakshmibai"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DrRajendraprasad"
+            android:label="@string/title_activity_dr_rajendraprasad"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Sardarvallabhaipatel"
+            android:label="@string/title_activity_sardarvallabhaipatel"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Mangalpandey"
+            android:label="@string/title_activity_mangalpandey"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Drbabasahebambedkar"
+            android:label="@string/title_activity_drbabasahebambedkar"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Sarojininaidu"
+            android:label="@string/title_activity_sarojininaidu"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tantiatope"
+            android:label="@string/title_activity_tantiatope"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Udhamsingh"
+            android:label="@string/title_activity_udhamsingh"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Balgangadhartilak"
+            android:label="@string/title_activity_balgangadhartilak"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Sukhdev"
+            android:label="@string/title_activity_sukhdev"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Anniebesant"
+            android:label="@string/title_activity_anniebesant"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Dadabhainaoroji"
+            android:label="@string/title_activity_dadabhainaoroji"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Bipinchandrapal"
+            android:label="@string/title_activity_bipinchandrapal"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Kmmunshi"
+            android:label="@string/title_activity_kmmunshi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Searchfromweb1"></activity>
+    </application>
+
+</manifest>

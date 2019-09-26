@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Christmasday"
+    tools:showIn="@layout/activity_christmasday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Christmas Essay 5 (300 words)
+
+Christmas is a big festival of joy and happiness. It is celebrated on the birth anniversary of the Jesus Christ (founder of the Christianity) faith every year on 25th of December in the winter season. It is observed as the Christmas Day to commemorate and give honour to the Jesus Christ. People enjoy the Christmas holiday all through the day by dancing, partying, singing and going outside the home for dinner. It is celebrated by the people of all religion, especially Christians. The wear new and colourful dress at this day and enjoy a lot. Everyone wishes each other by the quote of “Merry Christmas” and go to another’s house to exchange wishes and gifts.
+
+Christian people start lots of preparations on this occasion at least a month ago. At this day, houses, offices, churches, etc are cleaned; white washed and decorated well using paper flowers, natural flowers, sceneries, pictures, looking glasses, wall buntings, etc. Market also gets decorated to look attractive and we can see the market full of Christmas cards, gift items, sceneries, toys, etc. People enjoy decorating their houses with the Christmas tree in the centre of house. They load the Christmas tree with lots of gift items like chocolates, candies, balloons, dolls, birds, flowers, lights, etc to make it bright and beautiful.
+
+Christian people do pray to their God Jesus Christ, confess in front of God to remove their sins and sufferings, sing holy songs, and exchange lots of gifts among friends, relative, family members, neighbours, etc. They arrange a big feast including delicious dishes in the dinner which are served to all people. After feast everyone enjoy music, dance and sing at night. It is a festival of great fervour and rejoice which everyone enjoy all over the world"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

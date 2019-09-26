@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Kmmunshi"
+    tools:showIn="@layout/activity_kmmunshi">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="K. M. Munshi was a lawyer by profession. Before joining the Indian National Congress, he was drawn towards the revolutionary group He participated in the salt satyagraha and the Civil Disobedience Movement. In 1937, he was appointed Home Minister in Bombay.In 1940, he was arrested for offering individual satyagraha.He played a valuable role in conducting cases connected with the Quit India Movement.
+
+He was also elected to the Constituent Assembly. After independence, K. M. Munshi held several significant public offices. In 1948, be was appointed Agent-General of the Government of Hyderabad and was given the crucial respon­sibility of merging the state of Hyderabad with the Indian Union. In 1952, he served as Food Minister at the Centre. From 195 3 to 1958, he held the post of the Governor of Uttar Pradesh. In 1960, he joined the Swatantra Party.
+
+K. M. Munshi was a renowned writer educationist and social reformer. In 1938, he founded the Bharatiya Vidya Bhavan, a trust which runs several educational institutions and publishes books on Indian culture.His name is also associated with the Sahitya Samsad,Gujarati Sahitya Samsad and Hindi Sahitya Sarnmelan. He started a number of maga­zines and journals such as Bhargava,Gujarat, Social Welfare and the Bharatiya Vidya Bhavan's Journal. Among his note­worthy writings are I Follow the Mahatma, The creative Art of Life, Akhand Hindustan and Pilgrimage to Freedom."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

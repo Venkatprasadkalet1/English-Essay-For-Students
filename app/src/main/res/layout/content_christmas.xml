@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Christmas"
+    tools:showIn="@layout/activity_christmas">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Christmas Essay 6 (400 words)
+
+Christmas is the festival of great importance for the Christians however it is celebrated by the people of other religions also. It is celebrated every year with great joy, happiness and enthusiasm like other festivals throughout the world. It falls every year on 25th of December in the winter season. Christmas Day is celebrated on the anniversary of the Jesus Christ. On 25th of December, Jesus Christ was born to the Joseph (father) and Mary (mother) in the Bethlehem.
+
+All the houses and churches are cleaned, white washed and decorated with lots of colourful light, sceneries, candles, flowers, and other decorative things. Everyone get together (whether they are poor or rich) and enjoy this festival with lots of activities. People make a Christmas tree at this day in the mid of their home. They decorate it with electric lights, gifts items, balloons, colourful flowers, toys, green leaves and other materials. Christmas tree looks very attractive and beautiful. People invite their friends, relatives and neighbours to join the celebration in front of the Christmas tree. People get together, dance, sing, distribute gifts, and enjoy eating delicious dinner.
+
+People of Christian religion pray to the God. They confess in front of their Jesus Christ about their sins and sufferings. People sing holy songs in the praise of their Lord Jesus. Later they distribute Christmas gifts to their guests and children. There is a trend of giving Christmas greetings or other beautiful Christmas cards to the friends and relatives. Everyone involve in the great celebration of Christmas feast and eat delicious dinner with family members and friends. Children of the home wait for this day very eagerly as they get lots of gifts and chocolates. Christmas celebration also takes place in the schools and colleges a day before means on 24th of December when students go to school wearing Santa dress or Christmas cap.
+
+People enjoy this festival late night by dancing and singing in the party or in the malls and restaurants. People of Christian religion worship their God, Jesus Christ. It is considered that Jesus (the Son of God) was sent to people on the earth to save their lives and protect them from their sins and sadness. People of the Christian religion celebrate this festival of Christmas to remember the great works of the Jesus and give lots of love and respect. It is a public and religious holiday when almost all the government and non-government organizations become closed."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Internet"
+    tools:showIn="@layout/activity_internet">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Internet Essay 6 (400 words)
+
+Internet is a global network which connects millions of computers all over the world. It has become very simple and easy in accomplishing all day to day activities which were very time taking and hard to manage in those days. We cannot think our life without this great invention called internet. As everything has its pros and cons means both positive and negative effects, internet also has affected the human lives in both ways. Because of the internet, online communication has become very easy and simple. The mode of communication in those days were through letters which was very time taking and hard as one had to travel a long distance. But now, we just need to connect our internet to open some social networking websites and opening Gmail or other accounts (Yahoo, etc) to send messages within seconds.
+
+It has reduced the usage of paper and paper works to a great extent by making everything computerized in the offices (governmental or non-governmental), schools, colleges, educational institutions, training centres, NGOs, universities, shops, business, industries, railway, metro and many more. Using this internet we can get all the news time to time from all across the world from one place. It is very effective and efficient in gathering huge information whether required for references or activities on any topic within seconds. It has benefited the education, travel and business sectors to a great level. It has made easy access to the online public libraries, textbooks or other resources to find relevant topics.
+
+In the earlier time when people were without internet, they had to waste lots of time for any type of work like standing in the long queues and waiting for their number to get travel ticket. But in the modern time of internet, one can book train online in just few clicks and get travel ticket through printout or get a soft copy in his/her mobile. In the internet world, one does not need to travel a long distance for his/her meeting for business or other purposes. One can attend his/her meeting online from own office through the use of video calling, conferencing, Skype or using other tools. It helps in getting admission online in his/her desired school, college or universities, hiring highly skilled employees and teachers, business transactions, banking transactions, applying for driving license, money transfer, learning cooking recipes, bill payment, purchasing anything on free delivery and so many activities."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

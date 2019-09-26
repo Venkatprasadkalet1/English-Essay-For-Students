@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Roleoffarmer"
+    tools:showIn="@layout/activity_roleoffarmer">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Introduction
+
+In the beginning of the nation or it can be say that in the beginning of the civilization the farmer is the most and prestigious person who have come up with the lots of the facility for the survival in the world.
+
+Today in the cities or in the village or it is any type of the country’s corners we will get something to eat. We can eat the meat mostly five to six days but after that we must want the foods that are same up of the crops and that have the better figment. Farmer grows the crops by using the agriculture.
+
+By this effort of the agriculture they use to feed the entire humanity and by this they make our life satisfactorily that means whatever and which crops we want to eat we can.
+
+
+Daily life of Farmers
+
+The farmers of the India are the most hard worker farmer from all over the world. They are being always busy in the farming for the crops by working night and day. They use to work under the heat of the sunlight and also in the rain. they don’t have the fear of the any season but they have only the fear that their crops will grow good and fantastic.
+
+They use to wake-up early in the morning before the sun and they sleep after the set of the sun. They get best sleep because they do the most hardworking of the world that is the farming. They use to plough the land and in that they sows the seeds for the growth of the crops. By their mind the best crops is the gold for them.
+
+They haven’t any interest in the gold or the silver or the any types of the cosmetics. They grows the real gold that is the crops. Like the parents they do the the watch over the crops in the day as well as night. They become the guardians of the crops from the cattle that are straying.
+
+After some times when the crops becomes some big and convert into the plant and the crops start coming out from the plant the again start the guard against the thieves that are come to harvest the crops. When the crops get ready for the cutoff the they reaps the crops and took that home.
+
+They use to bring or carry the crops with the Bullock cart, which is main worker in his group. They also take care and did the attention about the Bullock cart. The wife and the children of the farmer get help him in all the activity which is possible for them.
+
+Financial condition of Farmer
+
+The farmer of the India are the poor and this poverty is famous in all over the world. That means every one is aware from this. The farmers of the India can not afford the meal or the food for two times of the day because of the poverty. They wear the clothes that are in the piece and that is not get suitable for his whole body.
+
+They are unable to give the education to his children and they can not fulfillment the need of their children. Their children are the such child which can not dream for the better life. Their parents are unable to give them the fine dress to the daughter and the son. His wife is the women who do the lots of the sacrifices for their families.
+
+She use nothing for her ornamental, because her husband can not afford that. She keep happy everyone and teach to be happy what ever she have. The wife of the farmer also use to work and hard work like the farmer. She do all the work which is of the home and she put off the shed of the cow.
+
+She make the dung of the cowshed for use of the making food. She will use that dung as the fuel in the month of the rainy season. The farmers of the India get acquainted by the person of the village that is by the villagers. He get harassed by the money lenders and the collectors of the tax of the land. By this he can not enjoy his own life which ever he have left.
+
+The farmers of the India do not demand for the resident that is most suitable for them. They get happy in the small hut also. In the room of the farmers they do not have the light also.
+Social life of FarmerSocial life of Farmer
+
+The Indian farmer celebrate all the social and cultural event in the very simple manner. They do not have such a money that they can afford the things that are use in the festivals of the socials and the cultural. Besides these he use to celebrate many festivals throughout the years like others.
+
+He arrange the wedding of his daughter and the son and he celebrate that. He also use to entertains his family and the neighbors by using his many efforts and doing lots of activity.
+Conclusionsave former
+
+In the India there are many of the farmers are living that are living the simple life. They do not have such the facility that they can complete their need. They enjoy the company with the nature. Day to day it comes the news that the farmers of the India are getting suicide.
+
+This is the main and most important matter that it should be stop. Why they are getting suicide? The peoples of the India must think about it. They can not afford the meals of the full day that is because of that they are not getting the proper price of their hard working.
+
+It is true that all the farmers are very truthful and hard worker. We should respect their work because whatever we eat that is because of them. They are depend on the god.
+The Indian government is introducing the many of the schemes that are benificial for the farmers.
+
+
+
+
+
+"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

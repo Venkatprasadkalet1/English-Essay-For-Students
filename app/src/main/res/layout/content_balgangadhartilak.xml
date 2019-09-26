@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Balgangadhartilak"
+    tools:showIn="@layout/activity_balgangadhartilak">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Essay on Bal Gangadhar Tilak
+Article shared by
+
+The one man who is known as “The Father of Indian Unrest” is “Lokmanya” Bal Gandhar Tilak. These two titles of Tilak have the different meanings. According to Britishers, he was the father of Indian unrest because he was the man who stood the Indian people for the first time against British Government and from that time the rest of British Government in India was gone and never came back.
+
+Tilak was the man who awaken the Indians about their rights and worst condition from where they had to live because of the British Raj. Tilak was strict against the rule of any other country or person over India.
+
+He declared, Swaraj (self rule) is my birth right and 1 must take it” His slogan was on the mouth of every Indian and before Gandhiji he was the first man which approach towards Indians was so deep, that is why he was called ‘The Father of Indian Unrest” According to Indians he was “Lokmanya” it means that he was a man who was honoured by the people of India.
+
+
+His approach towards the people was too deep and he was the first man who stood the people in front of British Raj. Tilak was born on July 23, 1856 at Ratanagiri, a small coastal town in a middle class family. He passed B.A. in first class. After Graduation in law he helped to found a school which laid emphasis on nationalism. He started newspapers “Kesari and “Maratha”. Both papers tried to teach Indians of their glorious past and remainded them to be self-reliant (Swadeshi)-
+
+After capturing political power in India the British Government damaged the financial structure of India. The British Government took the raw material from India and after manufacturing goods over their factories imposed these goods to Indian people and they had to bought them because the Indian industries was closed by the Britishers. For Britishers India became such a place from where they can grasp the raw material for their industries and then sale their manufacturing goods here.
+
+Tilak was very angry to saw this behaviour of British Government because by this England because richer and India became poorer. He tried to awake the Indian people and breathe life into the moribund nation through four mantras,
+
+
+
+(i) Buycott of foreign goods,
+
+(2) National Education,
+
+(3) Self- Government
+
+(4) Swadeshi or Self-reliance.
+
+
+
+He told the masses, “We have no arms, but there is no necessity. But our strong political weapon is boycott (of foreign goods). Organize your powers and then go to work so that they cannot refuse you what you demand”
+
+He wrote the articles on Nationalism in his newspapers which create tensions and troubles for British Government because of this he sent to Jail in 1908 for 6 years. In this period of 6 years he wrote his famous commentary on Bhagwad- Gita in Mandalay Jail. He established “Poona Home rule league” and with Irish lady Annie Besant’s “India Home-rule league”, Tilak started Home-rule movement which created a lot of troubles for British Government.
+
+When he returned from jail in 1914 he was the unquestioned leader of India and till his death on August 1, 1920. He was a man who devoted his whole life to Nation. He wrote two books “Geeta Rahasya” and “Arctic Home of Aryas”
+
+He also started two festivals in Maharashtra because of these festivals he tried to collect people and motivate them towards the freedom struggle of our country. He started Ganpati Jayanti” and “Shivaji Jayanti” in Maharashtra and very soon both these festivals became very popular in Maharashtra.
+
+Both these festivals celebrated with joy and happiness till today in Maharashtra and many other parts of our country. So Tilak did everything to brae the sleep of Indians and motivate them towards freedom struggle. He definitely a greatest son of our Motherland."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

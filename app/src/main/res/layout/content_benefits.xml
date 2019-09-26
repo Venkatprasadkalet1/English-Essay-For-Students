@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Benefits"
+    tools:showIn="@layout/activity_benefits">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="The study of science fires pupils curiosity about phenomena in the world around them and offers opportunities to find explanations. It engages learners at many levels, linking direct practical experience with scientific ideas. Experimentation and modelling are used to develop and evaluate explanations, encouraging critical and creative thought. Pupils learn how knowledge and understanding in science are rooted in evidence.
+
+They discover how scientific ideas contribute to technological change - affecting industry, business and medicine and improving quality of life. They trace the development of science worldwide and recognise its cultural significance. They learn to question and discuss issues that may affect their own lives, the directions of societies and the future of the world.
+
+Science is an exciting and engaging subject which has the potential to inspire interest in the physical world and stimulate the creative and enquiring qualities necessary to develop a problem-solving mind. Through the delivery of science pupils have the opportunity to develop as independent learners utilising personal learning and thinking skills and have opportunities to practise and develop functional skills in literacy, numeracy and ICT. However, not only can it be an attractive area of the curriculum for individual pupils, but the UK economy requires a supply of well-trained scientists.
+
+Practical activities provide opportunities for students to explore the chemistry of materials, and observe patterns in reactions. They can also be used to demonstrate the applications of chemistry, increasing its relevance to students. Practical work is vital in the development of students' skills of manipulating and handling apparatus and data, working with others, and scienti¬c enquiry.
+
+They can also provide opportunities for students to collect their own data and use this to apply and develop mathematical skills. Chemistry demonstrations should be exciting and stimulating and some of the most memorable experiences that students will take from science.
+
+What is science? Science is a way of knowing, a method of learning about nature. Rooted in common sense, its formal, systematic method is called scientific inquiry. In doing scientific inquiry, scientists use a variety of empirical approaches, techniques, and procedures to collect data from nature, examine and analyse that data, and construct knowledge based on it. This knowledge relates to living organisms, non-living matter, energy, and events that occur naturally.
+
+Education in science serves three purposes. First, it prepares students to study science at higher levels of education. Second, it prepares students to enter the workforce, pursue occupations, and take up careers. Third, it prepares them to become more scientifically literate citizens. The relative priority and alignment of these three varies extensively across countries and cultures. Regardless of the setting, a sound education in science emphasizes that science is both a way of knowing and a body of knowledge; it also emphasizes integrating scientific inquiry with scientific knowledge.
+
+Learning relies on a complex synthesis of biological maturation, prior knowledge and experience, reasoning ability, and instruction. Students' learning capabilities at any age depend heavily on their prior knowledge and experiences, which can help or hinder them from learning something new-or have no effect. This extensive range of knowledge and experience stems from learners' socioeconomic status, gender, ethnicity, culture, native language, and other factors. Different learners require different kinds of explicit instructional support and guidance to understand and do scientific inquiry and to understand the body of scientific knowledge. For example, scientific inquiry occurs in a social setting, where scientists collect, analyse, discuss, and evaluate evidence to test hypotheses and develop scientific explanations together. This is scientific argument. Children's daily experiences with argument are quite different; children resolve arguments based on authority, social status, and physical size. Science teachers must discern the roots of students' struggles to learn and simultaneously provide instruction that is challenging but not overwhelming. Asking questions during instruction is an effective strategy for assessing students' difficulties.
+
+Practical applications-Effective science teachers use these techniques in response to the complexity of learning:
+
+• Give a pre-test before starting a unit of instruction; use the results to learn what students know and do not know, and to plan appropriate lessons.
+
+• Use concrete, manipulative materials and familiar events to help students directly experience scientific phenomena and to encourage their active construction of abstract concepts.
+
+Ask a blend of high-level, low-level, open-ended, and closed ended questions to activate students' thinking.
+
+• Wait at least three seconds after asking a question before rephrasing it.
+
+• Wait at least three seconds following a student's response to a question before continuing.
+
+• Delay including abstract science concepts with young children if these concepts cannot be introduced with concrete materials and familiar experiences.
+
+• Aim the level of instruction slightly beyond the capabilities of individual learners but within the capabilities of groups of learners.
+
+Learning is a purposeful, internal, mental process. Teachers can monitor learning by observing and gathering data on changes in students' actual behaviour or potential performance. Motivation drives the process of starting and continuing learning. Relevance refers to activities that give students satisfaction and meet their needs, including the chance to achieve personal learning goals. In order to capture students' attention and activate their motivation to learn, teachers must consider the relevance of each topic. Then they can connect science with students' interests, personal lives, societal issues, cultural backgrounds, and other school subjects. Cognitive learning theory emphasizes the importance of learning something new by relating it to things that are already meaningful and familiar. Science teachers must remember that their own intrinsic motivation to learn science is likely not shared by many of their students, whose motivation is more likely activated instrumentally, by connecting science to things that are already familiar and important to them.
+
+Practical applications- Effective science teachers use these techniques to connect content with student interests:
+
+• Connect science concepts and instruction explicitly to learners'personal experiences.
+
+• Use specific examples, analogies, and metaphors.
+
+• Plan lessons to emphasize themes of science, technology, andsociety.
+
+• Have students organize data into diagrams, tables and graphs.
+
+• Have students use data in tables and graphs (bar, line, histogram) to identify patterns and make predictions.
+
+• Have students use mathematical operations, fractions, decimals and percentages to calculate results of investigations.
+
+•Connect science content with students' interests and personal lives, with societal issues, and with other school subjects.
+
+• Have students read passages in science texts and trade books and identify major and minor ideas, summarize what they have read, and make predictions.
+
+• Have students develop and role play scenes in which they use scientific thinking or play the roles of scientists"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

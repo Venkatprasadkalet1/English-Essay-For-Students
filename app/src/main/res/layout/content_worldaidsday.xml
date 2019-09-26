@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Worldaidsday"
+    tools:showIn="@layout/activity_worldaidsday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Since 1988, the World AIDS Day is held on December 1 every year. It is an international day to raise awareness about HIV and AIDS around the world. On this day, besides raising awareness of the AIDS pandemic caused by the spread of HIV infection, memorials are held to honor persons who have died from HIV/AIDS. Government and health officials also observe the event, often with speeches or forums on the AIDS topics. Since 1995, the President of the United States has made an official proclamation on World AIDS Day. Governments of other nations have followed suit and issued similar announcements.
+
+Since 1981, AIDS has killed more than 25 million people. At present an estimated 33.2 million people worldwide live with HIV, making it one of the most destructive epidemics in recorded history. Despite recent, improved access to antiretroviral treatment and care in many regions of the world, the AIDS epidemic claimed an estimated 2 million lives in 2007, of which about 270,000 were children.
+
+World AIDS Day was first conceived in August 1987 by James W. Bunn and Thomas Netter, two public information officers for the Global Programme on AIDS (now known as UNAIDS) at the World Health Organization in Geneva, Switzerland. The date of December 1 was suggested to ensure coverage by western news media, something vital for its success. Since 1988 was an election year in the U.S., it was assumed that media outlets would be weary of their post-election coverage and eager to find a fresh story to cover. It was felt that December 1 was long enough after the election and soon enough before the Christmas holidays and thus perfect timing for World AIDS Day.
+
+The World AIDS Day is now arguably the longest-running disease awareness and prevention initiative of its kind in the history of public health. The planning and promotion of World AIDS day was taken over by the joint United Nations Programme on HIV/AIDS (UNAIDS), which became operational in 1996. Subsequently in 1997, UN AIDS also created the World AIDS campaign to focus on year-round communications, prevention and education. The World AIDS Campaign became an independent organization in 2004.
+
+From its inception until 2004, Global AIDS Programme/UN AIDS spearheaded the World AIDS Day campaign, choosing annual themes in consultation with other global health organizations. In its first two years, the theme of World AIDS Day focused on children and young people. These themes were strongly criticized at the time for ignoring the fact that people of all ages may become infected with HIV and suffer from AIDS. But the themes drew attention to the HIV/AIDS epidemic, helped alleviate some of the stigma surrounding the disease, and helped boost recognition of the problem as a family disease.
+
+Currently, each year's World AIDS Day theme is chosen by the World AIDS Campaign's Global Steering Committee after extensive consultation with people, organizations and government agencies involved in the prevention and treatment of HIV/AIDS. For each World AIDS Day from 2005 through 2010, the theme is Stop AIDS. Keep the Promise. with a yearly sub-theme.
+
+        This overarching theme was designed to encourage political leaders to keep their commitment to achieve universal access to HIV/AIDS prevention, treatment, care, and support by the year 2010. This theme is not specific to World AIDS Day, but is used year-round in World AIDS Campaign's efforts to highlight HIV/AIDS awareness within the context of other major global events including the G8 and G20 Summits. World AIDS Campaign also conducts in-country campaigns throughout the world, like the Student Stop AIDS Campaign, an infection-awareness campaign targeting young people throughout the UK.
+
+        World AIDS Day Themes in different years since 1988 were as follows: 1988- Communication, 1989-Youth, 1990-Women and AIDS, 1991-Sharing the Challenge, 1992-Community Commitment, 1993-Act, 1994-AIDS and the Family, 1995-Shared Rights, Shared Responsibilities, and 1996-One World. One Hope, 1997-Children Living in a World with AIDS, 1998-Force for Change: World AIDS Campaign With Young
+
+        People, 1999-Listen, Learn, Live: World AIDS Campaign with Children and Young People, 2000-AIDS: Men Make a Difference, 2001-1 care. Do you, 2002-Stigma and Discrimination, 2003-Stigma and Discrimination, 2004-Women, Girls, HIV and AIDS, 2005-Stop AIDS. Keep the Promise, 2006-Stop AIDS. Keep the Promise-Accountability, 2007-Stop AIDS. Keep the Promise-Leadership, 2008-Stop AIDS. Keep the Promise-Lead-Empower-Deliver, 2009-Universal Access and Human Rights.
+
+        Each year, Popes John Paul II and Benedict XVI have released a greeting message for patients and doctors on World AIDS Day."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

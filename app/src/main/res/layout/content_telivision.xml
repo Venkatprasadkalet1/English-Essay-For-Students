@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Telivision"
+    tools:showIn="@layout/activity_telivision">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Introduction
+
+Television is one of the most important inventions of the twentieth century. Today it is as popular as a radio. Television is a good and healthy source of both entertainment and education.
+
+The world seems to have become small because of television. We can see with our eyes the events that take place hundred and thousands of kilometers away from us. Thus, television is a powerful medium of mass communication.
+Brief History in India
+
+Television started in India in September 1959. The first programs presented on television were meant for schools and rural area. The television set up was delinked from the All-India Radio in April, 1976. The television set up was called Doordarshan. The Ninth Asian Games were held in New Delhi in November, 1982. Doordarshan started telecasting some programs in colour. At present our colour television has a special charm for the public.
+Uses of Television
+
+Television is useful for a developing country like India. We depend upon agriculture. Our farmers are not educated. They do not know the scientific methods of farming. Television is helpful in this field. It educates our farmers. Thus it may play an important part in building our economy.
+
+The population of our country is rising very fast. We can use our television to show the advantages of a small family. People all over the country can be educated about family planning schemes. Besides, television can be used for the spread of education.
+
+The aim of our television programs is to promote national integration. India is a very big country. It is a land of different religions, cultures and languages. Television can bring about the cultural unity of the country. It can promote national integration. We can develop international understanding through television programs.
+
+One of the chief aims of television is to give us pleasure. Many programs on television are meant for our entertainment. Sometimes games and sports are televised.
+Conclusion
+
+Television is very important for us. Its prices have also come down. Now people are after colour television. Many of us do not like the black and white set. Television programs are also coming up to the mark. "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

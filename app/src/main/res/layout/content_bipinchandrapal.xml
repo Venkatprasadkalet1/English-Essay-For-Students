@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Bipinchandrapal"
+    tools:showIn="@layout/activity_bipinchandrapal">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Bipin Chandra Pal was born on November 7, 1858 in village Poil in Sylhet district, which now lies in Bangladesh. Bipin Chandra was a patriot, an orator, a teacher, preacher, writer and critic, and the chief architect of the Bengal Renais­sance movement. He was also a prominent leader of the Indian nationalist movement. A born publicist and a rebel, he joined the Brahmo Samaj very early in life and led protests against social evils, regardless of the fear of being denounced by his near and dear ones. He stopped believing in the caste system when he was only fourteen, and later on married a widow of a higher caste. He expressed support to the Age of Consent Bill of 1891. Even during his political career he was ready to go to all extremes when it came to conscience or conviction.
+
+Though an average student, Bipin Chandra was an avid reader and amassed great literary competence. He started the weekly Paridaashak when he was only 22 years old. His journalistic career saw him in the editorial staff of the Bengal Public Opinion, Calcutta, as the editor of the Tribune in Lahore from 1887-88, as founder editor of the English weekly, India in 1901, and as the founder editor of the English daily Bande Mataram in 1906, which was later banned by the government.
+
+He also published the English weekly Swaraj in London during his exile in 1908-11, founded the English monthly Hindu Review in 1912, edited the daily Independent and the weekly Democrat from 1919 to 1920 and the Bengali in 1924, 25. He also regularly contributed to the Modern Review, the Amrita Bazaar Patrika and the Statesman.
+
+Called as  by Aurobindo, Bipin Chandra strongly advocated passive resistance, boycott of English goods, cessation of all associations with the foreign government and promotion of national edu­cation. A fierce and confident orator, his speeches influenced thousands of men and women during 1905-07 of the Swadeshi Movement. Long before complete independence was made its goal by the Congress, he was preaching it consistently. He opposed centralised class rule and wanted to establish a federal Indian republic, each of whose provinces, districts and villages would enjoy autonomy. His idea of patriotism and freedom combined both personal and national freedom.
+
+A lover of truth and freedom, Bipin Chandra was vi­ciously against hypocrisy. A serious political, social, philosophical and religious thinker, he was also a gifted stylist in the field of literature. His book, The New Economic Menace of India, demanded increased wages and shorter work-hours for the Indian labourers. His concern for the poor led him to fight for the cause of the Assam tea-garden labourers during the last quarter of the 19th century. He warned against economic drain of India by the British. Bipin Chandra died in 1932."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

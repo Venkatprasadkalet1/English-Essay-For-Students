@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Janmashtami"
+    tools:showIn="@layout/activity_janmashtami">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Janmashtami is a Hindu festival celebrating the birth of Krishna. Janmashtami is celebrated as the birthday of Lord Sri Krishna.
+
+Krishna Janmashtami is also known as Sri Krishna Jayanti, Krishnashtami, Gokulashtami and sometimes simply as Janmashtami. Hindus observed this festival to celebrate the birthday of their beloved God Sri Krishna. The birth of Lord Krishna marks the end of inhumanity and cruelty over mankind. Krishna is a symbol of righteousness. Sri Krishna was born at mid-night of this day. Krishna Janmashtami is observed on the Ashtamitithi, the eighth day of the dark half or Krishna Paksha of the month of Shraavana. He is considered as an avatar of the God Vishnu. The day is celebrated with great zeal and devotion. The Lord Krishna devotees observe fast for the entire day and night, worshipping him.  Temples of Sri Krishna are beautifully decorated. Thousands of Hindu men and women wear new clothes and gather in these temples to celebrate the birthday of their beloved God. The priest chants mantras and worship Lord Sri Krishna. Some temples also conduct readings of the Hindu religious scripture Bhagavad Gita. Religious plays or Raslilas are performed to recreate events from the life of Lord Krishna. Janmashtami is one such festival that is celebrated equally in North and South India. Different parts of the country celebrate the festival differently.
+
+Janmaashtami or Gokulashtami, popularly known in Mumbai and Pune as DahiHandi, is celebrated as an event which involves making a human pyramid and breaking an earthen pot (handi) filled with buttermilk (dahi), which is tied at a convenient height.
+
+The town of Dwarka in Gujarat which is Krishna’s own land witnesses hordes of visitors gathering here for celebrations.Places in Uttar Pradesh that are associated with Krishna’s childhood, such as Mathura, Gokul and Vrindavan, attract visitors from all over India, who go there to participate in the festival celebrations.
+
+Krishnashtami brings much joy and feeling of unity.The festival is celebrated with zeal and rejoicings all over the country and in various other parts of the world wherever there exist Hindu societies."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

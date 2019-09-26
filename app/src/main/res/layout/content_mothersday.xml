@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Mothersday"
+    tools:showIn="@layout/activity_mothersday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Our mothers are like a security blanket to us because she saves us from all problems. She never regards her own problems and listens to us all time. In order to give her respect, second Sunday of May month has been dedicated for her to celebrate the mother’s day. This event is of great importance to us and our mothers. At this day we should keep our mothers happy and never make her sad. We should always obey her and do works properly. She always wants to make us a good human being in the life.
+
+A big programme is organized in our school every year on mother’s day to celebrate it conjointly. Our teachers help us in getting prepared for the mother’s day occasion. We learn lots of poem, rhyme, essay, speech, conversation, etc for the celebration of this occasion. We are really blessed by the God with a caring and loving mother. Without mothers our lives are nothing. We are so lucky as we have mother. We give lots of special gifts to our mother and she gives us lots of love and care. Out teachers give us an invitation card to invite our mother at school and be the glory of the occasion.
+
+Mothers do lots of activities in the classroom like dancing, singing, poem recitation, speech, etc for our happiness. We too take part in the celebration and show our talent (such as poem recitation, essay writing, speech, dance, singing, etc) in front of the mother and teacher. Our mothers bring lot of delicious dishes with them to the school. At the end of the celebration, we all enjoy eating those delicious dishes together with our teachers and mothers. We are served with variety of dishes by our mothers.
+
+Our mothers are very special. Even after being tired she always smiles for us. She tells us different poems and stories while sleeping in the night. She helps us in preparing our project works and home works and helps us during exam time. She takes care of our uniform and school dress. She teaches us to eat anything only after proper hand wash with soap and water. She teaches us good manners, etiquettes, morality, humanity and helping others always in the life. She takes care of my father, grandparents and my small sister. We all too love her too much and take her outside weekly with all family members."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

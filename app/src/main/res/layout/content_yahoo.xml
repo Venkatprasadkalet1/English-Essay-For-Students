@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Yahoo"
+    tools:showIn="@layout/activity_yahoo">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Yahoo! is a web services provider headquartered in Sunnyvale, California and wholly owned by Verizon Communications through Oath Inc..[8][9] The original Yahoo! company was founded by Jerry Yang and David Filo in January 1994 and was incorporated on March 2, 1995. Yahoo was one of the pioneers of the early Internet era in the 1990s.
+
+It was globally known for its Web portal, search engine Yahoo! Search, and related services, including Yahoo! Directory, Yahoo! Mail, Yahoo! News, Yahoo! Finance, Yahoo! Groups, Yahoo! Answers, advertising, online mapping, video sharing, fantasy sports, and its social media website. At its height it was one of the most popular sites in the United States. According to third-party web analytics providers Alexa and SimilarWeb, Yahoo! was the most widely read news and media website – with over 7 billion views per month – ranking as the sixth-most-visited website globally in 2016.
+
+Once the most popular website in the U.S., Yahoo slowly declined, starting in the late 2000s,[16] and in 2017 Verizon Communications acquired most of Yahoo's Internet business for $4.48 billion,[17][18][19] excluding its stakes in Alibaba Group and Yahoo! Japan which were transferred to Yahoo's successor company Altaba."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

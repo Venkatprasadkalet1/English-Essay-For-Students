@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".The_Bullock"
+    tools:showIn="@layout/activity_the__bullock">
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="What animal is a Bullock?
+An ox (plural oxen), also known as a bullock in Australia and India, is a bovine trained as a draft animal. Oxen are commonly castrated adult male cattle; castration makes the animals easier to control. Cows (adult females) or bulls (intact males) may also be used in some areas.
+What is the difference between a bull and a Bullock?
+The female counterpart to a bull is a cow, while a male of the species who has been castrated is a steer, ox or bullock, although in North America this last term refers to a young bull, and in Australia to a draught animal.Why is a bull so aggressive?
+Because bulls are herd animals and naturally social, the isolation they face prior to an even can also contribute to their aggression. They are alone in the ring surrounded by humans, who end up essentially harassing the bull. In its natural setting in the presence of other cattle, bulls show less aggression.
+Do all bulls have udders?
+Cows have udders; bulls have scrotum. Steers will not have testes like bulls. Heifers have teats but no visible udder like cows do. Also, don't rely on the color of a cow's skin to determine if it's a bull or a cow."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

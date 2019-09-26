@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Twitter"
+    tools:showIn="@layout/activity_twitter">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Twitter is a social networking and microblogging service. Users use mobile phones or computers to send and to read messages, called . Tweets can be up to 140 characters long. They appear on the user's profile page. Tweets can usually be read by anyone, but senders can also keep messages private. Private tweets only go to their list of friends. Users may subscribe to tweets from other people. This is called following, and subscribers are known as followers. As of late 2009, users can also follow lists of authors.[4][5]
+
+All users can send and receive tweets using the Twitter website. They can also use other applications that work with Twitter on smartphones. Twitter by Short Message Service (SMS) is available in certain countries.[6] Using Twitter is free, but sending or getting tweets by SMS may cost money. The website is based in San Francisco, California. Twitter also has servers and offices in San Antonio, Texas and Boston, Massachusetts, and soon in Salt Lake City, Utah.
+
+Twitter has become very popular worldwide since Jack Dorsey created it in 2006. It now has more than 100 million users.
+
+Twitter is on online news and social networking site where people communicate in short messages called tweets. Tweeting is sending short messages to anyone who follows you on Twitter, with the hope that your messages are useful and interesting to someone in your audience. Another description of Twitter and tweeting might be microblogging.
+
+Some people also use Twitter to discover interesting people and companies online and to follow their tweets for as long as they are interesting.
+Why Is Twitter So Popular? Why Do Millions of People Follow Others?
+
+In addition to its relative novelty, Twitter's big appeal is how rapid and scan-friendly it is: you can track hundreds of interesting twitter users, and read their content with a glance. This is is ideal for our modern attention-deficit world.
+
+Twitter employs a purposeful message size restriction to keep things scan-friendly: every microblog 'tweet' entry is limited to 280 characters or less. This size cap promotes the focused and clever use of language, which makes tweets very easy to scan, and also very challenging to write well. This size restriction has really made Twitter a popular social tool.
+How Does Twitter Work?
+
+Twitter is very simple to use as broadcaster or receiver. You join with a free account and Twitter name. Then you send broadcasts daily, or even hourly. Go to the 'What's Happening' box, type 280 characters or less, and click 'Tweet'. You will most likely include some kind of hyperlink.
+
+To receive Twitter feeds, you simply find someone interesting (celebrities included), and 'follow' them to subscribe to their tweet microblogs. Once a person becomes uninteresting to you, you simply 'unfollow' them.
+
+You then choose to read your daily Twitter feeds through any of various Twitter readers.
+
+Twitter is that simple.
+Why Do People Tweet?
+
+People send tweets for all sorts of reasons: vanity, attention, shameless self-promotion of their web pages, boredom. The great majority of tweeters do this microblogging as a recreational thing, a chance to shout out to the world and revel in how many people choose to read your stuff.
+
+But there is a growing number of Twitter users who send out some really useful content. And that's the real value of Twitter: it provides a stream of quick updates from friends, family, scholars, news journalists, and experts. It empowers people to become amateur journalists of life, describing and sharing something that they found interesting about their day.
+
+Yes, that means there is a lot of drivel on Twitter. But at the same time, there is a growing base of really useful news and knowledge content on Twitter. You'll need to decide for yourself which content is worth following there.
+So Twitter Is a Form of Amateur News Reporting?
+
+Yes, that is one aspect of Twitter. Among other things, Twitter is a way to learn about the world through another person's eyes.
+
+Tweets from people in Thailand as their cities become flooded, tweets from your soldier cousin in Afghanistan who describes his war experiences, tweets from your traveling sister in Europe who shares her daily discoveries online, tweets from a rugby friend at the Rugby World Cup. These microbloggers are all mini-journalists in their own way and Twitter lets them send you a constant stream of updates right from their laptops and smartphones.
+People Use Twitter as a Marketing Tool?
+
+Yes, absolutely. Thousands of people advertise their recruiting services, their consulting businesses, their retail stores by using Twitter. And it does work.
+
+The modern internet-savvy user is tired of a television advertisement. People today prefer advertising that is faster, less intrusive, and can be turned on or off at will. Twitter is exactly that. If you learn how the nuances of tweeting work, you can get good advertising results by using Twitter.
+But Isn't Twitter a Social Messaging Tool?
+
+Yes, Twitter is social media, absolutely. But it's more than just instant messaging. Twitter is about discovering interesting people around the world. It can also be about building a following of people who are interested in you and your work/hobbies and then providing those followers with some kind of knowledge value every day.
+
+Whether you are a hardcore scuba diver who wants to share your Caribbean adventures with other divers, or are Ashton Kutcher entertaining your personal fans: Twitter is a way to maintain a low-maintenance social connection with others, and maybe influence other people in a small way.
+Why Do Celebrities Like Using Twitter?
+
+Twitter has become one of the most used social media platforms because it is both personal and rapid. Celebrities use Twitter to build a more personal connection with their fans.
+
+Katy Perry, Ellen DeGeneres, even President Trump are some famous Twitter users. Their daily updates foster a sense of connectedness with their followers, which is powerful for advertising purposes, and also quite compelling and motivating for the people following the celebs.
+So Twitter Is Many Different Things, Then?
+
+Yes, Twitter is a blend of instant messaging, blogging, and texting, but with brief content and a very broad audience. If you fancy yourself a bit of a writer with something to say, then Twitter is definitely a channel worth exploring. If you don't like to write but are curious about a celebrity, a particular hobby topic, or even a long-lost cousin, then Twitter is one way to connect with that person or topic.
+
+Try Twitter for a couple weeks, and decide for yourself if you like it.
+ "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

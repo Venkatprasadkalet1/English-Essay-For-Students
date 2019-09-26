@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Success"
+    tools:showIn="@layout/activity_success">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Free sample essay on How to Achieve Success. Everybody wants to succeed in life. For some success means achieving whatever they desire or dream. For many it is the name, fame and social position. Whatever be the meaning of success, it is the success which makes a man immortal.
+
+All great men have been successful. They are remembered for their spectacular achievements. But it is certain that success comes to those who are sincere, hardworking, dedicated and committed to their goals.
+
+Success has been man’s greatest stimulus. It is very important for all. Success has great effect on life. It brings pleasure and pride. It gives a sense of fulfillment. It means all around development. Everybody aspires to be successful in life. But success comes to those who have a proper strategy, planning, vision and stamina. A proper and timely application of all these things is bound to bear fruit. One cannot be successful without cultivating certain basic things in life. It is very difficult to set out a journey without knowing one’s goals and destinations. Clarity of the objective is a must to succeed in life. A focused approach with proper planning is certain to bring success. Indecision and insincerity are big hindrance on the path to success.
+
+
+
+First deserve then desire is a well-known maxim. It is the move which decides the future. One should have the capability, capacity and resources to turn one’s dreams into reality. Mere desire cannot bring your success. The desire should be weighed against factors like capability and resources. This is the basic requirement of success. The next important thing is the eagerness, earnestness and the urge to be successful. It is the driving force which decides the success. It is the first step of the ladder of success.
+
+One needs to pursue one’s goals with all his earnestness and passion. One should be always in high spirit. He should hold his vocation and calling in high esteem. Lack of such spirit leads to inferiority complex which is a big stumbling block on the path to success. Time is also a deciding factor. Timely action bears the desired fruit. Time once lost can never be regained. Time is opportunity, so grab the time with all the promptness and activity. Delays have dangerous consequences. Rest is the rust of life. Only the punctual and committed have succeeded in life. Life of great men is examples for this. They had all these ingredients in abundance which helped them rose to the peak of success.
+
+Hard labour is one of the basic pre-requisites of success. There is no substitute to hard labour. It alone can take one to the peak of success. Every success has a ratio of five per cent inspiration and ninety-five per cent perspiration. It is the patience, persistence and perseverance which play decisive role in success. Failures are the pillars of success.
+
+
+They point to the drawbacks which need to be removed. The success of all the great men in the world bears testimony to the fact. Napoleon is quoted for his dynamic view that ‘the word impossible can be found only in the dictionary of the fool’. This has the message that we should never lose heart in the face of failures. The shirkers are doomed to fail everywhere in life. Those who believe in hard labour will never seek solace in favours and fortune.
+
+Thus, success is the outcome of various combined factors. Lack of any one of them can reverse the impact."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

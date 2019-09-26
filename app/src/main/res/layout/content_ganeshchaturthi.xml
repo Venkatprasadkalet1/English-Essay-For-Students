@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Ganeshchaturthi"
+    tools:showIn="@layout/activity_ganeshchaturthi">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Ganesh Chaturthi Festival Essay 6 (400 words)
+
+People worship God Ganesha (Vigneshwara) while celebrating the Ganesh Chaturthi. Ganesha is a most popular deity in the Hinduism Who is worshipped by each member of the family. He is worshipped by the people always before starting any new work in any field. This festival is especially celebrated in the state of Maharashtra however now-a-days started celebrating in almost all states. It is a most important festival of Hindu religion. People worship the God of knowledge and prosperity on Ganesha Chaturthi with full devotion and faith.
+
+People belief that Ganesha comes every year with lots happiness and prosperity and goes after removing all the sufferings. Devotees do variety of preparations at this festival to make Ganesha happy. This is celebrated as the birth anniversary of the Ganesha to welcome and honour Him. This festival starts on Chaturthi in the Shukla Paksha in the month of Bhadrapada (August or September) and ends on 11th day on Anant Chaturdashi. Worshipping Ganesha is of great importance in Hinduism. It is believed that one who worships Him with complete devotion and faith would be blessed with happiness, knowledge, wealth and long life.
+
+People take bath in the early morning on the day of Ganesha Chaturthi, wear clean clothes and worship God. They offer many things and pray to God by chanting mantras, aarti song, and devotional songs and perform other rituals of Hindu religion. Earlier, this festival was celebrated only in some families. Later it was started celebrating as a festival with the ritual of idol installation and idol immersion to make a big occasion as well as get free from sufferings. It was started as a festival by the Lokmanya Tilak (a social reformer, Indian nationalist and freedom fighter) in 1893. At that time he made a ritual of worshipping Ganesha to protect Indians against British rule.
+
+Now-a-days, Ganesha Chaturthi is observed as a National Festival to remove the inequality among people of Brahmins and non-Brahmins. Lord Ganesha is known by various names some of are like Ekadanta, God of limitless powers, Heramba (obstacles remover), Lambodara, Vinayaka, God of Gods, God of wisdom, God of wealth and prosperity and many more. People see off the Ganesha on 11th day (Anant chaturdashi) with complete Hindu ritual of Ganesha Visarjan. They pray to God to come back again in next year with lots of blessings."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

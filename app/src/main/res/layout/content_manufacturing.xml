@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Manufacturing"
+    tools:showIn="@layout/activity_manufacturing">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Manufacturing is a secondary economic activity. It is responsible for the economic strength of a country.
+
+Industrial development is regarded essential for higher incomes, eradication of unemployment and poverty. Location of industries is influenced by several factors, particularly the cost, availability of labour and raw materials.
+
+Industries are classified on several bases like raw materials, ownership and capital. Industrial development has increased our share in world trade. Many challenges like international competition, synthetic substitutes, environmental problems, energy supply and lack of much domestic demand like in the case of iron and steel have led to slow growth of some sectors of the industry.
+
+On the other hand, other industries like IT have experienced a quantum jump in less than 15 years.
+
+As a result of liberalisation and globalisation, Foreign Direct Investment (FDI) brought in new technology and aligned the Indian industry with global developments. Industries cause pollution of land, water, air, noise resulting in degradation of the environment."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

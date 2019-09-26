@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cool"
+    tools:context="com.actionbar.venkat.thor.MainActivity6">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/button101"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back8"
+            android:text="diwali" />
+
+        <Button
+            android:id="@+id/button102"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttom_back2"
+            android:text="holi" />
+
+        <Button
+            android:id="@+id/button103"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back8"
+            android:text="dussehra" />
+
+        <Button
+            android:id="@+id/button104"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttom_back2"
+            android:text="durga puja" />
+
+        <Button
+            android:id="@+id/button105"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back8"
+            android:text="janmashtmi" />
+
+        <Button
+            android:id="@+id/button106"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttom_back2"
+            android:text="ganesh chaturthi" />
+
+        <Button
+            android:id="@+id/button107"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back8"
+            android:text="gurupurab" />
+
+        <Button
+            android:id="@+id/button108"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttom_back2"
+            android:text="rakshabandhan" />
+
+        <Button
+            android:id="@+id/button109"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back8"
+            android:text="eid ul fitr" />
+
+        <Button
+            android:id="@+id/button110"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttom_back2"
+            android:text="bihu" />
+
+        <Button
+            android:id="@+id/button111"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back8"
+            android:text="hemis" />
+
+        <Button
+            android:id="@+id/button112"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttom_back2"
+            android:text="pongal" />
+
+        <Button
+            android:id="@+id/button113"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back8"
+            android:text="christmas" />
+
+        <Button
+            android:id="@+id/button114"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttom_back2"
+            android:text="easter" />
+
+        <Button
+            android:id="@+id/button115"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back8"
+            android:text="baisakhi" />
+
+        <Button
+            android:id="@+id/button116"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttom_back2"
+            android:text="search from web" />
+    </LinearLayout>
+</ScrollView>

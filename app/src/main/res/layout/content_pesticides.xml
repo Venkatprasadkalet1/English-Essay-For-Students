@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Pesticides"
+    tools:showIn="@layout/activity_pesticides">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Pesticides including insecticides, fungicides, weedicides, etc. are used extensively in the Indian agriculture and public health.
+
+The pesticides industry has made good progress during the last decades and presently more than 57 technical gradel pesticides are being manufactured in the country Some important pesticides include acephatel chlorphyriphos, cypermethrin, DDVP, DDT,I dimethoate, endosulphon, Ethicon, fenvaleratel malathion, monocrolophos, prorate, phosphomidonj quinalphos,mancozeb, glyphosate, is oproturon alul minimum phosphate, zinc phosphate and methyl bromide etc. More than 125 units are currently engaged in basic manufacture and 500 units in making formulations for pesticides.
+
+The current installed capacity of technical grade pesticides is about 1, 50,000 tones and the actual production was 1, 02,240 tons in 1997-98 (cf. 2,836 ton in 1955-56). Table 22.VII shows the trends if the production of pesticides in the country.) According to the table there has been phenomenal growth in the production of pesticides since 1973-74 onward.
+
+There are two public sector units, i.e. Hindustan Insecticides Ltd. (HIL), and Hindustan Organic Chemicals Ltd. (HOCL) manufacturing pesticides in the country. HIL, incorporated in 1954, has at present three units at Delhi, Udyogamandal (Kerala) and Rasayani (Maharashtra). The company also has a subsidiary company, namely the Southern Pesticides Corporation with headquarters at Hyderabad and a factory at Kovur. HIL is engaged in the manufacture of DDT (3,000 tons annually), BHC (1,900 tons annually), malathion and endosulfan. It has an authorised capital of Rs. 50 crores.
+
+The HOCL, incorporated in December 1960 at Rasayani, Raigad district (Maharashtra) has 18 chemical plants producing 25 chemical intermedi­ates with a total investment of Rs. 80 crores. A phenol project has been set up at Kochi. Its subsidi­ary company Hindustan Fluorocarbons Ltd. has set up a polytetraflurethylene (PTEE) plant in Medak dis­trict (Andhra Pradesh). HOCL has an authorised capital of Rs. 70 crores.
+
+India consumed 52,239 tons of pesticides during 1997-98. There was gradual decline in the consumption of pesticides in recent years; from 61,357 tons in 1994-95 to 52,239 tons in 1997- 98. Among the states there is largest consumption of pesticides in Uttar Pradesh (7,444 tons in 1997- 98), followed by Andhra Pradesh (7,298 tons), Punjab (7,150 tons), Haryana (5,045 tons), Gujarat (4,642 tons), West Bengal (3,882 tons), Maharashtra (3,649 tons), Rajasthan (3,211 tons),
+
+Karnataka (2,962 tons) and Tamil Nadu (1,809 tons).
+
+Exports
+
+India exports some insecticides and fungicides including disinfectants to many countries like Hongkong, Malaysia, Sri Lanka, Iraq, Bangladesh, Thailand, Germany, Singapore and Nepal."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

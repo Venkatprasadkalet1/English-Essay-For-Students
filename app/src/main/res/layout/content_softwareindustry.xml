@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Softwareindustry"
+    tools:showIn="@layout/activity_softwareindustry">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="The Indian software industry was non-existing up to 1974. According to Tschang (2001), the evolution of the software industry in India can be explained by three movements.
+
+History: unproductive investments preparing the ground
+
+Tschang (2001) states that the software industry has found its origin in cities such as Mumbai (Bombay) and Bangalore. Bangalore was an excellent place for companies to set up an establishment thanks to the large pool of scientific talent developed by educational organizations and the laboratories that were provided by the government. Unfortunately, there was little gainful employment through which these investments weren't productive from an economic point of view. However, the combination of these two previous mentioned factors formed a critical basis for the growth of the software industry in India.
+
+History: Nascent national companies, early foreign investment and the buildup of experience
+
+In the emerging phase, some companies have been established such as the Computer Maintenance Corporation (CMC) in 1978, Tata Consultancy Systems (TCS) in 1968 and Hindustan Computers Limited (HCL) in 1976. Only two of these new companies, namely CMC that was founded by the government and TCS that was established by the Tata Group, succeeded. This latter company followed a different concept: companies could contact TCS and hire one of their programmers. This programmer will go to the company that needs help. Owing to these companies, the country gained both experience in software development and international experience.
+
+Previously mentioned firms were successful at competing for and executing huge, complex programming assignments. For example, CMC has developed a passenger reservation system by order of the Indian railways. Furthermore, these companies have also traded with international customers through whom they were exposed to international practices and standards. Although these companies developed, this growth didn't boom. This statement can be explained by the behaviour of the government. At first, the Indian government was hostile towards foreign companies who wanted to establish an office in India. Since 1984, the Indian government promoted their country to foreign companies. Thus the government shifted from a custodial role towards a promotional role.
+
+Besides the change in the behaviour of the government, international high-tech companies established new offices in India (in particular in Bangalore) in the 1980s and 1990s. Owing to this, the number of foreign investments in India increased. This increase can be contributed to reforms that took place in order to improve the environment for foreign direct investments and in particular to the creation of special software technology park zones which are managed by Software Technology Parks of India (STPIs). One of the companies that came to India was Texas Instruments (TI) which was attracted by the easy availability of staff and the low wages. On the other hand, there were also disadvantages such as the lack of good infrastructure. Building up better infrastructure would involve large fixed costs. TI had a good infrastructure at its disposal in its head quarters in the United States. In order to take advantage of the idle hardware facilities, TI invested in a dedicated satellite link. Because of this satellite link, employees in India can have this infrastructure at their disposal if employees in the US aren't working with it. This is possible because of the time difference between the United States and India. If employees are working in India, employees are sleeping in the United States. This proves that an Indian subsidiary provides a low-cost manner to develop software for sale for large enterprises. Furthermore, this subsidiary can also supply the large enterprise with software for internal use. Summarizing, it may be stated that the software is established in India and will be used in other countries.
+
+History Export
+
+The export industry arose when a number of export-oriented firms as offshore development centres were ready to export. Initially, this export industry involved the sending of employees directly to places in the United States. In fact, the work from multinationals is executed by specialized  firms in India which is called onsite services (or body shopping). In 1991-1992, onsite services were dominating the software export. 95% of the total software export involved onsite work while only 5% involved offshore services. In 1999-2000, offshore services counted for 42% of the total software export while the overseas onsite involved the residual 58%.
+
+The export industry consists out of a new emergent sector, namely business software market, and the domestic software market. The revenues from the business software market adds up to about 4.5 billion US Dollar. In the meantime, the domestic software market has also increased slowly. The total Indian software sector adds up to more than 20 billion US Dollar.
+
+In 1996, the software industry involved 1 billion US Dollar. However, experts worry about for instance the limited amount of available skilled workers or software professionals, the bad infrastructure, the possible competition with China and the Philippines, the possible development of automated tools with the intention to substitute the lower end of software services supplied by India and the unwillingness or inability of the Indian software firms to look further than their low-cost employees (they don't want to make use of employees who need to be paid more by the company). Moreover, experts think that these previous mentioned issues are a threat to the Indian software industry.
+
+The solution for previous mentioned threats is to . This solution consists out of three parts. The first part involves the development of proprietary software. This software can be bought by one party and this party can give license to other parties in order to use this software. The second part involves the production of more technology-intensive services. The last part involves innovation, the Indian software needs to think about new products and technologies.
+
+Although the possible solution is given, the Indian software companies don't take these into account. This can be seen out of following observations:
+
+There is still a huge shortage of workers
+
+The infrastructure has only known small improvements
+
+Not much products produced by the Indian software industry are available on the World market
+
+Owing to this export industry, the fortune of the Indian people has increased. This increase is not only caused by the increase in domestic IT expertise. Primarily, this increase can be contributed to the increased demand for skills and outsourcing of the software industry in the United States and other countries. There were not much skilled people available in for instance the United States and if they were available, the company had to pay large wages. Owing to this, India became more attractive due to the large pool of available skilled people and the low wages. Simultaneously to the increased demand in the United States, India could offer these companies skilled people who were willing to pay for small wages. The work that is outsourced by other countries involved merely lower value added work in which US consulting or application firms were not interested. This work involves jobs like for instance rewriting code to integrate applications from mainframes to the then newly emerging client-server platforms. In some cases, new applications are added. Other services involve the maintenance of such applications. Later on, data-conversion was another important task, the most important one was the Y2K. This project is better known as the 'milleniumbug' at the end of the 1990s. Hereby, the problem was that several operating systems saved dates by only using the last two numbers of the year. For example one January 1999 is saved as 01-01-99. By entering the new year, the data is saved as 01-01-00 which is the same for one January 1900. This can cause problems in for example stock systems. The system can think that a certain product with expiry date 01-01-00 is already a century old.
+
+Explaining software success
+
+The success India has established within the software sector can be explained by several factors according to the human capital and comparative advantage, protection and learning from the domestic market, the role of public policy and finally entrepreneurship and openness.
+
+Human capital and comparative advantage
+
+The first reason to explain the success of this sector is the fact that India has a lot of people who are willing and able to develop software for less money. Owing to the fact that India has a huge pool of potential software professionals at its disposal, these people work for small wages. These small wages form the second advantage why the software industry has grown in India. However, these wages have increased over time but they are still lower compared to the wages of software professionals in the United States. This wage gap can be attributed to the difference in experience between these software professionals. These two reasons form a comparative advantage for this sector in India. Companies who establish an office in India can invest in a more labour-intensive structure. This means that the company will replace machinery with human capital.
+
+Although the fact that India provides this huge pool of potential software professionals, not enough companies decided to come to India which resulted in an excess of Information Technology engineers during the 1970s and 1980s. At that time, these engineers resolved to go work overseas. Once these worked for for instance an American company, they also functioned as a broker to match small software contracts with Indian software firms. Kapur calls these people  (as cited in Bhagwati and Calomiris, 2006, p. 175).
+
+Furthermore, the expansion of the schools has also contributed to the growth of the Indian software exports and thus also to the success of the Indian software sector. This expansion can't only be awarded to the government, also private investors have contributed. In 1981, almost the whole engineering college capacity was in hands of the government. Because of the restrictions on the public funding and regulatory constraints, the government wasn't able to fulfil the need for more colleges. Entrepreneurs have responded to this need and have invested in private colleges. At first, the government didn't allow this type of college although one private investor already had established such a college in 1977. The second private college was established in 1983 at the time the government had decided to permit such colleges. The following graph indicates the increase in private colleges."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

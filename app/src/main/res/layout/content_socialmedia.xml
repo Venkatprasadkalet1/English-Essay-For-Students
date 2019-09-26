@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Socialmedia"
+    tools:showIn="@layout/activity_socialmedia">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Man invented technology to make his life better and it became a revolution. Nowadays technology can be seen everywhere. Use of technology has affected the human life to that extent that we are literally dependent on the technology in our daily lives. The technology has also changed the way we communicate with other people. With the use of social media, people are connected with each other in an electronic way. Facebook is not only social networking site, YouTube, Twitter, Quora are also social media sites or platform. Any website, portal, app which brings the social aspect of the human life online can be called as social media site. YouTube, Twitter, Snapchat, Instagram like Facebook brings the social aspect of the community.
+
+It’s been always debated social media is boon or curse/bane. We will be discussing same here in this article. Schools and colleges across India organize various competition such as speech competitions and essay competitions throughout the academic year and many students participate in them. In this article, we have provided the information necessary to write a perfect essay or a better speech on the effects of social media on our lives. We are giving the core information and you can modify it according to your needs as the essays and speeches have a different structure. So let’s discuss whether the social media is good or bad for our society and people.
+
+Schools and colleges across India organize various competition such as speech competitions and essay competitions throughout the academic year and many students participate in them. In this article, we have provided the information necessary to write a perfect essay or a better speech on the effects of it on our lives. We are giving the core information and you can modify it according to your needs as the essays and speeches have a different structure. So let’s discuss whether the social media is good or bad for our society and people.
+Essay on Social Media Importance, Advantages, Disadvantages, Speech, Article and Paragraph
+
+
+Introduction of Social Media
+
+The use of social media in our daily life has increased at a very high level. Especially the youth is highly affected by the use of it. Our daily life, society, and even the human relationships are affected by the social media. But one question always rises. Is the social media a blessing or a curse? Is it a boon or bane for our society? These questions are debatable in many ways. There are both advantages and disadvantages of it. So let’s discuss the pros and cons of social media.
+
+Follow the given link to find the more short speech, essay or paragraph topics.
+What are the Advantages/benefits of social media?
+
+Social media is a great way to connect with people in your life. It enables you to share important events, information and the moments in your life with people that matter. Youth/young generation is highly affected by the use of it. Today, students learning in schools and colleges use social media to share their daily life with their friends. It creates a virtual network of your friends, colleagues, acquaintances and enable us to see what is going on in their life and social media sites like Facebook, Twitter, Instagram, Snapchat and many others are the ways to do it.
+
+    New ways to express yourself
+
+Earlier there were very few opportunities available to express e.g. forums, debates, competitions etc. But not all are well versed to express themselves at these places, social networking sites brought this opportunity of expression to each and everyone in their palm. Now we can say what you want to say, support what we like, thrash things we don’t like. We can support changes, petitions, social causes, show sympathy to disaster, calamity survivors. On Youtube you can share your knowledge by making videos, on Quora you can help others by answering their questions. Social media also gave medium to raise voices against serious issues like eve-teasing, women safety, feminism etc. Facebook WhatsApp communities helped a lot of people finding their lost children by circulating the ‘missing’ message. Social networking sites gave us a channel to help others too.
+
+    Information Aggregator / Delivery Channel
+
+Nowadays social media is the main distribution channel for news, updates, weather forecast; gone those days when one has to wait till 10 PM for news. The real-time updates, news and the current affairs definitely help us to stay up to date with the time and the situation around us. Social media sites like Facebook is now becoming the main source for sharing news and updates. Safety check features on the Facebook help us to update our status in natural calamities situation which can give a much-needed relief to our loved ones and friends in a distressed environment. Last year a lot of people reported their safety in Nepal Earthquake. These kind of things are not possible with traditional media this is only possible with social networking sites and underlying technology.
+
+    Learning Across Oceans
+
+Social media sites also expose us to information around the world, we can learn about different communities, cultures and take best of out of it. It was not possible with old mediums as they were controlled by corporations, they showed us only what they felt important. Social media content created by people no corporation even Facebook cannot control it.
+
+    Employment Opportunities
+
+Nowadays we can see job opportunities on the social networking sites like LinkedIn; it is the best and biggest social networking site for professionals. Here you can show your talent, skills, experience on basis of that you can seek the job opportunities. You can also create Alumni groups on LinkedIn, present students can connect with alumni to get help and contacts. LinkedIn is also used by colleges and universities for training and placement opportunities.
+
+    Sharing is Caring
+
+You can share your knowledge on Quora, write blogs, post on community forums all these activities show human social behavior. Digital media marketing, content writers, blog writers, these are the few of the career choices today possible because of social networking culture and the Internet. Because of social media networking sites, we are no more confined to boundaries, we can make friends across oceans, we can share, express our thoughts, learn the cultures, etiquettes, habits behaviours. Social mediate sites helping us to be a world citizen, it is very important in today’s world to know things about the whole world.
+
+Social media is also used for marketing purposes by the businesses. As people provide information about them this information helps the businesses to serve the people by showing them what they want or what they might need.
+What are the Disadvantages/Dangers of Social Media?
+
+As every coin has two sides even the social media has its own dangers and disadvantages. Let’s see how social media influences our lives in a negative way.
+
+    Human To Human Touch
+
+There is no doubt that social media brought new opportunities in communication but same time it suppressed the old ones. After all, we are human beings and there is no better way of interaction than face to face communication. Things which we can experience in face to face meeting like overall environment, person’s aura, feel cannot be experienced in a Skype or WhatsApp Video Chat.
+
+    Virtual Friends
+
+These Social networking sites enable us to make friends from all over the world but we tend to forget to wish are real-life friends. We are more concerned about a number of friends we will have than the quality of them. Social media sites changing the definition of friendship.
+
+    Over Exposure to Information at Young Age
+
+On social media sites we can see the information, content in form of form of images, videos, animations from all over the world sometimes good sometimes bad. Even terrorist organization, cult institutions spread their propaganda over the social network sites. ISIS is the infamous example here, they used social media like Facebook, Twitter to recruit people for their cause. A lot of people from the western countries and some even from India joined then because of this social media campaigns. There are possible parental controls available but still, those are not enough to safeguard your children from such activities over social networks.
+
+Today social media is highly used in daily life. Young boys and girls are seen with their smartphones every time in their hands. It has become an addiction of checking the social media sites every now and then. It also creates social media anxiety / FOMO(fear of missing out). Social media has also killed the productivity in our daily life. Before social media, children and young generation used to spend their free time reading books, playing on the playground, following their hobbies but now the picture has changed. Now children spend their time checking the social media sites every now and then and it has also become a reason behind a new type of crime called as Cybercrimes. The Cybercrime consists of cyberbullying which is done by using social media sites to bully a person typically by sending messages of an intermediate in a threatening nature.
+
+Social media has also created a threat to our privacy as all the social media sites access your personal information when you use them. We share our locations, pictures, events in our life, people we know and such information that reveal necessary details about you on the Internet as it is a worldwide network and anyone can see and access your information. Some might even say that it is a threat to our culture too.
+
+The perception about the social media, whether it is beneficial or dangerous for people can change person to person and we cannot determine either it is good or bad.
+Conclusion / End of the speech on social media
+
+Like any other technology, solution, invention social media also have both brighter and darker sites. On one side social media brings lots of opportunities but the same time they get used for cyberbullying terrorist propaganda too. Better Parental Control features need to be implemented on these social media sites so that younger children will be protected from such online harms. For adults, it’s up to them, what to choose, what not to say and what not to say as they are free to make choices. In short social media sites are not bad it’s up to us users to make it boom or bane."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

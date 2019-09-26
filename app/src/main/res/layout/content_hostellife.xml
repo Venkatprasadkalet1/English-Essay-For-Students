@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Hostellife"
+    tools:showIn="@layout/activity_hostellife">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Hostel life of a student
+
+Essay No. 01
+
+
+
+Synopsis: – Hostel is a place where food and lodging are provided for students or certain groups of workers or tourists. Generally a student stays in a hostel when his residence is located far from the educational institution food in a hostel is served in the mess. A hostel has a common room, a library and a reading room. It also has facilities for games and sports. Students belonging to different regions and cultures stay together in a hostel. They learn the lesson of co-operation; Students learn many things in a hostel. It makes their life regular and systematic. They learn the lessons of punctuality and discipline. They develop their personality. They learn to be independent. School children in a hostel are guided by teachers and wardens. Ragging often takes place in a hostel. Students may go astray in a hostel. Parents should visit them regularly and give them precis of advice.
+
+Hostel is place where food and lodging are provided for students or certain groups of workers or tourists. Life in a hostel is different from life in a home. Generally a student stays in a hostel when his residence is located far from the educational institution. Life in a hostel makes a student self dependent. It makes him smart, active and disciplined.
+
+A hostel has a mess which at times is run on a co-operative basis. Food is served in the mess. The washer man and the barber visit the hostel regularly. Some students wash their own clothes. Others give their clothes to the washer man.
+
+A hostel has a common room. Here are students assemble to watch television. They also discuss in groups about the daily events, politics, current issues, etc. A hostel generally has a library. Many hostels have reading halls adjacent to the library. A hostel has facilities for indoor games. Some hostels have facilities for outdoor games like basketball, volleyball, badminton, etc. Unlike a hostel meant for students, a hostel for workers and tourists may not have these facilities. Life in a hostel is a community life. They live together, eat together and go out together. They enjoy excursions and parties. Life is merry and jovial in a hostel.
+
+Various types of students are found in a hostel. Some are very studious. They always remain busy with their studies. Some are mischievous. They give little time to studies. They spend their time moving around playing and bullying others or making run or others. Students should not misuse their time. They should utilize their time in studies, games, debates, group discussions and other such fruitful activities.
+
+Students learn many things in the hostel. They help one another in the hour of need. They become enduring friends. They learn to become independent. In hostel, students have to live according to the rules of the hostel. They have to wake up on time, sleep on time, have food on time, study on time, etc. This helps them in maintaining discipline in their lifestyles.
+
+In hostels, students have to do a number of chores by themselves like taking care of their belongings, washing their clothes, making their beds, etc. This helps them to be self reliant. They learn what is right and what is wrong. Here, they do not depend on their parents. They depend on themselves. School children staying in hostels are guided by wardens and teachers. They adults are masters of themselves. Hostel life makes the students life regular and systematic.
+
+Students of educational institutions may face problems in a hostel in the beginning. Ragging generally takes place in a hostel. Senior students make fun of junior students. Unfortunately, at time, ragging crosses all limits of decency. Effective steps need to be taken to prevent ragging.
+
+There are also chances of students going astray in hostels. They should be properly guided by the hostel authorities. Students stay away from their parents in a hostel. They crave for the love and affection of their parents. They feel homesick. Some students who are not very food at studies, in the absence of proper guidance, neglect their studies. Some students feel free from all bondages and become masters of their own will as they are away from their parents. In such cases students may choose evil company and form bad habits. Parents should visit them regularly and give them emotional support and guidance to help them walk on the correct path.
+
+Students face life practically on their own in a hostel. Life in a hostel instills confidence in them. They develop their personality. They learn to face the problems in life. They learn to be self disciplined, regular and punctual. They develop a feeling of respect for other religions and culture. They learn to help and cooperate with one another. They learn social etiquette and lead a better and disciplined life. Hostel life thus helps them to develop many good qualities and make the students good citizens."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

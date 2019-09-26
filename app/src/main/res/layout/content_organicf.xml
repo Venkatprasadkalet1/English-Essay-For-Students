@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Organicf"
+    tools:showIn="@layout/activity_organicf">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Organic farming is an alternative agricultural system which originated early in the 20th century in reaction to rapidly changing farming practices. Organic farming continues to be developed by various organic agriculture organizations today. It relies on fertilizers of organic origin such as compost manure, green manure, and bone meal and places emphasis on techniques such as crop rotation and companion planting. Biological pest control, mixed cropping and the fostering of insect predators are encouraged. In general, organic standards are designed to allow the use of naturally occurring non-toxic substances while prohibiting or strictly limiting synthetic substances.[2] For instance, naturally occurring pesticides such as pyrethrin and rotenone are permitted, while synthetic fertilizers and pesticides are generally prohibited. Synthetic substances that are allowed include, for example, copper sulfate, elemental sulfur and Ivermectin. Genetically modified organisms, nanomaterials, human sewage sludge, plant growth regulators, hormones, and antibiotic use in livestock husbandry are prohibited.[3][4] Reasons for advocation of organic farming include advantages in sustainability,[5][6] openness, self-sufficiency, autonomy/independence,[6] health, food security, and food safety.
+
+Organic agricultural methods are internationally regulated and legally enforced by many nations, based in large part on the standards set by the International Federation of Organic Agriculture Movements (IFOAM), an international umbrella organization for organic farming organizations established in 1972. Organic agriculture can be defined as:
+
+    an integrated farming system that strives for sustainability, the enhancement of soil fertility and biological diversity whilst, with rare exceptions, prohibiting synthetic pesticides, antibiotics, synthetic fertilizers, genetically modified organisms, and growth hormones.
+
+Since 1990 the market for organic food and other products has grown rapidly, reaching $63 billion worldwide in 2012.[12]:25 This demand has driven a similar increase in organically managed farmland that grew from 2001 to 2011 at a compounding rate of 8.9% per annum.[13] As of 2011, approximately 37,000,000 hectares (91,000,000 acres) worldwide were farmed organically, representing approximately 0.9 percent of total world farmland."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

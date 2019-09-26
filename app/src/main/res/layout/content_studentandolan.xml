@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Studentandolan"
+    tools:showIn="@layout/activity_studentandolan">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Beti Bachao Beti Padhao Essay 6 (400 words)
+
+Prime Minister Narendra Modi has launched a scheme for girls named Beti Bachao Beti Padhao in order to save the girl child and educate the girl child all over the India. The programme was launched on 22nd of January, Thursday in 2015 at Panipat,. This scheme was launched especially in Haryana as this state has lowest female sex ratio (775 girls/1000 boys) all over the country. It has been effectively implemented in hundred districts across the country to improve the status of girls. 12 districts (Ambala, Kurukshetra, Rewari, Bhiwani, Mahendergarh, Sonepat, Jhajjar, Rohtak, Kaithal, Panipat, Karnal, and Yamuna Nagar) have been chosen from the Haryana state itself because of having low child sex ratio.
+
+In order to improve the status of girls and give them importance, Haryana Government celebrates an event named Beti ki Lohri on January 14. The purpose of launching Beti Bachao Beti Padhao scheme is to make girls independent socially and financially using their proper rights and higher education. It helps in improving the awareness among common public and improving the efficiency of welfare services given to women. If we have a sight on latest census report of 2011, we see a continuous decrease in the female child sex ratio (of age group 0-6 years) from last some decades. In 2001, it was 927/1000 whereas in 2011 it remains only 919/1000. There is huge reduction in the number of girls is because of the practice of aborting female fetus after sex determination through modern diagnostic tools in the hospitals. This bad practice came into existence because of the gender discrimination in the society.
+
+And, after birth of a girl child, she has to face another type of discrimination in terms of education, health, nutrition, safety, rights, and other needs of the girl child. We can say that women were dis-empowered instead of being empowered. In order to empowering women and give them their full rights right from their birth government of India has launched this scheme. Empowering women brings all around progress especially in the family and society. Beti Bachao Beti Padhao scheme is the way to achieve positive changes in the human negative mindset for girls. This scheme may make a call to people to end the discrimination between sons and daughters and work as a key to end female foeticide. While launching the scheme, PM reminded to the whole medical fraternity that the purpose of medical profession is to save lives and not finish lives."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

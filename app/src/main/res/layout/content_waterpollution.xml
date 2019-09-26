@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".waterpollution"
+    tools:showIn="@layout/activity_waterpollution">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Water Pollution Essay 6 (400 words)
+
+Water pollution is the big environmental and social issue all across the world. It has reached to the critical point now. According to the National Environmental Engineering Research Institute (NEERI), Nagpur, it has been noted that around 70 per cent of the river water has been polluted to a great extent. Major river systems of the India such as Ganga, Brahmaputra, Indus, peninsular, and west coast river systems have been affected to a great extent. Major rivers in India especially Ganga is highly associated with the Indian culture and heritage. People generally used to take early morning bath and use Ganga Jal as an offering to the God and Goddess during any festival and fast occasion. They also discharge all the wastes of puja ceremony in the Ganga in the myth of completing their puja.
+
+Discharging of wastes in the rivers causes water pollution by decreasing the self recycling capacity of the water so it should be banned by the government in all countries especially India in order to keep the river water clean and fresh. The condition of water pollution is much worse in the India than other countries having high level of industrialization. As per the report of Central Pollution Control Board, Ganga is the most polluted river in India now which was very famous earlier for its flexibility of self purifying capacity and fast-flowing river. Around 45 tanneries and 10 textile mills are discharging their wastes (containing heavy organic load and decomposed materials) directly into the river near Kanpur. According to the estimates, approximately 1,400 million litres sewage and 200 million litres industrial effluents are getting discharged continuously on daily basis into the river Ganga.
+
+Other main industries causing water pollution are sugar mills, distillery, glycerine, tin, paints, soap spinning, rayon, silk, yarn, etc which are discharging poisonous wastes. In 1984, a Central Ganga Authority was established by the government to start the Ganga Action Plan in order to control the Ganga water pollution. According to this plan around 120 factories were identified in 27 cities spreading pollution to a great extent from Haridwar to Hooghly. Gomati river near Lucknow is receiving wastes of around 19.84 million gallons from the factories of pulp, paper, distillery, sugar, tannery, textile, cement, heavy chemicals, paints and varnishes etc. The condition has become more deteriorating in the last four decades. In order to prevent the water pollution all the industries should follow standard norms, strict laws should be enforced by the Pollution Control Board, arrangement of proper sewage disposal facilities, establishment of sewage and water treatment plant, arrangement of sulabh type toilets and may more."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

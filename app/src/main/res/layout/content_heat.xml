@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Heat"
+    tools:showIn="@layout/activity_heat">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Heat is a form of energy; temperature shows how hot a thing is. In other words, heat refers to the quantity of energy present in a substance, while temperature refers to its intensity, i.e. the degree of hotness.
+
+For example, a glass of boiling water has the same temperature as a large can full of boiling water. Even though the temperature of water in the two vessels is the same, the glass does not possess as much heat as the can.
+
+Subtraction or addition of heat is necessary to lower or to raise the temperature of a substance. Besides, differences in temperature determine the direction of heat flow from one body to another.
+
+As we all know, heat moves from a hotter body to a colder body. Therefore temperature has been defined as the property which determines whether heat will flow out of or into an object when in contact with another object.
+
+According to the molecular theory of matter, heat represents the total energy of motion of the molecules in a substance. The fact is that a substance is composed of a number of molecules which are always in a state of constant motion, and there are frequent collisions between them.
+
+Because of their dashing against one another their kinetic energy is converted into heat energy. Therefore heat is taken to be representing the total energy of the molecular motion in a substance.
+
+Temperature, on the other hand, measures the average kinetic energy of motion of the molecules. In other words, temperature is the measurement of available or sensible heat energy in a system."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

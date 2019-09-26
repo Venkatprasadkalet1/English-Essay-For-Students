@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Humanrightsday"
+    tools:showIn="@layout/activity_humanrightsday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Human Rights Essay 5 (600 words)
+
+Human rights are said to be incontrovertible rights that every person on earth is entitled to just because he/ she is a human being. These rights are inherent in every human being irrespective of his/her gender, culture, religion, nation, location, caste, creed or economic status. The idea of human rights has been there for much of the human history. However, the concept differed in the earlier times. Here is a detailed look at this concept.
+
+Classification of Human Rights
+
+Human rights have broadly been classified into two categorizes at the international level: civil and political rights, and social rights that include economic and cultural rights.
+
+    Civil and Political Rights
+
+Also known as classic rights, these limit the government’s power in respect of actions impacting individual’s autonomy. It grants people the chance to contribute in the participation of government and determination of laws.
+
+    Social Rights
+
+These rights direct the government to act in a positive and interventionist way in order to devise conditions required for human life and development. Government of each country is expected to ensure the well-being of all its citizens. Every individual has the right to social security.
+
+Basic Human Rights
+
+Here is a look at the basic human rights for every individual:
+
+    Right to Life
+
+Every human being has the right to life. This right is protected by law. Every person is entitled to the right of not being killed by another person. This right is, however, subject to the issues of self defence, capital punishment, abortion, war and euthanasia. As per human rights activists, death penalty violates the right to life.
+
+    Freedom of Thought, Conscience and Religion
+
+Every individual has the freedom of thought and conscience. He/she can think freely and hold conscientious beliefs. A person also has the freedom to choose and change his religion at any point in time.
+
+    Freedom of Movement
+
+This means that a citizen of a state has the right to travel, reside, work or study in any part of that state. However, this should be within the respect for rights of others.
+
+    Freedom from Torture
+
+Torture is prohibited under the international law since the mid-20th century. Even though torture is considered to be immoral, organizations that monitor violation of human rights report that states use this extensively for interrogation and punishment. Many individuals and groups also inflict torture on others for different reasons.
+
+    Right to Fair Trial
+
+Every individual has the right to fair trial by a competent and impartial court. This right also includes the right to be heard within reasonable time, right to public hearing, right to counsel and right to interpretation. This right has been defined in various regional and international human rights instruments.
+
+    Freedom from Slavery
+
+As per this right, no one shall be held in slavery. Slavery and slave trades are said to be prohibited in all forms. However, despite this slave trade still goes on in many parts of the world. Many social groups are working to curb the issue.
+
+    Freedom of Speech
+
+Every individual has the right to speak freely and express his opinion. This is sometimes also referred to as the freedom of expression. However, this right is not given in absolute in any country. It is usually subject to certain limitations such as obscenity, defamation and provocation for violence or crime, etc.
+
+Conclusion
+
+Human Rights, the basic rights given to individuals on the account of them being human beings, are almost the same everywhere. Every country grants these rights irrespective of an individual’s caste, creed, colour, gender, culture and economic or social status. However, at times these are violated by individuals, groups or the state itself. So, people need to stay on their guard against any violation of human rights."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

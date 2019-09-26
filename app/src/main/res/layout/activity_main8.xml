@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cool"
+    tools:context="com.actionbar.venkat.thor.MainActivity8">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/button131"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="Mahatma Gandhi" />
+
+        <Button
+            android:id="@+id/button132"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="Subhash Chandra Bose" />
+
+        <Button
+            android:id="@+id/button133"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="chandra shekhar azad" />
+
+        <Button
+            android:id="@+id/button134"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="jawahar lal nehru" />
+
+        <Button
+            android:id="@+id/button135"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="Rani lakshmi bai" />
+
+        <Button
+            android:id="@+id/button136"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="dr.rajendra prasad" />
+
+        <Button
+            android:id="@+id/button137"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="sardar valbhai patel" />
+
+        <Button
+            android:id="@+id/button138"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="mangal pandey" />
+
+        <Button
+            android:id="@+id/button139"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="Dr.babasaheb ambedkar" />
+
+        <Button
+            android:id="@+id/button140"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="sarojini naidu" />
+
+        <Button
+            android:id="@+id/button141"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="tantia tope" />
+
+        <Button
+            android:id="@+id/button142"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="udham singh" />
+
+        <Button
+            android:id="@+id/button143"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="bal gangadhar tilak" />
+
+        <Button
+            android:id="@+id/button144"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="sukhdev" />
+
+        <Button
+            android:id="@+id/button145"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="annie besant" />
+
+        <Button
+            android:id="@+id/button146"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="dadabhai naoroji" />
+
+        <Button
+            android:id="@+id/button147"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="bipin chandra pal" />
+
+        <Button
+            android:id="@+id/button148"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back9"
+            android:text="k.m minshi" />
+
+        <Button
+            android:id="@+id/button149"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="search from web" />
+
+
+    </LinearLayout>
+</ScrollView>

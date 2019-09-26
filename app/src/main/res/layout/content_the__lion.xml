@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".The_Lion"
+    tools:showIn="@layout/activity_the__lion">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbf"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Essay in 600 words---------------------On average, the lion is smaller than the tiger and is the second largest wild cat species but the lion is taller at the shoulder than the tiger. Male lions weigh between 320 to about 500 pounds. The lion is one of the four big cats and a roaring cat. The roar can be heard five miles away but the reasons for it are not yet fully understood.
+
+The lion has three unusual characteristics; it lives in family groups called prides. It is the only wild cat species to do this. Also, the lion has the famous mane. The mane is a very significant part of the lion’s anatomy. It helps defend the cat from injury, it makes the lion look impressive and a dark mane indicates the lion is healthy which females prefer. But Tsavo lions, living in Kenya, don’t have manes. The third interesting characteristic which makes the lion distinct from other wild cat species is that female lions look quite different to males.
+
+While the female lion likes to live in a pride the male needs the pride to make survival easier. Although some male lions are forced to live outside the pride; the members of which are related by birth.
+
+When a new male joins a pride he commits infanticide – he kills the cubs and chases away the young adults who in turn will, in the future, do the same thing. He does this to ensure that the cubs of the family group will be his. Killing the cubs also forces the females to become sexually receptive sometimes conceiving two weeks after her cubs have been killed. However, some females defend their cubs to the death. Lions mate like domestic cats.
+
+The lion’s chest, shoulders and forelegs are very strong demonstrating that the lion is built to capture and kill prey more so than running but they can still run at about a maximum of 50 kilometers per hour (32 miles per hour). This is a little bit faster than the fastest domestic cats. The lion’s bite is less strong that the tiger bite – Lion: 600 lbs per square inch; Tiger: 1000 lbs per square inch. The lion’s canine teeth are about 6 centimeters long.
+
+Female lions do most of the hunting. Males join in late and take priority at the dinner table. When hunting, lions try and execute an attack over the shortest possible distance as this makes hunting more successful. They eat any land animal up to a baby elephant weighting 1000 kgs. Lions are pretty successful hunters, succeeding around 30% of the time.
+
+Due to the expanding human population of Africa, the area where the lion lives has been much reduced and broken up into parcels of land where it once roamed over vast areas, which threatens the lion’s survival. The lion generally lives in open spaces such as wooded grassland compared to the tiger which generally lives in forests.
+
+Lions spend more time sleeping than any other cat, wild or domestic, at 19 hours per day. But a lot of this time is snoozing rather than sleeping. The lion will hunt and fed on average about one hour per day. The rest of the time is spent travelling.
+
+Lion cubs have spots for camouflage. These spots disappear. Male lions might live to 10 years of age in the wild, while females live longer to around 18 years of age.
+
+The lion is suffering and gradually starting to become extinct in the wild. The threats to its existence are: being killed by farmers, prey being killed by people, less space to live in (habitat loss) and sport hunting. The conservation of the lion is the most important thing to discuss because without this iconic wild cat there would be no point in writing an essay about the lion."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

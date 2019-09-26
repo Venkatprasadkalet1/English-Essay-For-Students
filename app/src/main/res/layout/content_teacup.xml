@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Teacup"
+    tools:showIn="@layout/activity_teacup">
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Have Fun and Delight in Keeping Teacup Pigs
+
+Miniature pigs are smaller pigs that were initially bred for medical research. And, in the 1980s these adorable animals were introduced as pets. And, as time passed, they have continued to become more and more popular throughout the world. So if you are planning to buy a new pet for your home, these cute creatures are a great option for you.read more information about Acquiring a micro mini pig as a pet at http://www.thewhitepath.com/acquiring-a-micro-mini-pig-as-a-pet/
+What are the benefits of owning one?
+They are very small
+
+As their name suggests, teacup pigs are extremely small (about five times smaller) compared to ordinary pigs. Most of the time, they only reach upto about 14 to 16 inches (smaller than most types of dogs and average household cats) even when they are fully grown. This means that you will find it quite easy to carry them around and even walk them on a leash. This also means that they will only take up a small amount of space in your home, which is great if you are planning to create a pen for them.
+They are extremely clean
+
+As opposed to what some people believe, miniature pigs are not dirty animals. In fact, they are cleaner than most household pets. For instance, teacup pigs do not get fleas unlike dogs and cats. And, because they don’t have fur, you won’t have to worry about getting your furniture messy. On top of that, they do not aggravate allergies as much as dogs and cats. Furthermore, it can be quite easy to litter train them.
+They can live a very long life
+
+Of course, if you are getting a pet, you would want one that has a long lifespan. When it comes to this aspect, micro pigs are well above dogs and cats. As long as you know how to take care of their health, they can easily live up to 15 to 20 years. This means that you will have a great relationship with your beloved pet for a very, very long time.
+
+Teacup pigs make great pets
+They have great personalities
+
+Teacup pigs are not only cute, they also have loving personalities. Also, they are very loyal and affectionate. Aside from that, they are quite intelligent animals. In fact, they are very trainable just like dogs. And, because they don’t bark and they don’t have many behavioral problems, they are perfect companions.
+
+So, have you decided that teacup pigs are perfect for you? If so, you need to learn about the best ways to choose the right mini pig before buying one. With this in mind, here are some tips to get you started.
+Before buying one, be sure to “pig-proof” your home.
+
+Since miniature pigs are very intelligent and curious, you have to prepare your home for your pet’s arrival. You need to make sure that electric wires and toxic chemicals are out of reach.
+Find a reputable breeder.
+
+Of course, just like when you are buying any other type of pet, you have to make sure that you are getting your teacup pig from a reliable breeder. You have to make sure that the parents of your future pet are indeed micro pigs.
+Make sure that the pet you are buying is sold at the right price.
+
+Whenever you are buying something, it can be a bit tempting to go for the cheapest option. Of course, when you are purchasing a pet pig, you have to take note that cheaper is not always better. If you are not careful, you might end up buying an ordinary pot-bellied pig.
+
+Teacup pigs are indeed great pets. As long as you choose the right one for you, you will surely have a loving companion for a very long time. But you have to keep in mind that like any other pet, your little pig will need time and affection from you. So, make sure to give your new teacup pig the love and care that it deserves.
+Micro teacup pig information
+Teacup Pigs
+
+Teacup pigs are super fun! They are one of the best pets I have ever had. One thing to realize when raising a teacup pig is that they will need lots of attention. They love to cuddle and love to have their snouts rubbed.
+Teacup Pigs are litter box trained at just a few days old. They are extremely clean animals. They are also very smart! They love to play and have fun. They especially love to have food! After all they are little piggies.
+There is some negative information online saying that teacup pigs are not real or that they are just starved pot belly pics. The truth is they are real. They can now be seen on major television shows and are all over Youtube!
+They are easy to feed. My favorite is when they are two weeks old and you can bottle feed them. They love that milk and sprawl out for it in enjoyment!"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

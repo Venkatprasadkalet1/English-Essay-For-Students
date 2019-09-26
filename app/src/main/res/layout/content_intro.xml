@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Intro"
+    tools:showIn="@layout/activity_intro">
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Introduction
+
+I have a black coloured Boxer as a pet. We call it Bruno. It is 10 years old and has been a part of my family even before I was born. I have grown up with it and am very fond of it. Bruno loves being around me. It waits eagerly for my return whenever I go out anywhere.
+
+Bruno’s Physical Features
+
+Bruno is a fully grown male Boxer with a height of around 22 inches. Just like the other Boxers, it has a squashed face, floppy square shaped ears and droopy eyes. It has a broad deep chest with a strong and sturdy back. It has compact feet and arched toes. It has a short shiny black coat that sheds moderately. This is one thing my mother loves. Dogs with furry coat can be quite difficult to maintain. Not only does one have to pay more attention towards their cleanliness and hygiene but their shedding also creates a lot of mess around the house.
+
+Though highly energetic, Bruno loves to laze around especially when I am not around.
+
+Bruno Guards Our House Vigilantly
+
+It loves sitting in the balcony watching people. It is not the kind of dog who will bark at everyone it sees in the street. It is calm most of the time but gets quite excited whenever a guest arrives home. It rushes to the front door every time it hears the door bell. Though it doesn’t bark much, it takes complete care of the safety and security of our house. Whenever it sees a stranger entering the house, it smells the person thoroughly. Bruno has a well-built muscular body and guards our house like a pro. We feel secure with its presence around.
+
+Bruno Loves Accompanying us for Outings
+
+Bruno guards our house when we are not at home. It remains vigilant at all times and we don’t have to worry about security issues when it is home. However, this is not what it really loves. Bruno often grows sad when we leave it behind. It loves to accompany us for weekend excursions and outings. It is well-behaved and sits quietly in the car. It is loaded with energy and is quite playful. It loves indulging in various outdoor activities with us. Bruno serves as a great fielder when we play cricket. I always take it in my team. It also guards us against strangers whenever we are out to play. It is particularly protective about my 3 years old baby brother.
+
+Boxers require a good amount of exercise to maintain their body. We thus take Bruno out for walk every evening. We don’t always chain it when we are out with it so that it runs around a bit.
+
+Bruno’s Eating Habits
+
+Initially, my mother fed Bruno with dog food. However, it soon started demanding what we ate. We often used to give it chunks of breads and chapatti from our plate. Since we saw that it digested these things well, we changed its diet. We no longer bring home dog food. Bruno eats chapattis and bread dipped in milk or curd. It is particularly fond of boiled eggs. We feed it with the same twice or thrice a week. Bruno finishes its food quickly and demands for more at times. It is also fond of biscuits. Though, dogs shouldn’t be given the normal sugary biscuits, I feed it with the same sometimes only because it relishes them.
+
+Conclusion
+
+Bruno is an important part of my life. I am as attached to Bruno as I am to my siblings and parents. We all love it dearly and it loves us too. It is great to have a dog as a pet especially if it is a boxer."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

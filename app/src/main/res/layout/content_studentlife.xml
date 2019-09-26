@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Studentlife"
+    tools:showIn="@layout/activity_studentlife">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="It is said that “student life is golden life,” because student life is the most important part of human life. It is the period of pure joy and happiness, because the mind of a student is free from cares and worries of a grown-up life.
+
+In this period, the character of man is built. So, it is called the formative period of human life. Every student should try his best to make the best use of his student life.
+
+The primary duty of a student is to learn and to acquire knowledge. He must do all his work at the right moment and maintain punctuality and discipline. He must remember that if a student becomes successful in his student career and his character is built on a sound basic, he will be able to shine in any sphere of life and serve his society and countries.
+
+A student should spend most of his time of this golden period in reading and learning. A good student never waste his time fixed for reading uselessly. But he must not be a book-worm being always engaged in his studies. He should also be careful about his health and spend some time daily in some sports and games. He should try to develop his body and mind at the same time.
+
+As a student he must try to develop his intellect. He should also try to acquire some good qualities like obedience, dutifulness, respect on elders and love and sympathy for fellow man in the society. The duty of a student is to obey his parents and teachers and respect the elders of the society.
+
+Students are the future hope of country. So every student should try to be the best citizen in all respect, so that he may serve his country as far as he can. "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

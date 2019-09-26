@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Taking"
+    tools:showIn="@layout/activity_taking">
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="cruelty is another form of violence and as such, we must do our best to try to eradicate it by not being a part of it. We, all can do something to stop cruelty and violence because this problem is an important social issue affecting animals, families, and communities.
+
+In order to become a more civilized society, we must bring justice to the victims of exploitation. It is a moral obligation not to contribute to the abuse of animals. There is no excuse for not taking action. We have choices and with all the information that is available today, we can no longer say that we did not know or that we did not have another way of doing things. The excuses have come to an end. It is a matter of deciding by asking ourselves: Â¿Do I want to live in a civilized and peaceful world or do I want to keep violence alive?
+
+In my opinion, if we continue to be a part of animal cruelty, at the end, we will destroy our own species because cruelty, torture, violence and killing always get worse when we do nothing about it. Look at the world today.Join the Humane Society of the United States for this year’s Taking Action for Animals (TAFA) Conference, the leading national conference in the animal advocacy movement.
+
+TAFA brings together HSUS volunteers and advocates from across the country for a shared goal: to better the lives of animals and people alike. Participants gain a better understanding of the many issues animals face in our society and learn how to take action in their communities through lobbying, education and other citizen advocacy. Choose from three tracks: Political Animal, Skill Building for Advocates, and Staying Connected. We’re also featuring Take Two!, a repeat track.
+
+"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

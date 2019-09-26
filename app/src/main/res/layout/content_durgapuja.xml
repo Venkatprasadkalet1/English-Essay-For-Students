@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Durgapuja"
+    tools:showIn="@layout/activity_durgapuja">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Durga Puja Essay 6 (400 words)
+
+Introduction
+
+Durga Puja is a religious festival during which a ceremonial worship of goddess Durga is performed. It is an important festival of India. It is a traditional occasion which reunites people into the one Indian culture and customs. Varieties of rituals are performed all through the ten days of festival such as fast, feast and worship. People perform statue immersion and Kanya pujan in the last four days which car called as Saptami, Ashtami, Navami and Dashami. People worship a ten-armed goddess riding the lion with great enthusiasm, passion and devotion.
+
+Story and Legends of Durga Puja
+
+There are various stories and legends of Durga puja which are mentioned below:
+
+    It is considered as, once there was a demon king, Mahishasura, who was ready to attack on Gods of heaven. He was too powerful to defeat from God. Then an eternal power was created by the Brahma, Vishnu and Mahesh which was named as Durga (a magnificent woman having ten hands with special weapons in each). She was given eternal power to destroy demon Mahishasura. Finally She killed that demon on tenth day called as Dussehra or Vijayadashami.
+    Another legend behind Durga puja is Lord Rama. According to the Ramayana, Ram had performed a chandi-puja in order to get blessings of mata Durga to kill Ravana. Rama had killed Ravana on tenth day of Durga puja called as Dussehra or Vijayadashami. So, Durga puja is the symbol of victory of goodness over evil power forever.
+    Once Kautsa (son of Devdatt) has decided to offer gurudakshina to his guru named Varatantu after completing his education however he was asked to pay 14 crore gold coins (one for each 14 sciences he studied there). In order to get the same he went to the king Raghuraj (ancestor of Rama) however he was unable because of the Vishvajit sacrifice. So, Kautsa went to Lord Indra and he again summoned Kuber (god of wealth) to rain the required gold coins over “shanu” and “apati” trees in Ayodhya. In this way, Kautsa got gold coins to offer to his guru. That event is still remembered through a custom of looting leaves of the “apati” trees. At this day, people gift these leaves to each other as a gold coin.
+
+Significance of Durga Puja
+
+The festival of Navaratri or Durga puja has various significances. The meaning of Navaratri is nine nights. Tenth day is known as Vijayadashami or Dussehra. It is the day when goddess Durga got victory over a demon after nine days and nine nights long battle. Goddess Durga is worshipped by the people to get strength and blessings. Worshipping Goddess Durga helps devotees to remove negative energy and negative thoughts as well as get the peaceful life. It is celebrated to commemorate the victory of Lord Rama over evil Ravana. People celebrate this festival by burning the big statue of Ravana and fireworks at night of Dussehra."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

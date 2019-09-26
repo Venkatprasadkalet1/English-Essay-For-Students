@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Business"
+    tools:showIn="@layout/activity_business">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Businesses make up a significant portion of a country’s economy. They help people live the lives they want to live and encourage productivity that leads to huge profits and growing revenues. The economy of a country is literary a backbone to its existence. The economy of a country helps determine overall health and growth of a nation. It shows how well people can spend, save and grow their resources overtime. It also shows effects of supply and demand; what products and services are in demand contributing to growth and stability of the country in question.
+
+Economic growth in modern times is a crucial element part of global development. Even small businesses can impact how people abroad spend their hard earned money. Businesses thrive when they are able to provide a product people want. People create their living situations based on resources available and what they can afford. Businesses offer a number of elements highly important to a country’s economy such as employment, productivity and a form of financial security. Think of it this way; when a business is doing well they are likely contributing to a country’s economy that makes it beneficial for everyone involved.
+
+So what happens when a business underperforms or does not meet expectations of its market? This is when the economy can be affected. When people lose their jobs they may not be able to buy what they want. The economy would not see the same activity as it did when it was stronger. People may not decide to make bigger purchases like a house or vehicle. They may not want to travel or take vacations. So, an underperforming business may not hire more people, give raises to their employees, or offer better benefits to their marketplace.
+
+When multiple businesses take a hit it’s like sending a ripple affect across the country. When jobs are lost or when stocks tumble, it may be a sign things are changing. Most countries depend on productivity from different businesses across various sectors and industries. Some provide higher profits that make a country known for that specific product. Economies are built on strong businesses with profitable ideas, products and services. Businesses make it possible to encourage people of a country to do better for themselves. They make significant contributions that help economies grow for generations to come."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

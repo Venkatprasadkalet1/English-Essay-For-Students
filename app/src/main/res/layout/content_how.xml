@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".How"
+    tools:showIn="@layout/activity_how">
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Coming together for the animals
+
+Why start an organization to help animals? When you form a humane organization, you create a focal point for efforts to help the animals, an outlet for compassionate support from the public which did not exist before. Your group can become a powerful network to protect and advocate for the animals. There’s strength in numbers!
+
+Where do I start? If you start out with an understanding of what will be required to make your efforts successful, you’ll already be ahead of the game.
+
+While the purpose of your new organization is to help animals, all the principles that apply to running a successful business apply equally to this venture. Ultimately your organization will succeed or fail as a business.
+
+To achieve your goals, it is essential to invest sufficient time and resources into planning, management, and fundraising. Most people understand the importance of providing quality care to animals, but struggle with the administrative aspects of running the organization.
+
+Woman in a plaid shirt holding a black and white, medium hair cat, who is looking at the camera
+
+Lynda Foro, president of Doing Things for Animals (a national advocacy program for no-kill organizations), advises startup groups that while direct care may be the purpose of the organization, an equal amount of time is needed for management, fundraising, and related tasks.
+
+No one person must, or even can, do everything. Most successful organizations are the product of teamwork, requiring the cooperation of several people with varied skills and talents who share a dedication to the group’s purpose. One person’s interests and talents may lead him to spend most of his time on direct animal care, while someone else will need to spend most of her time on administrative tasks.
+Starting an organization step-by-step
+
+This publication takes you, step-by-step, through the process of starting an organization to help animals. It won’t all happen neatly in this order, but generally this is what needs to be done.
+
+Back to top
+1.) Do research and preliminary planning
+
+In the excitement of starting something new, it’s tempting to rush through this first step. But energy invested in research and planning early on saves at least twice the time in mistakes later.
+
+Know the basics. If you don’t have a business background, reading a single book on nonprofit management can make a world of difference. Most local libraries have books on the subject, and the price is right! Talking with knowledgeable people, visiting other successful organizations, and attending workshops or seminars can help to give you a rounded perspective and prepare you for what lies ahead. As you meet and talk with others in the humane movement, you’ll also be developing a valuable support network of colleagues.
+
+Be informed about issues. What is the scope of the problem in your own community? How can you best address it? What are the factors affecting animal overpopulation in general? What are others in the humane movement doing? How can we work together?
+
+Talking with other humane organizations, attending conferences, and subscribing to animal-related periodicals and publications for animal welfare professionals are good ways to keep up with recent developments. It’s uplifting and energizing to learn about new ideas and meet other like-minded individuals.
+
+“I attend the No-Kill Conference … I consider it my ‘sanity check,’ my once-a-year effort to get focused,” reports Jane Long of the People’s Anti-Cruelty Association / Albuquerque Animal Rescue. “I return home surrounded by the aura of confidence that I acquired from the inspirational speakers.”
+
+Best Friends co-founder Faith Maloney recounts an uplifting experience at a conference sponsored by SPAY/ USA several years ago: The development of early-age spay/neuter was first announced, making it possible to neuter puppies and kittens before adoption to ensure that they will not breed. Faith returned to her work with the determination and information necessary to implement this new policy, as did many of the other conference attendees.
+
+Learn as much as you can about animal care. Your organization sets an example for the public. Keeping up-to-date on proper animal care is critically important. It’s also important to know your limits. When in doubt, refer people to experts – veterinarians, behaviorists, and other organizations."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

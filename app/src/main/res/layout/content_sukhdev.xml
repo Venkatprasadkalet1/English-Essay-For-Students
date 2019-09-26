@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Sukhdev"
+    tools:showIn="@layout/activity_sukhdev">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Sukhdev Biography
+
+Sukhdev (1907-1931) was a famous Indian revolutionary who played a major role in the India’s struggle for Independence. He is amongst those great Indian freedom fighters who sacrificed their lives for the freedom of their country. His full name is Sukhdev Thapar and he was born on 15th May, 1907.
+
+His ancestral house is in Naughara Mohalla of Ludhiana city, Punjab, India. His father’s name was Ram Lal. Since his childhood days, Sukhdev had witnessed the brutal atrocities that the Imperial British Raj had inflicted on India, which then led him to join the revolutionaries, vowing to set India free from the shackles of British dominion.
+
+Sukhdev Thapar was a member of the Hindustan Socialist Republican Association (HSRA), and organized revolutionary cells in Punjab and other areas of North India. A devoted leader, he even went on to educate the youth at the National College in Lahore, greatly inspiring them about India’s glorious past. He along with other renowned revolutionaries started the ‘Naujawan Bharat Sabha’ at Lahore that was an organization involved in various activities, mainly gearing the youth for the freedom struggle and putting an end to communalism.
+
+Sukhdev himself took active part in several revolutionary activities like the ‘Prison hunger strike’ in 1929; however, he would always be remembered in the chronicles of the Indian Freedom Movement for his daring yet courageous attacks in the Lahore Conspiracy Case (18th December, 1928), that shook the very foundation of the British Government. Sukhdev was the accomplice of Bhagat Singh and Shivaram Rajguru, who were involved in the assassination of Deputy Superintendent of Police, J.P. Saunders in 1928, thus avenging the death of veteran leader, Lala Lajpat Rai, owing to excessive police beating in the Conspiracy case. After the Central Assembly Hall bombings in New Delhi (8th April, 1929), Sukhdev and his accomplices were arrested and convicted of their crime, facing the death sentence as verdict.
+
+On 23rd March, 1931, the three brave revolutionaries, Bhagat Singh, Sukhdev Thapar and Shivaram Rajguru were hanged, whilst their bodies were secretly cremated on the banks of the River Sutlej. Sukhdev Thapar was just 24 years old when he became a martyr for his country, however, he will always be remembered for his courage, patriotism and sacrifice of his life for India’s independence."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

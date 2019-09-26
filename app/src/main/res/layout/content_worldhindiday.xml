@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Worldhindiday"
+    tools:showIn="@layout/activity_worldhindiday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Hindi Diwas Essay 5 (600 words)
+
+Hindi Diwas is celebrated on 14th September each year to honour the language and the day it was declared to be one of the official languages of India. The fourth widely spoken language in the world sure deserves all the respect it has been given by marking a special day to celebrate its importance. There are a number of interesting facts about this language that makes it unique.
+
+Hindi Diwas – A Great Step
+
+The fact that Hindi has been sanctioned as an official language in India is great. However, what is even greater is the decision to celebrate the day as Hindi Diwas each year. Hindi Diwas is a reminder that no matter where we reach, we must not lose touch of our roots and culture. It is what defines us and we must rejoice it. The day is celebrated with zeal in various government institutions.
+
+Interesting Facts about the Hindi Language
+
+There are several interesting facts about the Hindi language. Here are a few of these:
+
+    The name, Hindi has been derived from the Persian word, Hind that means Land of the Indus River.
+    Hindi is basically one of the members of the Indo-Aryan languages of the Indo-European family of languages.
+    The language does not include any articles.
+    Many words in Hindi draw inspiration from Sanskrit.
+    Hindi is written in a purely phonetic script. The words in this language are pronounced exactly the way they are written.
+    Many words used worldwide that are mistaken to be English words are actually from Hindi language. Some of these include jungle, loot, bungalow, yoga, karma, avatar and guru.
+    In Hindi, all the nouns have genders. They are either feminine or masculine. Adjectives and verbs in this language vary based on gender.
+    It is among one of the seven languages that can be used for making a web address.
+    Every sound in the world can be written in the Hindi language.
+    Hindi language is not just used in India but in various other countries around the globe including Pakistan, Fiji, Nepal, Sri Lanka, Singapore, New Zealand, United Arab Emirates and Australia.
+
+Schools Must Celebrate Hindi Diwas
+
+It is unfortunate that even as Hindi is the most widely spoken language in India and has also been sanctioned as one of the official languages of the Republic of India most schools in India treat it as unimportant. English is given more significance and stress is laid upon learning both spoken and written English.
+
+Children, these days, grow up with a mindset that a person who speaks English knows everything and is better in every respect than those who are not fluent in the language. Those who choose to speak in Hindi during the interviews or elsewhere are looked down upon. This mindset should be changed. It is true that English is a global language and is given preference especially in the corporate world and it is not wrong to hone the students’ written and spoken English. However, they should not be given an impression that Hindi is lesser than English in any respect. It is time the students must be taught to value and respect both the languages alike.
+
+Just as the schools conduct fun activities and cultural programs on other special occasions such as Diwali, Independence Day and Janamashtami, they must also celebrate Hindi Diwas to rejoice our mother tongue.
+
+Conclusion
+
+Hindi Diwas is a great way to pay respect to our national language, Hindi. The newer generation is fascinated by the western culture and English language and is following them blindly. This day is a good way to remind them of their roots which is important in building their character."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

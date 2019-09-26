@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_nature"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Nature">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Nature is the natural environment which surrounds us, cares us and nourishes us every moment. It provides us a protective layer around us to prevent from the damages. We are not able to survive on the earth without nature like air, land, water, fire and sky. Nature includes everything around us like plants, animals, river, forests, rain, lake, birds, sea, thunder, sun, moon, weather, atmosphere, mountain, desserts, hills, ice, etc. Every form of nature is very powerful which has ability to nourish as well as destroy us.
+
+Now a day, everyone has less time to enjoy nature. In the increasing crowd we forgot to enjoy nature and improve health. We started using technological instruments for our health fitness. However it is very true that nature has power to nourish us and fit us forever. Most of the writers have described the real beauty and advantage of the nature in their writings. Nature has ability to make our mind tension free and cure our diseases. Because of technological advancement in the life of human being, our nature is declining gradually which needs a high level of awareness to keep it in balance and to conserve natural assets.
+
+God has created everything very beautifully seeing which our eyes can never be tired. But we forgot that we too have some responsibility towards our nature to relationship between nature and human beings. How beautiful scenery it looks in morning with sunrise, songs of birds, sounds of lakes, rivers, air and happy gatherings of friends in the evening in garden after a long day of crush. But we forgot to enjoy the beauty of the nature in just fulfilling our duties towards our families.
+
+Sometimes during our holidays we spend our whole day by watching TV, reading news paper, playing indoor games or on the computer but we forgot that outside the door we can do something interesting in the lap of nature ad natural environment. Unnecessarily we left on all the lights of home, we use electricity without need which ultimately increases the heat in the environment called global warming. Our other activities like cutting trees and forests increase the amount of CO2 gas in the environment causing green house effect and global warming.
+
+If we want to be happy and healthy always we should try our best to save our planet and its beautiful nature by stopping our foolish and selfish activities. In order to keep ecosystem in balance we should not cut trees, forests, practice energy and water conservation and many more. Ultimately we are the real user of the nature so we should really take care of it."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

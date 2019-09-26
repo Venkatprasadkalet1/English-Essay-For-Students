@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Nationalpanchayatiday"
+    tools:showIn="@layout/activity_nationalpanchayatiday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="The Panchayati Raj Day is celebrated across India with fgreat enthusiasm to honour the Panchayati Raj System. On this day the governemnt honours the various members of Panchayati Raj systemfor their work and contribution. It is a very important day for India. Hence students from schools and college are asked to write essays, speech, paragraphs on Panchayat Raj Day and system. So in this article, we have given yoou all the information about Panchayat Raj Day 2018 and Panchayat Raj System in India such as what is Panchayat Raj Day? what is Panchayat Raj system in India? The history of Panchayat Raj Day, what is E-Panchayat? Someinteresting fun and interesting facts about Panchayati Raj Diwas or the National Panchayati Raj Day (NPRD). So, let’s start.
+What is The Panchayati Raj Diwas?
+
+Every year on April 24, India celebrates the Panchayati Raj Diwas or the National Panchayati Raj Day (NPRD), where the government felicitates the members of the Panchayati Raj System, a system that stems from the villages and works for their betterment and development. This day marks the day in history when the Constitution Act (73rd Amendment, 1992) came into effect in 1993. This day is lauded, as it was on this day that the constitution endowed the village Panchayats with the power to function as self-sustained units of self- government. The Union Ministry of Panchayati Raj organizes national conferences on this day and honors the best performing Panchayats with the following awards:
+
+    Deendayal Upadhyay Panchayat Sashaktikaran Puraskar
+    Nanaji Deshmukh Rashtriya Gaurav Gram Sabha Puraskar
+    Award to Gram Panchayats for good work in the implementation of Mahatma Gandhi National Rural Employment Generation Scheme (MGNREG), awarded by the Ministry of Rural Development
+
+The very first Panchayati Raj Diwas was celebrated on April 24, 2010, under the aegis of the then Prime Minister of India, Manmohan Singh.
+The Origin and History of Panchayati Raj
+
+The Panchayati Raj owes it to the Father of the Nation, Mahatma Gandhi for advocating it as the foundation of India’s political system. He envisioned a decentralized form of government in the form of Panchayats, where each village will be held accountable and work towards its own affairs. He called them ‘Gram Swaraj’ but along with the name, there are several differences between the blueprint planned by Mahatma Gandhi and the current day Panchayati Raj System. The Balwant Rai Mehta Committee headed Mr. Balwantrai Mehta was the one that recommends the system of decentralized democracy which later came to be known as the Panchayat System. The very first Panchayat was formed in the state of Rajasthan on 2nd Oct 1992 in the Nagaur District. The 73rd Amendment 1992 added a new Part IX to the constitution under the title ‘The Panchayats’ which covered provisions from Article 243 to 243(O)."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

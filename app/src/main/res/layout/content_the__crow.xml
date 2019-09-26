@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".The_Crow"
+    tools:showIn="@layout/activity_the__crow">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbf"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Essay In 400 words------------------------A crow is a common black bird that found everywhere. It has brown eyes, black legs, and a short tail. It eats fruits, grain, insects, warms and flesh. It has very harsh voice. It caws loudly. The common crow may usually live for about 7 years, although some have lived as long as 14 years in the wild. It eats fruits, worm, eggs and flesh. A crow is a natural cleaner. The crow lives in a tree and in groups. It is very intelligent bird.
+Amazing Facts About The Crow
+
+    Crows have the biggest brain to body ratio among all bird species. Evolved with a highly developed fore brain, where intelligence is regulated, the anatomy of the crow brain is much similar to humans’.
+    Within the crow species, the smallest crow in the world is, the Dwarf Jay from Mexico, which is about 21.5 cm long. It weighs 40 g.
+    Crows are very social and can even bond with humans. Commonly, it has been noticed that crows forage on the food disposed by humans. Moreover, they prove to be very useful when it comes to controlling pests that destroy crops.
+    Some species of crow such as, common raven, Australian raven, and carrion cranes have known to attack and kill animals bigger than their size.
+    The wild hooded crow found in Israel knows how to use bread crumbs for luring a fish.
+    There are various myths associated with crows. They are depicted in various forms in different cultures In Irish mythology, crows are associated with Morrigan, the goddess of war and death. According to the Greek mythology, when the white crow, the guard of god Apollo’s lover Cornish, informed him about the affair of his lover with Ischys, then in anger, god Apollo cursed and turned its white feathers into black. And the crows are said to bear black colour from that moment.
+"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

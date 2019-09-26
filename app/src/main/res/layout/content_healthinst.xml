@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Healthinst"
+    tools:showIn="@layout/activity_healthinst">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Health and Fitness Essay 6 (400 words)
+
+Introduction
+
+Health and fitness is the state of being healthy both, physically and mentally. Regular exercises and balanced diet can improve health and fitness of a person. We can define health as the state of complete mental, physical and social well-being of a person. It is not only the absence of illness, diseases or infirmity. We can define the fitness of any person as the ability to meet demands of the environment.
+
+How to Maintain Health and Fitness
+
+There are various ways we can keep us healthy and fit if we follow regularly the following:
+
+    We should regularly involve in the daily physical exercises by getting some time from our much hectic schedule. 30 to 60 minutes of exercise on daily basis or five to six times a week is ideal for anybody to remain fit.
+    Healthy and clean food in right amount and at right time is very necessary for a person to stay healthy and fit. Healthy nutrition with high-fiber, low-fat, high protein, and rich source of vitamins and minerals is the key to good health.
+    In order to get fit and healthy, good sleeping pattern is very necessary for any person. We need to maintain a discipline in our daily routine and focus on good sleeping pattern which must start and end at right time. Taking quality sleep of eight hours each night boosts our immune system and helps in preventing cardiovascular diseases as well as improves mood. Inadequate sleeping pattern leads to the sleep disorders and various mental disorders.
+
+Importance of Health and Fitness
+
+Health and fitness is very important for people who want to live a healthy life very happily and peacefully. A healthy and fit person is only capable to live life to its fullest extent. We can say a person healthy and fit if he/she is physically and mentally fit. Physically and mentally fit people become less prone to the medical conditions. Health and fitness of any person helps in:
+
+    Decreases the risk of diseases (high blood pressure, diabetes, coronary heart diseases, colon cancer, osteoporosis, obesity, stroke, breast cancer, etc).
+    Make them feel better both, physically and mentally.
+    Improves their confidence level.
+    Heals injuries soon.
+    Helps to live longer by adding years to the life.
+    Reduces stress and improves quality of life.
+    Reduces anxiety level, stress, and feelings of depression.
+
+Conclusion: Regular physical activities and routine exercise is very necessary for the people of all age group especially younger generations. Health and fitness brings happiness in the life and helps a person to live stress free and disease free life."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

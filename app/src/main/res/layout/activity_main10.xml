@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cool"
+    tools:context="com.actionbar.venkat.thor.MainActivity10">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back11"
+            android:text="Telivision" />
+
+        <Button
+            android:id="@+id/button28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back"
+            android:text="Computer" />
+
+        <Button
+            android:id="@+id/button29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back11"
+            android:text="Modern Science" />
+
+        <Button
+            android:id="@+id/button30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back"
+            android:text="Radio" />
+
+        <Button
+            android:id="@+id/button42"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back11"
+            android:text="Solar Energy" />
+
+        <Button
+            android:id="@+id/button44"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back"
+            android:text="Astronaut" />
+
+        <Button
+            android:id="@+id/button43"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back11"
+            android:text="Space Travel" />
+
+        <Button
+            android:id="@+id/button49"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back"
+            android:text="Heat Energy" />
+
+        <Button
+            android:id="@+id/button45"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back11"
+            android:text="Internet" />
+
+        <Button
+            android:id="@+id/button48"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back"
+            android:text="Benefits Of Science" />
+    </LinearLayout>
+</ScrollView>

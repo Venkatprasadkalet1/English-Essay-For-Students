@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Modern"
+    tools:showIn="@layout/activity_modern">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="The present age is the age of science. Science has influenced every walk of life. Today man cannot live even for a while without the use of one or the other of its inventions. Science has provided us with all possible comforts and has increased our happiness. Let us here discuss some of the most important of its wonders.
+
+        Science has provided us with swift means of communication. The simple villagers still consider the railways as the work of gods. The railways have removed all those dangers and difficulties that man had to face during a journey in the past. By the steamship man has acquired complete mastery over the wild oceans. In the aero plane, he can fly like birds. One can now take lunch in Delhi and dinner in Bombay, or Calcutta. The globe has shrunk and the world has become a small place. Science has conquered time and space.
+
+        Still more wonderful is the invention of the wireless. It is now possible to talk a person at a distance of thousands of kilometers. Through the radio we can enjoy songs, dialogues, stories, etc. we can listen to news from every corner of the world. We have not to go anywhere; we have simply to turn on the switch of our radio. Through the television we can also see the face of the singer or the speaker. The wireless has proved a great blessing for mankind and is serving humanity in various ways.
+
+        ADVERTISEMENTS:
+
+        Science has invented many wonderful machines. There is a machine for every purpose of life. Cranes can lift heavy weights. Tractors can plough fields, sow seeds and reap crops. Machines can cook our food and serve it for us. There is a machine for every purpose of life. In short, machines have lessened human drudgery and added to our comfort and happiness.
+
+        Electricity is another wonder of science. It has turned night into day. In the winter it heats our rooms and in the summer it cools them. It moves our fans and other machines. Our cinema, radio, and T.V. sets are all worked by it. Even trains are now running by it. It is impossible to describe in full the main fold services of the wonders of science.
+
+        Science has also achieved wonders in the field of medicines. There is now a cure for all most all kinds of diseases. Vaccines check the spread of infections as cholera, smallpox, etc. penicillin and streptomycin have proved to be a boon for humanity. Through the x-ray and cat scanners we can see the inner parts of the human body. Soon, it will become possible to cure cancer and AIDS also. Heart surgery has already become a matter of routine. Medical science has conquered pain and suffering and lengthened human life. It has given eyes to the blind, ear to the deaf, voice to the dumb, and hand and feet to the cripple.
+
+        Computer is another recent wonder of science. Computer is a machine which processes information and preserves memory. Computer makes calculation at very fast rate. Computer are being used in every field e.g. medicine, communication, space research, predicting weather, banks, industry, business and scientific research etc. the computer is most honest and humble servant of humanity. It does not get involved in corrupt practices and favoritism. Being a machine, a computer does not suffer from the human traits of tiredness and lack of concentration and other weakness.
+
+        ADVERTISEMENTS:
+
+        It is not possible to enumerate all the wonders of modern science. Every day we hear of a new wonder. Some years ago the atom was broken and its energy was used to produce the dreadful atom bomb. It is hoped that the peaceful use of this tremendous energy would bring in an age of peace and prosperity, such as the world has never been before.
+
+        The latest of its wonders is the man-made moon or “sputnik”. Scientists have succeeded in sending man into outer space and in bringing him back alive to the earth. Man into outer spaceship and taken a walk in space. He has already set his feet on the moon and walked on its surface for hours. It is now hoped that man would soon be able to reach other planets also."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

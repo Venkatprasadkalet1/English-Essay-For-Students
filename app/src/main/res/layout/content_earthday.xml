@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Earthday"
+    tools:showIn="@layout/activity_earthday">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Before we start Essay on Earth day we must read little detail about our Planet and its History. Earth was created 4.7 billion years ago. The shape of the earth is not completely spherical; it is very close to one area. The Earth’s median diameter is slightly larger than the polar diameter. Which is 12,756 kilometres. 12,714 km surface area of ​​earth is of 14 crore sq.km (approximately). Land is 36 crore sq.km (approx) and 51 crore sq.km (approx) water. Earth completes a rotation relative to the sun in 24 hours, which is called a solar day. Out of Eight Planet, six Planets revolve counter-clock wise direction and two revolve clockwise direction.
+
+The Earth is in the counter-clockwise direction or right or the direction towards the east revolves from left. Rotation works in three reasons. First of all, the axis of rotation acts as a reference in the setting of the geographical grid of latitude and longitude. Second, this time, provided a good way to pass 24 hours or 1440 minutes or one day of 86,400 seconds. Third, it greatly influenced the process of physical and life on Earth. Not only is the earth, we live in a planet where there a most important natural resource. In the possession of a nation, the economic interest of the state is important from the viewpoint. In the case of the region, one of the ten largest countries in the world, there are six emerging market economies.
+
+
+Earth Day Beginning
+
+Earth Day was first celebrated on April 22, 1970 throughout the United States. Then to increase the awareness of the clean environment, the Earth Day was celebrated every year in the whole world. This year, the global theme of the 45th anniversary of ‘Prithvi Dill’ is inspiring everyone to come forward for environmental protection. On the occasion of Earth Day every person will have to learn to use natural resources economically, then the earth will be blossomed with various forms of life, fulfilling our needs.
+
+Our planet earth is very beautiful and life-giving. This unique planet is the third planet of the Solar System, which came into being today about 4.5 billion years ago. Life has developed in various forms on this planet as a result of various complex processes and delicate combinations since the millions of years of earth’s birth. Due to the unique structure of the planet Earth, distance from the sun and other physical causes, life has been found here.
+
+
+Life on this earth has been blossoming in its colorful forms, and humans have the title of the most intelligent creature. But as human beings have stepped up the ladder of civilization, then its needs have increased. For the sake of fulfilling your needs, the human has tasted the delicate balance of the planet by exploiting more and more natural resources. It is to think that despite the unbridled exploitation, the man has not been much happier than before, has become much more sad. In the twentieth century, when the world was engaged in the blindness of development, then our environment was not the subject of anybody’s concern. All eyes were fixed on the latest developments. In this generation, we are not breathing in a clean environment. We have achieved development at the expense of the environment in the last century. We have looked at our environment and biodiversity for development, so today we are facing a global challenge like global warming.
+Short Essay and Speech on Earth Day in Hindi with Picture
+Earth day Essay in hindi
+
+
+Global warming has become a daunting challenge for the whole world. Global warming and various problems related to it such as polluted environment, extinction of species and species, extinction in fertile land, food crisis, erosion of coastal areas, low energy sources, and spread of new diseases. The clouds of destruction are on the earth from the sky. Now a days, human beings desire to spend more and more physical facilities and spend comfortable and glorious life. And in this path, everyone wants to move forward in the development and progress, which has become commonplace to exploit natural resources. Now  pure water, pure soil and pure air have become unfamiliar to us. The road to development is being created for the human being, nature does not exist anywhere. The highest responsibility of maintaining the life-style of the Earth is on the shoulders of human beings. In such a situation, human beings need to follow such a person or his thoughts, which are known to be close to nature and have always respected nature. In the world, some of the people who have done or are doing stunning  things to save our planets some names like Mahatma Gandhi, May Boeve, Julian McQueen, Jane Kleeb, Heidi Cullen etc. We have to learned from them a lot and walk on their foot marks.
+
+Due to the human values ​​and degradation in the environment today, there has been concern about the happy future of the earth and the life here. At such a time, we have to change our lifestyle, we need to adopt such ideology so that we can establish a loving relationship with human nature, it’s our responsibility to maintain the beauty of the planet."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

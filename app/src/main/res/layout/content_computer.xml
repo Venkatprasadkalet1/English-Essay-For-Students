@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Computer"
+    tools:showIn="@layout/activity_computer">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Computer Essay 6 (400 words)
+
+Invention of the computer has made many dreams come true even we cannot imagine our lives without computer. Generally computer is a device used for many purposes like information storage, email, messaging, software programming, calculation, data processing and many more. Desktop computer need a CPU, an UPS, a keyboard and a mouse for well functioning however laptop does not need anything to add outside as it is included with all inside. Computer is an electronic device having big memory which can save any data value. We are living in the advanced world of computer in the 21st century.
+
+Earlier the functioning of the old generation computer was very limited but new generation computers are amazing with lots of functioning. Charles Babbage had invented the first mechanical computer which was totally different from the modern day computer. The aim of computer invention was to create a machine which can perform very fast mathematical calculations. During the World War II it was used to locate and estimate the direction and speed of weapons of the enemies. Modern day computers are available with the artificial Intelligence technology to helps us in every sector of life.
+
+New generation computer are being highly advanced means smaller, lighter, speedier and more powerful. Now a day, it is running in almost all walks of life like weather forecasting, guidance of spacecraft, examinations, education, shopping, traffic control, high level programming, automation in banks, railway ticket booking, playing games, medical sector, machinery operations, job opening, business, crime detection etc. It is the backbone of the Information Technology including with the internet and proved that nothing is impossible today. If there are positive effects of the computer on the life of human being, it also negatively affected the human lives such as rise in the Cyber crime, pornographic websites can be accessed by kids or younger and many more however using some preventive measures we can be safe from its negative effects.
+
+The whole human fraternity is becoming highly dependent on the computer technology; no one can imagine life without computer. As, it has spread its wings so deeply in every area and made people used of it. It is very beneficial for the students of any class. They can use it to prepare their projects, learn poems, read different stories, download notes for exam preparations, collect large information within seconds, learn about painting, drawing, etc. It enhances the professional skills of the students and helps in getting job easily."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

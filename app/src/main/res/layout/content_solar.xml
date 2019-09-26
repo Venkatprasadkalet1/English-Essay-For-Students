@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Solar"
+    tools:showIn="@layout/activity_solar">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Solar energy is the energy received by the earth from the sun that is converted into thermal or electrical energy.
+
+Solar energy influences Earth’s climate and weather and sustains life. Although solar energy only provides 0.15% of the world’s power, experts believe that sunlight has the potential to supply 5000 time as much energy as the world currently consumes.
+
+Broadly speaking, solar energy is a term for describing a range of methods for obtaining energy from the sun. For instance, wind, biomass and hydropower are all forms of solar energy.
+
+Wind develops through lows and highs in temperature. Wind drives waves. Rainfall, created by sun-warmed evaporated water feeds the rivers that are sources of hydro power. Fossil fuels are also forms of stored solar energy. Coal, oil and gas formed hundreds of millions of years ago from decomposed plant matter. Plant matter that grew by aid of the sun.
+Important Applications of Solar Energy in Modern Days
+
+Some of the important applications of solar energy are summarized below:
+
+(i) Space cooling and heating through solar architecture,
+
+(ii) Potable water via distillation and disinfection,
+
+(iii) Solar cooking,
+
+
+(iv) Solar hot water,
+
+(v) Day lighting,
+
+(vi) High temperature process heat for industrial purposes,
+
+(vii) Solar air-conditioning,
+
+
+(viii) Solar desalination,
+
+(ix) Solar electricity – photovoltaic,
+
+(x) Solar electricity – thermal,
+
+(xi) Solar vehicles,
+
+(xii) Solar chimney
+Uses of Solar Energy
+The use of solar energy for space heating of buildings :
+
+The architecturial design of the buildings helps in their passive space heating using solar Energy. Following strategies are useful for passive space heating:
+
+(a) Provide large south-facing windows
+
+(b) Provide an entire wall of double-glazed windows.
+
+(c) Provide a heavy dark-coloured south facing wall behind a layer of glass, with room air circulating by convection between the wall and the glass.
+
+(d) Provide a flat roof covered by a pond of water. Provision should be there for an insulating screen cover for cooling requirement in summer.
+
+Note that no mechanical equipment is needed for passive solar heating.
+
+An active technology of solar space heating needs a collector to absorb and collect solar radiation. Subsequently fans or pumps are used to circulate the needed air or heat absorbing fluid (generally water). Water systems are more common than air systems as they offer better heat exchanger performance.
+The use of solar energy for the generation of electricity-photovoltaics :
+
+Photovoltaics (PVs) are arrays of cells containing a solar photovoltaic material that converts solar radiation into direct current electricity. Solar cells produce direct current (DC) electricity from sunlight, which can be used to power bulb/equipment or to recharge a battery, however, for grid connected power generation; an inverter is required to convert the DC to alternating current (AC)
+
+A number of solar cells electrically connected to each other and mounted in a support structure or frame is called a photovoltaic module. Multiple modules can be wired together to form an array. In general, the larger the area of a module or array, the more electricity that will be produced
+
+When the n-type and p-type semiconductors are sandwiched together, and irradiated with sunlight, the excess electrons in the n-type material flow to the -type, and the holes thereby
+
+Vacated during this process flow to the n-type through this hole and electron flow, the two semiconductors act as a cell, creating an electric field at the surface where they meet (known as p-n junction). It is this field that causes the electrons to jump from the semiconductor out toward the surface and make them available for the electrical circuit"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

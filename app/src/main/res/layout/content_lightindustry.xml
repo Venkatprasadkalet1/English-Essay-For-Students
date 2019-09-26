@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Lightindustry"
+    tools:showIn="@layout/activity_lightindustry">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Industry means the production of goods for sale by the application of human or mechanical power. It is concerned with changing the form of goods at any stage from raw material to the finished product.
+
+Thus, industry creates 'form utility' for the satisfaction of human wants. Procuring coal from coalmines, converting cotton into cloth, breeding catties, con­structing houses are examples of industry.
+
+Industry involves the production of both consumer goods and producer goods. Consumer goods are produced for direct use by people. Bread, butter, cloth, spices, drugs, etc. are examples of such goods.
+
+Producer goods or capital goods are required for the production of consumer goods. Raw materials, machinery, equipment, plastic, rubber, aluminum, etc. are examples of producer goods.
+
+Industry may be classified into four broad categories.
+
+1. Genetic industries:
+
+These industries are concerned with reproducing and multiplying of certain species of plants and animals with the object of earning profits from their sale. Plant nurseries, poultry farms, cattle breeding farms, fish hatcheries and forestry are examples of genetic industries.
+
+2. Extractive industries:
+
+These industries are engaged in extracting useful materials from land, sea and air. In these industries the products gifted by nature are obtained for the benefit of mankind.
+
+Agriculture, mining, fishing and hunting are some of the examples of extractive industries. Produce of extractive industries maybe used either as finished products or as raw materials for further production.
+
+3. Manufacturing industries:
+
+These industries are concerned with the processing or trans­formation of raw materials and semi-finished products into finished products. Such industries change the shape and form of materials produced by genetic and extractive industries.
+
+They create form utility. For instance, the iron ore extracted through mining is converted into steel. Engineering, cement, sugar, textiles, jute, etc. are the main examples of manufacturing industries. Manufacturing industries are of the following types:
+
+(a) Analytical:
+
+In an analytical manufacturing industry, a basic raw material is broken into several useful materials. For example, in an oil refinery, crude oil is refined and several petroleum products are obtained.
+
+(b) Synthetically:
+
+In this type of manufacturing industry two or more materials are mixed to form a new product, e.g., cosmetics, soap, cement, fertilizer, paint, etc.
+
+(c) Processing:
+
+In the processing industry, a material is processed through various stages. For example, in the cotton textile industry, cotton passes through the spin­ning, weaving, dyeing, bleaching and printing processes.
+
+(d) Assembling:
+
+In this type of industry, manufactured components or parts are com­bined together mechanically or chemically to produce a new product. For ex­ample, manufacture of radios, TV sets, watches and automobiles are assembling industries.
+
+4. Construction industries:
+
+These industries are engaged in the construction of buildings, bridges, roads, dams, etc. They utilise the products of manufacturing industries such as bricks, steel, cement, etc. These industries create the basic infrastructure through the process of fabrication.
+
+The distinctive feature of these industries is that their products remain fixed at one place and cannot be taken physically to the market for sale. Prod­ucts of construction industries are very durable.
+
+Sometimes, genetic and extractive industries are called primary industries while manu­facturing and construction industries are known as secondary industries.
+
+On the basis of size and scale of operations, industries may be classified into large-scale and small- scale industries. Large-scale industries employ more capital-intensive techniques of production than small scale industries. On the basis of the volume of capital invest­ment, industries may be heavy or light.
+
+Heavy industries involve huge investment and they are engaged in the production of capital goods such as steel, machinery, ships, aircrafts, etc. On the other hand, light industries require little capital investment and produce consumer products such as stationery, cosmetics, jewellery, food products, etc."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

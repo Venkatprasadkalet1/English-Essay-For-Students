@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Facebook"
+    tools:showIn="@layout/activity_facebook">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Facebook is a networking site, which connects people all over the world, making the Earth a global village. This social networking giant was launched by Mark Zuckerberg and his friends. The website mainly aims at connecting people or helps them socialise and makes its revenue out of advertising. This paper mainly tries to tell what facebook is all about, and concentrates on how it can be used for educational purposes. It also highlights few of the security problems faced by the users of facebook. This paper mainly tells about the student- teacher interaction, students' council on facebook and how it will be useful to their education above and beyond portraying results of a FB opinion poll which can divulge and justify the creation of this study.
+INTRODUCTION:
+
+Facebook was founded by Mark Zuckerberg and his roommates at Harvard. He initially founded a website called 'Facemash' for Harvard students. Since the website attracted many users, he was motivated to programme 'Facebook'. Initially, the usage of this website was limited to Harvard students. Later, seeing the response that this website received, it was extended to the students of other universities as well. In 2009, the services of this website were made global to anyone above the age of 13.
+
+The users of this website have to create an account using a valid email- id. Each user has a separate profile, which bears some personal information about the user. Users can edit their profile, add pictures, post on their wall (a wall is a private space provided by this webpage. It is more or less like a personal notice board, where in, users can write, comment, add videos, pictures, etc.), send messages (the message option is more or less like the email and is a secure communication link) or even poke their friends (a partially fun and partially boring event to let other users know that you exist). Users are also allowed to customize the privacy settings for their profiles, where, the contents of their profiles will be viewed only by their friends, or a selected, customized few.
+
+Any registered user can search for and add any other member as friend, provided the other person accepts the 'friend request'. Users can also categorise their friends as close friends, family, high school friends, etc to keep track of their close ones' activities. Further, users are allowed to create or join groups of their interests.
+
+Users are also allowed to create 'Events' and send out online invitations with the RSVP option thus providing the organizer an efficient and simple tool to make their 'organizing' a huge success!
+
+Facebook also provides notifications, where in users are reminded about various important happenings, meetings, dates, etc. This interface also informs users if they have been tagged on someone-else's profile. Facebook provides the chart, calendar and clock applications as well.
+
+Facebook has emerged as a new dais not only for mere communication but for learning and teaching as well. With the help of breakthrough technology, facebook is supported in all mobiles, tabs and computers. This indeed has turned FB as a teaching platform where we can share materials, have a discussion, conduct contests and assessments and above all it requires no pre-training to start with [4]. Even though FB users range from school going children to elderly people, the ratio of teens and college students is substantially large. The reasons behind this are it is a new-fangled venue to utter and convey themselves, innocuous lurking, identity marking apart from acquaintances, mythoi and quixotic affairs, which are the prime facades of juvenile growth. Elaborate cram based on the time the college youth spend per day, how and why they exercise FB also portray the same end results.
+
+From both the students and teachers point of view, facebook can be efficaciously practiced as a social network; Students envision FB as a course and mandeacute;tier for vigorous participation, to solidify self pride and poise etc whereas rendering inferential outcomes, explicating diverse didactics, adapting and updating to the scenario of expectations of students etc are some added vantages to the teachers. Another angle of approach is how facebook can be made use of to dig into instructors' strike of self-revelation which tops on a student's reliability in addition to immediate apprehension. Studies are going on in this invited research area which analyses the essence of computer-liaised teacher disclosure. Facebook is likely happened to be a worthy asset to abide academic alliance with faculty. Findings indicate that the latter's self-revealing tendency may stimulate students for efficacious learning by means of interactive sessions.
+
+Prior to be used for educational purposes, FB is nowadays used by the students to pre-register to engage with an educational institution, to socialize and to integrate with the other students [2]. Detailed works shed light on social networks' evolution, people's horizon, FB's entailment on executives, its prospects on campus networking in time to come and also mentionable is interface with studying environs. Apart from just learning, it definitely acts as a powerful medium in spreading a social matter which draws attention of millions in just a few seconds. More theories deal with this thought and several analyses are done for the practical possibilities.
+
+Apart from general studies, finical reports state that several SNSs (certainly including FB) have come under daily cum inevitable means of (academic) communication. Statistics, surveys, questionnaires etc render helping hand to know the diversified impression of SNSs. Having mentioned that, via those one can come to an idea of their grandness, innovation, requisite, uses and intention. Though SNSs have some drawbacks, their overhaul and resources have grown their usance to a phenomenal extent and, which, now have become very common. Some grounds of FB which have made it unimaginably popular are self expression, entertainment quotient, maintaining relations, visual familiarity, global updates of all forms, media drenching, following famous icons regularly etc.
+
+Not only meant for entertainment and educational platform, through FB, researchers across the globe are experiment the mental attitude, especially of students', depression references. There exist some strategies to approach a person who have expressed his/her personal opinion about something or somebody. Since it is now a rising issue, this topic is worth discussion [5]. A mathematical experiment on FB and its users reveal the approximate percentage of the genders, the time each race spend, various purposes like chatting, finding friends, lurking, work and event reminder, multimedia sharing, games, business and many more . Thus, Through FB walls, students can keep up tight-knit links, call off one, and establish new contacts, not only generally but with other institutions as well. As far as students are concerned, they can share and exchange information about both teaching and learning and can develop themselves better practically than by being bookish. It definitely introduced an online fashion where people can get together with their near and dears and distant pals ."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

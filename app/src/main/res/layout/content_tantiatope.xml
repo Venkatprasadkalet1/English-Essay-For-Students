@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Tantiatope"
+    tools:showIn="@layout/activity_tantiatope">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Tatia Tope, like other freedom fighters, was one of the great heroes who fought courageously for India’s freedom in 1857. He was born in 1814 in a village Yeola in Maharashtra. His father Pandurang Rao Tope shifted with Peshwa to Bithur. Tantia and the adopted sons, Nana Sahib and Maharaja Madhav, of Peshwa became good friends. All his loved ones called him Tatia because he always used to wear a hat that was gifted to him by Peshwa.
+
+Tatia moved his first step against the British in 1851, when Lord Dalhousie deprived Nana Sahib of his father’s pension. In May 1857, he joined the political movements and established Nana Sahib’s authority. Britishers were trying to grab everything- the wealth, kingdom and the whole empire of the country. This became the biggest reason of discontent and revolt. He occupied Kanpur and then shifted to Kalpi to join Rani Lakshmi Bai to occupy Gwalior. Unfortunately, they lost the battle, Rani was killed and Britishers expanded their rule in Gwalior. After losing, he collected a huge force to fight against Britishers and was successful in capturing many forts of India. In Kalpi, he had established a center to manufacture arms. When he came to know that Britishers are short of resources, he took advantage of it and confronted Kanpur. Altogether, he fought 150 battles.
+
+Tantia, the name of terror for the English, was the one who shook the established niche of the British Empire. He was constantly fighting to win over the whole of India but unfortunately he was betrayed by one of his friend. Britishers caught hold of him and hung him to death on April 18, 1859. This incident brought tears in all eyes and he became the Supreme Commander of India’s independence.
+"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

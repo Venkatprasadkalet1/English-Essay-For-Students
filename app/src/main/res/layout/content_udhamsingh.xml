@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Udhamsingh"
+    tools:showIn="@layout/activity_udhamsingh">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Udham Singh’s name is linked inseparably with Jallianwala Bagh, because he was the man who took his revenge on General O’Dwyer, the British officer who had ordered firing on a peaceful gathering at Amritsar on a Baisakhi Day. Thousands of men, women, children and old men died in the massacre. Many tried to escape by jumping into a nearby well but were suffocated to death. Udham Singh waited for 21 years to avenge this national insult. He killed the villain of the show in England on 13 March 1940. Udham Singh was arrested and sentenced to death on 30 July, the same year.
+
+This fiery revolutionary was born on 18 December 1899 at Sunam in Sangrur District of the Punjab. He was already associated with the struggle for freedom before sailing for England and was sentenced to jail as many as five times for various anti-government activities.
+
+For Udham Singh, the Jallianwala Bagh massacre was a national outrage and ought to have been avenged, so he pledged to take his revenge. In 1937, he reached England after travelling through Europe. In London, he shot General O’Dwyer at a point-blank range in full view of a large gathering.
+
+Udham Singh was all for the unity and solidarity of the country. His life bears a lesson for all those who are propagating divisive ideas in the name of religion."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

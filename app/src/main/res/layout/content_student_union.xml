@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".StudentUnion"
+    tools:showIn="@layout/activity_student_union">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="A student’s union is an organisation of students. In Uttar Pradesh its membership is compulsory. Every student has to pay the membership fee. Every Inter and Degree college has its own union. Elections to student’s union are held every year, early in the session. First, a number of members of the Executive are elected. Then these members elect the Secretary, the President, the treasurer, and other office bearers of the union from among themsleves. In this way, isformed the cabinet of the union. It functions under the general supervision of some Professor-in charge nominated for the purpose by the Principal of the college.
+lunion-fait-la-force.jpg
+
+Image Source: publishyourarticles.net/wp-content/uploads/2015/06/lunion-fait-la-force.jpg
+
+During the last few years, the students unions have come in for a great deal of criticism. First, it is pointed out that most undisciplined elements in the college get elected to the cabinet. Then they function as the spokesmen of the students community. They put forward unreasonable and unjustified demands, and when the demands are not granted, they incite the students to go an strikes. It is this element which is responsible for strikes and other acts of hooliganism and violence in the college. They themsleves are not interested in their studies; they do not allow others also to carry on their studies peacefully. They are a nuisance for the Principal, for the teachers, and for their fellow students.
+
+Secondly , it is said that the office bearers of the union misuse the union funds. In big colleges, these funds amount to several thousands. No proper accounts are kept and a large amount is either wasted in entertaining guests, or it goes into the pockets of the officer bearers. If anybody dares to ask for accounts, he is threatened with dire consequences. As they are among the “dadas” of the college, nobody dares to challenge them. Even the professor in charge fails to exercise any control over the, He is made ineffective and his authority is flouted at every step. The President and the Secretary do what they think proper.
+
+
+Beside this, say the critics, the unions serve no useful purpose. They do not serve and literary or cultural ends. Only one annual function is organized, and that too, leads to much hostility, groupism and quarreling. The students quarrel among themselves on pretty matters. Daggers and knives are often used and sometimes even serious injuries are done away with.
+
+However, this is only one side of the picture. There is a brighter side also. The unions have many advantages as well. Our country has a democratic form of government. So it is necessary that every citizen should get a training in democracy. Students unions are very useful in this respect. They provide valuable training in democracy. The students have to elect their own representatives. They, this learn the value of their vote. They learn to cast their vote on merit and not on the basic of caste and religion, or the tea which may be offered to them.
+
+The candidates also learn how to contest elections. They have to place their programme of work before the students. They have frequently to speak to them and tell them what they would do for them, if they are elected. In this way, they learn the art of public speaking which is very essential for success in democracy. Those who are elected have to shoulder responsibility. They have frequently to come in contact with the principal and other authorities of the college. In this way they acquire much valuable training for practical life.
+
+Beside this, in the absence of the unions the students do not have any elected representatives who may function as their spokesmen. It has been seen that in colleges where there are no unions, every ‘Dada’ claims to have the support of the students and so presses the Principal to listen to him and concede his demands. If he is not listened to, he does his best to create trouble. In this way, the Principal is harassed, now by one leader, and then by another. Under the circumstance, student trouble becomes a daily occurrence.
+
+
+Taking all aspects of the matter into consideration we can say that students unions have a valuable role to play in college life. They are useful in many ways. No doubt, they have certain shortcomings but with a little care and attention their functioning can be improved. What they need is reform and not abolition."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

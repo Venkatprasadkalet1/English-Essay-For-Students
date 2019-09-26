@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Poultryfarming"
+    tools:showIn="@layout/activity_poultryfarming">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Poultry includes domestic fowls like chick­ens, ducks, geese, turkeys, etc. which are reared to obtain meat, eggs and feathers. It requires small capital investment and provides additional income and job opportunities to a large number of rural populations in the shortest possible time. About 1.2 lakh households are being benefitted through this occupation yielding Rs. 1300 Crores of income an­nually. Besides improving the nutritional value of the peoples, diet it generates 2.3 million tones of rich manure which is equivalent to 9.3 lakh tones of chemical fertilisers.
+
+There are over 350 million hens in the country which laid down about 39 billion eggs during 2001- 02 as compared to 10 billion eggs during 1980-81. The average growth rate of egg production between 1980-81 and 2001-02 increased at a rate of 13.8 per cent per annum against 3.8 percent during the period of 1973-74 to 1980-81.
+
+The largest number of poultry population is found in Andhra Pradesh followed by Tamil Nadu, Maharashtra, West Bengal, and Karnataka. Bihar, Orissa, Kerala, Assam, Uttar Pradesh and Punjab. Poultry farms are being developed around almost all the important urban centers like Mumbai. Pune, Nagpur, Kolkata, Delhi, Chandigarh, Bangalore, Chennai, Hyderabad, Shimla, Bhubaneswar and Ajmer etc. In case of ducks West Bengal occupies the foremost place followed by Assam, Tamil Nadu, Kerala, Andhra Pradesh, Bihar and Orissa.
+
+Indian fowls belong to two broad groups: (a) desi or indigenous, and (b) imported or exotic. Among desi breeds mention may be made of Chittagong, Punjab. Brown, Chagas, Lolab, Nacked Neck, Titre, Busra, Karaknath Denki, Tillicherry, Kalahasti. Etc. The impoted breeds include White Leghorn, Rhode Island Red, Black Minocra, Plymouth Rock, Australorp, New Hampshire, Light Sussex, Brown Leghorn etc. The important breeds of the ducks include Gilhet met, Nageshwari, Indian runner and Khaki Campbell etc.
+
+Central poultry breeding farms at Mumbai, Hessarghatta (near Bangalore), Chandigarh and Bhubaneswar are engaged in scientific poultry breed­ing programmes leading to the development of high egg producing hybrid and fast growing broiler strains and are supplying parent stock chicks.
+
+Similarly the Central Duck Breeding Farm at Hessarghatta is catering to the requirements of high egg producing Khaki Campbell breeding stock ducklings to various states and union territories of the country. Four random sample poultry performance testing centers at Bangalore, Mumbai, Bhubaneshwar and Gurgaon conduct egg laying broiler tests and provide useful information to poultry farmers, hatcheries and breed­ing organisation about performance of various par­ticipating layer and broiler stocks in the country (both from public/private sector organisations).
+
+Cen­tral Poultry Training Institute at Hessarghatta is imparting short-term practical courses to officials, students and oranisations. Regional feed analytical laboratories at Chandigarh, Mumbai and Bhubaneswar provide feed analysis facilities to farmers, public and private sector organisations.
+
+During 2003-04, 0.61 lakh of parent stock chicks were sold at the Central Poultry Breeding Farms and 0.99 lakh ducklings were produced at Central Duck Breeding Farm, Hessarghatta (India, 2005, p. 83)."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

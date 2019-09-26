@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Enviropollu"
+    tools:showIn="@layout/activity_enviropollu">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="
+Essay on Environmental Pollution: Causes, Effects and Solution
+
+Category: Blog, Environment By Ankita Mitra
+
+Environmental pollution refers to the introduction of harmful pollutants into the environment. These pollutants contaminates the environment. It has a hazardous effect on the natural world and on the activities of living beings.
+
+The major types of environmental pollution are air pollution, water pollution, noise pollution, thermal pollution, soil pollution and light pollution. (Please read the article on different types of pollution to know more about it.)
+
+Deforestation and hazardous gaseous emissions also leads to environmental pollution. During the last 10 years, the world has witnessed severe rise in environmental pollution.
+
+We all live on planet earth, which is the only planet known to have an environment, where air and water are two basic things that sustain life. Without air and water the earth would be like the other planets – no man, no animals, no plants. The biosphere in which living beings have their sustenance has oxygen, nitrogen, carbon dioxide, argon and water vapor. All these are well-balanced to ensure and help a healthy growth of life in the animal world. This balance does not only help the life-cycles of animals and plants, but it also creates the perennial sources of minerals and energies without which the human civilization of to-day could not be built. It is for this balance that the human life and other forms of existence have flourished on earth for so many thousands of years.
+
+Also read: Short paragraph on Pollution
+
+Human-beings are the most intelligent creatures on earth and they never stopped being inquisitive. Nor were they content with the bounties of nature. The quest of human-beings for knowledge and search for security succeeded in exploring newer and wider avenues of mysteries that remained baffling so long. Human-being’s excursions into the darkest regions of mysteries laid foundations for the stupendous civilization. The conquests of human-beings had ensured their domination in their world and gave them a key to control all the forces in nature.
+
+With the dawn of the age of science and technology, there has been huge growth and development of human potentials. The surge in pollution is often attributed to the wide scale urbanization and large-scale industrialization, which is in turn a product of our advancement in science and technology. And, it is here that man first began losing control and became victim of his own creations.
+
+Also read: Pollution: Different Types of Pollution
+Sources and Causes
+
+The sources and causes of environmental pollution includes the following:
+
+    Industrial activities: The industries all over the world that brought prosperity and affluence, made inroads in the biosphere and disturbed the ecological balances. The pall of smoke, the swirling gases, industrial effluents and the fall-out of scientific experiments became constant health hazards, polluting and contaminating both air and water. The improper disposal of industrial wastes are the sources of soil and water pollution. Chemical waste resulting from industry can pollute lakes, rivers and seas and soil too as well as releasing fumes.
+    Dumping solid waste: Household and commercial waste pollutes the environment when not disposed of properly.
+    Vehicles: The smoke emitted by vehicles using petrol and diesel and the cooking coal also pollutes the environment. The multiplication of vehicles, emitting black smoke that, being free and unfettered, spreads out and mixes with the air we breathe. The harmful smoke of these vehicles causes air pollution. Further, the sounds produced by these vehicles produces causes noise-pollution.
+    Rapid urbanization and industrialization: The urbanization and the rapid growth of industrialization are causing through environmental pollution the greatest harm to the plant life, which in turn causing harm to the animal kingdom and the human lives.
+    Population overgrowth: Due to the increase in population, particularly in developing countries, there has been surge in demand for basic food, occupation and shelter. The world has witnessed massive deforestation to expand absorb the growing population and their demands.
+    Combustion of fossil fuels: The combustion of fossil fuels pollutes the air, the soil and the water with noxious gases such as CO2 and CO.
+    Agricultural waste: Fertilizers and pesticides used in agriculture are key causes of environmental pollution.
+
+Also read: Sources of Water, Air and Soil Pollution
+Effect
+
+Environmental Pollution can have devastating effects on sea life, on crops and on human health. It affects all plant, human and animal life in a negative way. Almost all of our gains in the fields of industrial progress, science and technology had so far been realized at the cost of our health. Even our flora and fauna were found to be threatened with extinction.
+
+All this really leaves us wondering if all our achievements and industrial civilization really help us climb the peaks of prosperity or simply take us down the blind alleys of adversity. The question is being raised whether all is well with our industrial growth and progress in the field of science and technology.
+
+Many crusaders against environmental pollution are vehemently protesting against the indiscriminate violations committed daily in the name of development.
+
+The environmental pollution is not caused by the fall-out from nuclear tests or industries alone. The smoke left behind the automobiles and other vehicular traffic, the increasing use of synthetic detergents, nitrogen fertilizers and insecticides contaminate both air and water.
+
+    Contamination of water: The water we drink the vegetables are all contaminated to-day. As a result of this contamination our world is afflicted with a quite a number of incurable diseases.
+    Depletion of fresh water: Environmental pollution affects water sources which mean that there is less fresh water available for drinking, washing, cooking and irrigating crops.
+    Unsafe: Unless pollution levels are brought down, nothing in this world is immune, no life is safe, and the future of this world is bleak.
+    Brain and heart complications: The factories are mostly built in populated areas and the smoke-emitting vehicles ply through the congested areas. Besides causing immense disturbances, there are increasing case of pulmonary tuberculosis and thrombosis and various sorts of brain and heart complications.
+    Air-pollution related diseases: Air-pollution may cause severe lungs-diseases, asthma, brain-disorder diseases, etc.
+    Low Farm Output: Soil-pollution may have negative effect on farm output ratio. It can also contaminate the ground water.
+    Effect on auditory sense organs: Noise-pollution have negative effects on hearing or auditory sense organs. It can also cause deafness, tiredness, and mental losses.
+    Rise in environmental temperature: The heat generated by industries and vehicles causes thermal pollution by raising the environmental temperature of the nearby areas.
+    Extinction of species: There are many endangered species of both plants and animals. Many scientists believe that we are living in an era of mass extinction, due to human made environmental pollution.
+
+The birth of mills and factories is the result of the growth of industry in this machine-predominated age. As long as they will be there, they must emit smoke, pollute the air and hasten our end by slow-poisoning.
+
+The worst industrial environment tragedy occurred at Bhopal on December 3, 1984 as a result of toxic and poisonous leakage of methyl isocyanate (MIC) gas from a multi-national Union Carbide pesticides manufacturing plant. Over 2000 people including woman and children were killed, and hundreds were severely hurt.
+Solution
+
+What then is the remedy? A lot of pollution derives from human activity. As a result, it is we humans who will be able to stop pollution. But, there surely cannot be any radical solution, for the existing factories cannot be bodily lifted to a place far from the populated zone. However, the following attempts can be made to solve the problem of environmental pollution.
+
+    The Government can at least see that future factories are set up at a distant place, an industrial complex far away from the township.
+    Researcher may find out how to avoid harmful smoke from running vehicles. Countries, around the world, are promoting the use of on environment friendly electronic vehicles.
+    Deforestation should be stopped and Forestry should be developed. Forests help us combat pollution in many ways. The trees bind the soil and prevents soil pollution. They also help in preserving the biodiversity that is important for ecosystem balance. Trees takes in COs and releases oxygen and contributes in purifying he air.
+    Factory wastes should be disposed in environment friendly manner. Discharge of Factory wastes in rivers should be banned so as to make the river-water free from pollution.
+    Recycle the sewage or in all events it can be disposed of in such a way as to prevent it from polluting the environment.
+    Reducing the amount that we buy, reusing and repairing items wherever possible, and recycling as much as we can will all help to reduce the amount of waste dumped in the environment. When we do need to throw away waste we should do so responsibly.
+    Organic farming could be one solution for reducing environmental pollution levels.
+    Using fewer plastics would help in controlling plastic pollution.
+    Disposing of litter and chemicals responsibly.
+    Burning fewer fossil fuels.
+
+Initiatives
+
+    The UN Conference on Human Environment was convened to study the profound changes in the relationship between man and his environment in the wake of modern scientific and technological developments.
+    The World Health Organization also set up an international network for the monitoring and study of air pollution on a global scale and for devising possible remedies.
+
+Conclusion       We can very well notice the abnormal behaviour of the seasons – the cycle developing clogs in its wheels; and the worried experts fear that the disturbed balance in the biosphere has assumed such serious proportion that very soon our world would be uninhabitable like Hiroshima of 1945. But it is heartening to find the entire world aware of the menace. Some of the advanced countries have already taken some measures to meet it. If we fail to restore the ecological balance right now, it would be too late tomorrow."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

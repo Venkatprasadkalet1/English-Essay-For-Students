@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".valentineday"
+    tools:showIn="@layout/activity_valentineday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Valentine's Day is celebrated annually with fervour in memory of martyrdom of Saint Valentine. It is celebrated on 14th of February, every year. Initially the day was celebrated in USA and UK only. But with the globalisation and increasing technology and media coverage, there is hardly any part of the world where it is obscure. Though, there are many versions of the festival. In some countries it is related with commencement of spring, while in others it is celebrated as an agriculture festival.
+
+The exact historic evolvement of the day is murky. There are numerous priests in the history with the name Valentine or Valentinus. It is hard to make a specific relation with any of these priests as little historical record is available about them. But the most commonly accepted version is that Saint Valentine was a priest of Rome in 3rd century in the reign of Emperor Claudius II. The emperor had an opinion that bachelor men make a better army than the married one. So, in view of expanding his army base, he prohibited the marriage of young men and forced them to join army to serve the nation. Saint Valentine was however against his autocratic law and he continued to perform marriages of the young couples in secret. When Claudius discovered his actions and intentions he ordered death penalty for the priest. Therefore, the day is celebrated in remembrance of the martyrdom of the priest for love.
+
+There is another version of the story. Saint Valentine was jailed in the rule of Claudius where he healed the blind girl and fell in love with her. The girl was the daughter of jailer. Valentine wrote his love letter from the jail to the girl and signed it as 'from your Valentine'. The phrase is followed in the present generations while sending a love message or greeting card in the same format.
+
+The other version is that the day is nothing but the Christianised form of an ancient Roman festival known as 'Lupercalia Festival'. The festival is celebrated as the commencement of spring and purification.
+
+While there is another view, according to which mid-February is the mating season of birds in France and England. Thence the day is thought to be derived from the same fact.
+
+The oldest known reference of Valentine is a poem written by Charles, Duke of Orleans, to his wife in 1415. He wrote it when he was imprisoned in the Tower of London after facing a defeat at Battle of Agincourt. The manuscript is preserved in the British Library of London.
+
+In India, the day got prominence from the year 1992 only. It was the increasing effect of multi-national companies that mint a large profit in western countries on this day. It is the second largest festival celebrated after Christmas in the West. However, Valentine Day is gaining popularity among young lovers in the country also but it has been ardently opposed by various Hindu and Islamic traditionalists. They consider it as a threat to the values and cultures of their society. Some intellectuals also perceive it as the slavery mentality of the masses for western influence. According to them it only highlights the economic disparity in the society and creates a grudge among the urban and rural class of the society."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

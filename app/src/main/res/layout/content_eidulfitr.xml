@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Eidulfitr"
+    tools:showIn="@layout/activity_eidulfitr">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Eid ul-Fitr is a Muslim holiday celebrated when Ramadan, the month of fasting, finishes.[1] Muslims do not fast on Eid ul-Fitr as it is not allowed. When the new moon is seen after month of Ramadan, the next day is Eid ul-Fitr. After the Eid Prayer, the Muslim greet each other. Eid ul-Fitr lasts three days. During this festival, children accept gifts and eidiya in form of money from adults. It is an occasion intended for enjoyment, forgiveness, and feasting. In this festival, the Muslims wear new and clean dress. People go to relatives to meet them. They also buy gifts for each other. It is happened of in the first day of the month of Shawwal. It is a gift from Allah to his people for fasting for the whole month of Ramdan. No person should remain hungry on this day, which is why fitr charity is given to the deserving. War is forbidden on certain months and this month is among them. It is a must that people celebrate this by praying in the special prayers and by feasting. The month of Ramadan is the 10th month of the Islamic calendar."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

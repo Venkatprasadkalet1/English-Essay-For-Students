@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Subhashchandrabose"
+    tools:showIn="@layout/activity_subhashchandrabose">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Subhas Chandra Bose Essay 6 (400 words)
+
+Netaji Subhas Chandra Bose was a great patriot and brave freedom fighter of the India. He was a symbol to the nationalism and vibrant patriotism. Every children of India knows about him and his inspiring works for the freedom of India. He was born to the Indian Hindu family in Cuttack, Orissa on January 23rd in 1897. His early schooling was completed to his hometown however he did his matriculation from Presidency College, Kolkata and graduation in Philosophy from Scottish Church College, University of Calcutta. Later he went to England and passed the Indian Civil Service Examination with 4th position.
+
+He was very disappointed with the miserable conditions of the other countrymen because of the bad and cruel behaviour by the Britishers. He decided to join the nationalist movement instead civil service to help people of India through freedom of India. He was influenced a lot with patriot Deshbandhu Chittaranjan Das and later elected as Mayor of Kolkata and then President of Indian National Congress. Later he left the party because of the opinion difference with Mahatma Gandhi in 1939. After leaving the congress party, he found his own Forward Bloc party.
+
+He believed that non-violence movement is not enough to get freedom from the British rule so he chose violence movement to bring freedom in the country. He went away from India to Germany and then Japan where he made his own Indian National Army, also known as Azad Hind Fauj. He had included Indian prisoners of war and Indian residents of those countries in his Azad hind Fauj to fight bravely from the British rule. He gave slogan to his army named Delhi Chalo and Jai Hind. He had inspired his army men through his great words of “Give me blood and I will give you freedom” to make his motherland free from the rule of Britishers.
+
+It is considered that Netaji Subhas Chandra Bose was died in a plane crash in 1945. The bad news of his death had ended all the hopes of his Indian National Army to fight from British rule. Even after his death, he is still alive with his vibrant nationalism in the heart of Indian people as an everlasting inspiration. According to the scholarly opinion, he died because of the third-degree burn due to the overloaded Japanese plane crash. The great works and contributions of the Netaji have been marked in the Indian history as an unforgettable event."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

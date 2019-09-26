@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Instagram"
+    tools:showIn="@layout/activity_instagram">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Instagram Essay: The Quickest Way to Increase Followers
+Posted on December 12, 2016 by EssayShark
+
+This Instagram essay answers the question – what are the quickest ways to increase the amount of Instagram followers? The author preferred to speak about geographical locations in his/her essay. There is a small chance you will be given such topic too, but you will know how to format your paper and how to present your ideas.
+
+instagram-essay
+
+    Instagram is probably the most preferred social site that a person can reach out to many people without many formalities. Instagram is one of the best social networking sites as Facebook and Twitter. Due to this reason, a lot of Instagram users wish to have as many followers as they can and reach a broad audience. Most social scientists have also suggested that users who get more likes on such a media platform are likely to be happier. There are few effective ways that any user can achieve the action of getting more followers.
+
+    One of the main ways in getting more followers is to use hashtags when posting items. Hashtags are always used as a platform on which users from different location can indulge on a particular idea or subject (Ting, De Run and Liew, 2016). For example, a user in Asia can socialize effectively with a user in Africa on a frequent topic using a hashtag regardless of the geographical distance. A user only has to search for this hashtag, and discover other people that use the same hashtag to convene an idea on a central topic. This kind of communication is effective as there are quick responses, profound interaction, and sharing of a central agenda even though these different users are from different geographical locations. If an Instagram user uses the hashtag for food subject indicated by #food, this position indicates that he or she may use this hashtag to interact with other users or share ideas, thereby increasing popularity and a chance for a friendly relation.
+
+    In the recent days, most Instagram users get features. Some users have often argued that good Instagram accounts do not exist in a vacuum. A lot of accounts that experience an upsurge in followers tend to be featured in various places (Smith and Sanderson, 2015). Such areas include the suggested user list, the explore page, as well as the Instagram blog. To receive a feature, a user may need to post excellent content or posts that will move other Instagram users. However, fortunate users may apply organic follower growth to get more followers. This position may involve adaptation of posts into Reddit.
+
+    It is evident that there are several ways to get followers. The main issue, however, lies in establishing or retaining relevance while gaining more fans. With such an objective, keeping gained followers proves easy.
+
+    References
+
+    Smith, L. R., and Sanderson, J. (2015). I’m Going to Instagram It! An Analysis of Athlete Self-Presentation on Instagram. Journal of Broadcasting and Electronic Media, 59(2), 342-358.
+    Ting, H., de Run, E. C., and Liew, S. L. (2016). Intention to Use Instagram by Generation Cohorts: The Perspective of Developing Markets. Global Business and Management Research, 8(1), 43-55."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

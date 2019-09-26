@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Armyday"
+    tools:showIn="@layout/activity_armyday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Army Day in India is celebrated with great enthusiasm every year on 15th of January. It has been started celebrating to respect the Lieutenant General of India, K. M. Cariappa (Kodandera Madappa Cariappa) who was the first Indian Army’s Commander-in-Chief. It is celebrated every year at all the Army Command headquarters and national capital by organizing army parades including many other military shows.
+
+Army Day 2018
+
+Army day 2018 will be celebrated on 15th of January, at Monday. It would be celebrated as 70th Indian Army day in the national capital.
+Why Army Day is Celebrated
+
+It is celebrated to pay homage and salute to the courageous and brave Indian soldiers who have been sacrificed their lives for protecting the country. Indian Arny General Kodandera Madappa Cariappa was succeeded the British Army General Roy Butcher and became the first Commander-in-Chief of the independent India.
+
+Indian Army soldiers are always ready to fight with all the hard times at Indian borders as well as with the natural disasters. They courageously face all the challenges and difficulties come their way to save the nation and people.
+
+Army Day Celebration
+
+Indian army plays a great and big role during the disaster situations in the country as they are dedicated to the country to become the War Winning Team. The day was decided to be celebrated as the army day in India to start paying tribute to the sacrificed Indian army soldiers at the “Amar Jawan Jyoti” at India Gate in New Delhi.
+
+After paying homage, an excellent parades including military shows takes place to indicate the new technologies and accomplishments in the Indian Army. Bravery awards including Unit credentials and Sena Medals are distributed at this great occasion.
+
+At the Army Day celebration in Jammu and Kashmir, serving army personnel get the bravery and famed service awards (Sena medals, Vishist Seva medals and etc). The day has been marked to memorize the daring and bold Indian soldiers who lost their lives while protecting their nation.
+
+Army Day Parade
+
+Army day parade during the army day celebration is carried out by the Indian army soldiers (Indian army bands) which involves the exhibition of BLT T-72, T-90 tanks, Brahmos Missile, carrier Mortar Tracked Vehicle, 155 MM Soltum Gun, Advanced Light Helicopters of the Army Aviation Corps and etc.
+
+Serving Indian armies take a pledge at this day to maintain their service and protect the nation from enemies whether they are foreign or domestic.
+
+
+
+Facts an Indian must know about Indian Army:
+
+    The Indian Army is the second largest standing army in the world.
+    Indian Army has about 1,129,900 active troops and 960,000 reserve troops.
+    Indian Army functions at the Siachen Glacier which is about 5000 meters above sea level. The glacier is regarded as the highest battlefield in the world.
+    The Indian army has a horsed cavalry regiment and this regiment is among last three such regiments in the world.
+    Sepoy Kamal Ram of Royal Indian Army was the youngest Indian to receive Victoria Cross for his valour in World War II at the age of nineteen.
+    Assam Rifles which was formed in the year 1835 is the oldest paramilitary force in India.
+    The High Altitude Warfare School (HAWS) from Indian Army is often regarded as one of the elitist military training centres in the world. Even the US Special Forces were trained at HAWS before their deployment during the invasion of Afghanistan.
+    In December 1971, the Battle of Longewala was fought between India and Pakistan. This battle is interesting because with just 120 Indian soldiers and a jeep with a M40 recoilless rifle stood its ground against 2000 Pakistani soldiers. While the Indian soldiers held their ground all through the night, help from the Air Force came only in the morning.
+
+From Field Marshal to Lieutenant General Cariappa
+
+After an outstanding career, he became the first Commander-in-Chief of the Indian Army on January 15, 1949. A hardcore Infantryman, Field Marshal KM Cariappa was a thorough gentleman who exhibited the highest standards of self discipline and compassion. Army HQ has been organizing the ‘Field Marshal KM Cariappa Memorial Lecture’ every year, since 1995, as part of Infantry Day celebrations.
+
+Honouring Lieutenant General Cariappa
+
+Gen Dalbir Singh, then Chief of the Army Staff, dedicated a statue of Field Marshal K M Cariappa at the Army Parade Ground, Delhi Cantonment and rechristened the parade ground as “Cariappa Parade Ground” on December 29, 2016.
+
+President Ram Nath Kovind, the Supreme Commander of the Indian Armed Forces paying his highest homages and said this year on 15th Jan, 2018,”On Army Day, greetings to the valiant men and women of the Indian Army, to veterans and to families of those who have worn the uniform. You are our nation’s pride, the sentinels of our liberty. Citizens sleep securely knowing you are ever awake and ever vigilant,”."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>"@string/large_text" />
+
+</android.support.v4.widget.NestedScrollView>

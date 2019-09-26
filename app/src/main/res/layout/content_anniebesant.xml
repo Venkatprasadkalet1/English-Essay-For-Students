@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Anniebesant"
+    tools:showIn="@layout/activity_anniebesant">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Born in London of Irish parents in 1847, Annie was a passionate Christian longing to wage battle against the sin and misery, when she was only sixteen. At twenty-eight, she was well-known as a leader of militant atheism.
+
+Annie left home in 1855 to be educated by Ellen Marryat, and returned eight years later. In 1867, she married Frank Besant, a clergyman. In 1889, Annie Besant met Madame Blavatsky, a prominent leader of the Theosophical Society, and joined the society. In 1891, after the death of Madame Blavatsky, she became the leader of the Theosophical Society, both m Europe and India.
+
+In 1893, Annie visited India for the first time, and since then, India became her home. She loved India and the Indians and accepted India as her own country.
+
+As the President of the Theosophical Society, Annie Besant founded a number of schools in India. She founded the Central Hindu College which was later developed by Madan Mohan Malviya, into the Hindu University at Banares. Annie Besant joined the freedom movement of the Indian National Congress. She demanded full freedom for India as a member of the Commonwealth. In 1916, she had set up the Home Rule League, attracting police attention.
+
+In 1917, Annie Besant presided over the Indian National Congress in Calcutta. But later, due to her differ­ences with Gandhiji, she left Congress.
+
+Annie Besant belonged to India, in spite of her Irish birth. She loved India as her motherland. She died in India in 1933."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

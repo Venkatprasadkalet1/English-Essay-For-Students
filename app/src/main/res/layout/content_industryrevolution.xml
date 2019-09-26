@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Industryrevolution"
+    tools:showIn="@layout/activity_industryrevolution">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Industrial revolution in England which started during the second half of 18th century was almost in full swing by the first quarter of 19th century. The invention of the spinning Jenny and steam engine in England brought in its wake increased application of mechanical power to the manufacturing industry. There was revolution in transport industry due to new mode of transport, ships and railways. The opening of Suez Canal and reduction in steamer freight enabled the manufacturer and exporters to reach many countries hitherto difficult to approach. The industrial revolution which was result of indigenous forces established a new equilibrium on a more stable footing within the following socioeconomic and political repercussions:
+
+Industrial revolution led to mass production of various commodities. Mass production caused glut (overflow of goods) in the market. This lead to increased consumption at cheaper rates. To attract people newer types of commodities were manufactured. This helped change in fashions at a fast speed.
+
+In India, Industrialization resulted in urbanization accompanied by a number of civic and unhygienic problems such as emission of fowl smell, garbage heaps and slums. All these factors caused lot of hardships to workers and affected their physical and mental health.
+
+Institution of family came under heavy strain. People began to give up joint family system with a view to switch over to single family system leaving behind the family members economically poor. This migratory approach from rural to urban places in search of jobs in factories and industries broke the nuclear family into small disintegrated (broken in parts) units which are the most important social institutions.
+
+A new rich class called wealthy class emerged as a result of industrialization because much stress was laid on hard cash and machine rather than on land. In many cases this class had different social customs and etiquettes (manners) than those followed by the rich landed class.
+
+Industrialization opened and enhanced the size of market where various commodities could be sold. It encouraged opening of new markets and trade centers. These trading centers became increasingly important with the development of industrial activity. People entered into new professions and vocations which enabled the trading affairs more effectively and efficiently.
+
+Industrial revolution made wonders in the field of generating electricity and energy. The distribution of electricity besides making revolution in the production of inventories connected to distribution system also made breakthrough in the field of transport and communication. This increased the social interaction and affected social institution at various levels and fronts.
+
+Industrial revolution replaced hands with machines which caused large scale unemployment. The jobs which were done by hundreds and hundreds of workers and traditional craftsmen could be done by a single machine operated by one man. The goods produced by machines were cheaper besides being of good quality compared than those produced by traditional craftsmen. Thus traditional craftsmen, who could not compete with factory produced goods, were thrown out of their profession.
+
+Industrial revolution had no use of traditionally skilled people. Only vocationally and professionally trained workers could enjoy prestige and carried high monetary compensation. People manning such jobs carried lot of esteem (respect) and regards were placed higher in social hierarchy (from father to children).
+
+Industrial revolution has created competition among the job seekers because jobs were less and job-seekers were more. This lead to social conflicts and frustrations.
+
+Technology revolutionized the caste-system. In urban areas, people belonging to all castes were required to work brushing shoulder to shoulder with each other in the factories and industries resulted from industrial development and technological advancement. Modernization in industrial complexes reduced the scope of untouchability. This was no less achievement in the field of social institutions. "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

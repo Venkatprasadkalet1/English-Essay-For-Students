@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Realestateindustry"
+    tools:showIn="@layout/activity_realestateindustry">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="The term ‘real estate’ is defined as land, including the air above it and the ground below it, and any buildings or structures on it. It is also referred to as realty. It covers residential housing, commercial offices, trading spaces such as theatres, hotels and restaurants, retail outlets, industrial buildings such as factories and Government buildings.
+
+Real estate involves the purchase, sale, and development of land, residential and non-residen­tial buildings.
+
+The main players in the real estate market are the landlords, developers, builders, real estate agents, tenants, buyers etc. The activities of the real estate sector encompass the housing and construction sectors also.
+
+
+The real estate sector in India has assumed growing importance with the liberalization of the economy. The consequent increase in business opportunities and migration of the labour force has, in turn, increased the demand for commercial and housing space, especially rental housing.
+
+Developments in the real estate sector are being influenced by the devel­opments in the retail, hospitality and entertainment [e.g., hotels, resorts, cinema theatres) industries, economic services (e.g., hospitals, schools) and information technology (IT)-enabled services (like call centres) etc. and vice versa.
+
+The real estate sector is a major employment driver, being the second largest employer next only to agriculture. This is because of the chain of backward and forward linkages that the sector has with the other sectors of the economy, specially with the housing and construction sector. About 250 ancillary industries such as cement, steel, brick, timber, building materials are dependent on the real estate industry.
+
+The Indian real estate market is still in its infancy, largely unorganised and dominated by a large number of small players, with very few corporates or large players having national presence. The Indian real estate markets, as compared to the other more developed Asian and Western markets is characterized by smaller size, lower availability of good quality space and higher prices.
+
+
+Supply of urban land is largely controlled by state-owned development bodies like the Delhi Development Authority (DDA) and Housing Boards leaving very limited developed space free, which is con­trolled by a few major players in each city.
+
+Many of the over 100 laws governing various aspects of real estate date back to the 19th century. Despite the plethora of laws, the situation appears to be far from satisfactory and major amendments to existing laws are required to make them relevant to modern day requirements.
+
+The Central laws governing real estate include:
+
+Indian Contract Act, 1872:
+
+This legislation specifies when a party can be said to have the capacity to contract. A contract pertaining to realty can be entered into, among oth­ers, by an individual (who is not a minor or of unsound mind), partners of a firm, a corporate body, a trust, a sole corporation, the manager of an undivided family, and a foreigner.
+
+All the requirements of a valid contract, i.e., consideration, intention to contract and validity under the law of the land must be satisfied.
+
+Transfer of Property Act, 1882:
+
+This lays down the general principles of realty, like part-performance and has provisions for dealing with property through sale, exchange, mort­gage, lease, lien and gift. A person acquiring immovable property or any share/interest in it is presumed to have notice of the title of any other person who was in actual possession of such property.
+
+Registration Act, 1908:
+
+
+The purpose of this Act is the conservation of evidence, assurances, title, publication of documents and prevention of fraud. It details the formalities for registering an instrument.
+
+Instruments mandatory to register include:
+
+(a) Instruments of gift of immovable property;
+
+(b) Other non-testamentary instruments which purport or operate to create, declare, assign, limit or extinguish, whether in present or in future, any right, title or interest, whether vested or contingent, to or in immovable property;
+
+(c) Non-testamentary instruments which acknowledge the receipt or payment of any consideration on account of instruments in (b) above.
+
+(d) Leases of immovable property from year to year, or for any term exceeding one year, or reserving a yearly rent.
+
+Sales, mortgages (other than by way of deposit of title deeds) and ex­changes of immovable property are required to be registered by virtue of the Transfer of Property Act. Evidently, therefore, all the above documents have to be in writing.
+
+Section 17 of the Act provides for optional registration. An unregistered document will not affect the property comprised in it, nor be received as evidence of any transaction affecting such property (except as evidence of a contract in a suit for specific performance or as evidence of part- performance under the Transfer of Property Act or as collateral), unless it has been registered.
+
+Thus, the doctrine of part performance dealt with under section 53A of the Transfer of Property Act and the provision of section 49 of the Registration Act (which provides that an unregistered document cannot be admissible as evidence in a court of law except as secondary evidence under the Indian Evidence Act) together protect the buyer in possession of an unregistered sale deed and cannot be dispos­sessed.
+
+The net effect has been that a large number of property transac­tions have been accomplished without proper registration. Further other instruments such as Agreement to Sell, General Power of Attorney and will have been indiscriminately used to effect change of ownership.
+
+Special Relief Act, 1963:
+
+This Act is only to enforce individual civil rights. A person dispossessed of immovable property without his consent (other than in due course of law) can recover possession by a suit filed within six months from the date of dispossession.
+
+Unless the contrary is proved, in a suit for specific performance of a contract, the Court shall presume that a contract to transfer immovable property is one in which monetary compensation for its non-performance would not afford adequate relief. The Court could also grant a perma­nent/mandatory injunction preventing the breach of such contract and award damages.
+
+Urban Land (Ceiling and Regulation) Act (ULCRA), 1976:
+
+This legislation has fixed a ceiling on the vacant urban land that a ‘person’ in urban agglomerations can acquire and hold. A person is defined to include an individual, a family, a firm, a company, or an association or body of individuals, whether incorporated or not. This ceiling limit ranges from 500-2,000 square metres (sq. m).
+
+Excess vacant land is either to be surrendered to the Competent Authority appointed under the Act for a small compensation, or to be developed by its holder only for specified purposes. The Act provides for appropriate documents to show that the provisions of the Act are not attracted or should be produced to the registering officer before registering instruments compulsorily registrable under the Registration Act.
+
+The objective of acquiring the excess vacant land could not be achieved because of intrinsic deficiencies in the legislation itself. The provisions under sections 19, 20 and 21 of the Act have together proved counter­productive to the objectives of the legislation.
+
+So far, only 19,020 hectares could be taken possession of by State Governments and Union Territories and the remaining land was locked up in various litigations. This has only helped push up land prices to unconscionable levels and practically brought the housing industry to a stop.
+
+This legislation was repealed by the Centre in 1999; however, it shall not affect the vesting of the vacant land, which has already been taken pos­session by the State Government or any person duly authorised by the State Government in this regard under the provisions of ULCRA.
+
+The repeal of the Act, it is believed, has eliminated the large amount of litigation and released huge chunks of land into the market. However, the repeal of the Act has not been carried out in all States. Initially the repeal Act was applicable in Haryana, Punjab and all the Union Territories.
+
+Subsequently, it has been adopted by the State Governments of Uttar Pradesh, Gujarat, Karnataka, Madhya Pradesh and Rajasthan. Andhra Pradesh, Assam, Bihar, Maharashtra, Orissa and West Bengal have not adopted the Repeal Act so far.
+
+Land Acquisition Act, 1894:
+
+This Act authorises Governments to acquire land for public purposes such as planned development, provisions for town or rural planning, provision for residential purpose to the poor or landless and for carrying out any education, housing or health scheme of the Government. In its present form, the Act hinders speedy acquisition of land at reasonable prices, resulting in cost overruns.
+
+The Indian Evidence Act, 1872:
+
+Under the Act, whenever the status of any property of which he is shown to be in possession is questioned, the burden of proving that he is not the owner lies on the person who asserts that he is not the owner.
+
+State Laws Governing Real Estate:
+
+While each State has its own set of laws, which govern planned develop­ment, rules for construction and floor-area-ratio (FAR) or floor space index (FSI) and formation of societies and condominiums, two laws that exist in every State, are the stamp duty and rent laws.
+
+Rent Control Act:
+
+Rent legislation in India has been in existence for a very long time. Rent control by the Government initially came as a temporary measure to protect the exploitation of tenants by landlords after the Second World War. However, these rent control Acts became almost a permanent fea­ture.
+
+Rent legislation provides payment of fair rent to landlords and pro­tection of tenants against eviction. Besides, it effectively allows the tenant to alienate rented property. Tenants occupying properties since 1947 con­tinue to pay rents fixed then, regardless of inflation and the realty boom. "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

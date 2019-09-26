@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Mining"
+    tools:showIn="@layout/activity_mining">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Mining is the extraction of valuable minerals or other geological materials from the earth, usually from an orebody, lode, vein, seam, reef or placer deposit. These deposits form a mineralized package that is of economic interest to the miner.
+
+Ores recovered by mining include metals, coal, oil shale, gemstones, limestone, chalk, dimension stone, rock salt, potash, gravel, and clay. Mining is required to obtain any material that cannot be grown through agricultural processes, or created artificially in a laboratory or factory. Mining in a wider sense includes extraction of any non-renewable resource such as petroleum, natural gas, or even water.
+
+Mining of stones and metal has been a human activity since pre-historic times. Modern mining processes involve prospecting for ore bodies, analysis of the profit potential of a proposed mine, extraction of the desired materials, and final reclamation of the land after the mine is closed. De Re Metallica, Georgius Agricola, 1550, Book I, Para. 1[1][citation needed]
+
+Mining operations usually create a negative environmental impact, both during the mining activity and after the mine has closed. Hence, most of the world's nations have passed regulations to decrease the impact. Work safety has long been a concern as well, and modern practices have significantly improved safety in mines.
+
+Levels of metals recycling are generally low. Unless future end-of-life recycling rates are stepped up, some rare metals may become unavailable for use in a variety of consumer products. Due to the low recycling rates, some landfills now contain higher concentrations of metal than mines themselves."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

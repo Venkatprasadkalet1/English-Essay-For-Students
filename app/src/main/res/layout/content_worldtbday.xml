@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Worldtbday"
+    tools:showIn="@layout/activity_worldtbday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="World Tuberculosis Day is celebrated every year by the people all across the world at international level on 24th of March. It is celebrated to raise the common public awareness about the epidemic disease of tuberculosis as well as get their efforts in order to totally eradicate this disease. As around 1.7 million of the people are dying of this disease every year. 24th of March has been established to commemorate the tuberculosis day by all at one place in order to get some solution to eradicate it from the world.
+
+Tuberculosis was first discovered by the Dr. Robert Koch in the year 1882 and amazingly announced by him to the small group of scientists at “the University of Berlin’s Institute of Hygiene” about the cause of tuberculosis means the TB bacillus. He announced publically about this virulent human infectious disease and explained about the aetiology of the tuberculosis through the presentation of many microscope slides. During his announcement in the Berlin, it was spreading very fast in the Europe and the Americas of which the death ratio was one out of seven. His discovery about the tuberculosis had opened a big door in front of the people to get diagnosed and cured of tuberculosis.
+World TB Day 2018
+
+World TB Day/World Tuberculosis Day 2018 will be celebrated all over the world on 24th of March, at Saturday.
+History of World TB Day
+
+On the 100th anniversary of Tuberculosis presentation of the Dr. Robert Koch, “the International Union against Tuberculosis and Lung Disease (IUATLD)” had planned to establish 24th of March to be celebrated as an annual official event, the World TB Day. This was established by the effort of both the IUATLD and the WHO under the theme “Defeat TB: Now and forever”. However, it was not announced as an official event to be celebrated annually by the WHO’s World Health Assembly and the UN.
+
+The first World TB Day celebration meeting was held by the WHO and the Royal Netherlands Tuberculosis Foundation in the year 1995 in Den Haag, Netherlands where it was declared to be celebrated annually. Next year in 1996, various organizations like WHO, the IUATLD and KNCV had organized variety of events and activities to conduct the World TB Day celebration.
+
+DOTS was declared as a biggest step taken against tuberculosis by the WHO in the news conference of Berlin in 1997. According to the global situation of this epidemic disease, a really working health breakthrough was very necessary to make possible the control of TB all across the world. Almost 200 organizations were joined to perform the awareness activities on the World TB Day of 1998 where top 22 most affected countries with TB were announced by the WHO in the news conference of London.
+
+A new network “Stop TB Partnership” has been launched by the various organizations to fight against TB by highlighting the scope of prevention and cure of this disease to the common public. ICRC (International Committee of the Red Cross) is helping people to fight against TB in prisons because of the overcrowding and poor nutrition.
+
+
+Why World TB Day is Celebrated
+
+World TB Day is established as an annual event to be celebrated by the people to aware them about the basic and essential knowledge of tuberculosis, causes, prevention and cure of this disease to get prevented and eradicate this disease from the world. It is very necessary to aware people of all group and field about this epidemic disease to take precautions. All the people at workplace or at home should be encouraged about their health maintenance and must know about the prevention from tuberculosis.
+
+It is an airborne disease cause by the Mycobacterium tuberculosis (which generally affects the lungs) and can kill around 4000 people every day. It gets transmitted from the infected person to another weak person through the droplets formed in the throat or lungs. According to the report in 2005, it was noted that most infected people were from the south-east Asia (34% of the global case). 8.7 million new cases were raised whereas 1.4 million of the people were died of TB (64000 deaths of children) in the year 2011. Most of the death cases belong to the low and middle income group including poor communities and vulnerable groups.
+
+People must known that it is a completely curable disease at very low-cost through the DOTS treatment administered by the government. Its treatments and diagnostic tests should be accessible by each and every person affected by the tuberculosis all over the world and death rate of this disease should be zero.
+
+World TB Day celebration provides a big opportunity to all the people to get aware about the causes and precautions of TB. It mobilizes the political and social authorities for further progress towards the disease prevention for the effective reduction in the TB cases and death rate in the coming years. Since 1990, the mortality rate of TB has decreased by 40% all over the world. Invention of various new TB tools has occurred for rapid diagnostic tests of TB. All this have become possible only because of this awareness campaign.
+How World TB Day is Celebrated
+
+World TB Day is celebrated every year by the health organizations, NGOs, government and non government organizations including other health agencies to raise the awareness among common public all across the world about the epidemic disease, tuberculosis by organizing the variety of campaign related activities such as debates on TB prevention and cure, award ceremonies for the organizations involved in the prevention and fight against TB, photo exhibitions showcasing images in order to raise awareness of TB, charity events for fund raising required to control TB and lots of activities associated with the disease prevention and cure. Active participation is required by the all group people, communities and government agencies to work together to broadcast the real messages to each and every person live in the world.
+
+
+World TB Day Themes
+
+> The theme of the World TB Day celebration of the year 1997 was “Use DOTS more widely”.
+
+> The theme of the World TB Day celebration of the year 1998 was “DOTS success stories”.
+
+> The theme of the World TB Day celebration of the year 1999 was “Stop TB, use DOTS”.
+
+> The theme of the World TB Day celebration of the year 2000 was “Forging new partnerships to Stop TB”.
+
+> The theme of the World TB Day celebration of the year 2001 was “DOTS: TB cure for all”.
+
+> The theme of the World TB Day celebration of the year 2002 was “Stop TB, fight poverty”.
+
+> The theme of the World TB Day celebration of the year 2003 was “DOTS cured me – it will cure you too!”.
+
+> The theme of the World TB Day celebration of the year 2004 was “Every breath counts – Stop TB now!”.
+
+> The theme of the World TB Day celebration of the year 2005 was “Frontline TB care providers: Heroes in the fight against TB”.
+
+> The theme of the World TB Day celebration of the year 2006 was “Actions for life – Towards a world free of TB”.
+
+> The theme of the World TB Day celebration of the year 2007 was “TB anywhere is TB everywhere”.
+
+> The theme of the World TB Day celebration of the year 2008 was “I am stopping TB”.
+
+> The theme of the World TB Day celebration of the year 2009 was “I am stopping TB”.
+
+> The theme of the World TB Day celebration of the year 2010 was “On the move against TB: Innovate towards action”.
+
+> The theme of the World TB Day celebration of the year 2011 was “On the move against TB: Transforming the fight towards elimination”.
+
+> The theme of the World TB Day celebration of the year 2012 was “Stop TB in my lifetime Call for a world free of TB”.
+
+> The theme of the World TB Day celebration of the year 2013 was “Stop TB in my lifetime Call for a world free of TB”.
+
+> The theme of the World TB Day celebration of the year 2014 was “Reach the three million A TB test, treatment and cure for all”.
+
+> The theme of the World TB Day celebration of the year 2015 was “Reach, Treat, Cure Everyone”.
+
+> The theme of the World TB Day celebration of the year 2016 was “Find TB. Treat TB. Working together to eliminate TB”.
+
+> The theme of the World TB Day celebration of the year 2017 is “Unite to End TB”."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

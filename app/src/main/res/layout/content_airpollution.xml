@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Airpollution"
+    tools:showIn="@layout/activity_airpollution">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Air Pollution Essay 6 (400 words)
+
+Increasing concentration of the harmful and toxic materials in the fresh air of the atmosphere is causing air pollution. Variety of foreign particles, toxic gases and other pollutants released from various human activities are affecting the fresh air which has adverse effect to the living beings like human beings, animals and plants. The level of air pollution depends on the type and amount of pollutants released from various sources. Topographical and meteorological conditions are increasing the spread and concentration of the pollutants. Variety of raw materials used in the manufacturing process in industries is increasing the type and quantum of emissions of harmful gases. Increasing population density is demanding the need of more industrialization which ultimately causes air pollution.
+
+Air Pollutants like harmful liquid droplets, solids particulates, and toxic gases (oxides of carbon, halogenated and non-halogenated hydrocarbons, nitrogen and sulphur gases, suspended inorganic particulate matters, inorganic and organic acids, bacteria, viruses, insecticides etc) which are generally not the constituents of fresh air are very hazardous to the plant and animal life. There are two types of air pollution sources which are natural sources and man-made sources. Some natural sources of the air pollution are like volcanic eruptions, volcanoes (ashes, carbon dioxide, smokes, dust and other gases), deflation of sands, dusts, salts spray from seas and ocean, soil particles, storms, forest fires, cosmic particles, rays, bombardment of asteroid materials, comets, pollen grains, fungal spores, viruses, bacteria, etc.
+
+Man-made sources of the air pollution are industries, agriculture, power plants, automobiles, domestic sources, etc. Some of the air pollutants from the man-made sources are like smokes, dust, fumes, particulate matters, gases from kitchen, domestic heating, emissions from different vehicles, use of insecticides, pesticides, herbicides, heat created from power plants, smokes, fly ash, etc. Because of the increasing number of air pollutants, it has been divided into two types such as primary pollutants and secondary pollutants. Primary pollutants are those affecting the fresh air directly and emitted from smoke, ash, dust, fumes, mist, spray, inorganic gases, carbon dioxide, carbon monoxide, sulphur dioxide, hydrogen sulphide, ammonia, nitric oxide and radioactive compounds. Secondary pollutants are those affecting the air indirectly by chemical interactions to the primary pollutants and other atmospheric constituents such as sulphur-trioxide, ozone, hydrocarbons, nitrogen dioxide, etc.
+
+The get together effort of the human beings all over the world may help in controlling the level of air pollution. The establishment of industrial estates should be away from residential areas, motivate use of tall chimneys (with filters and electrostatic precipitators) instead of small, promote use of high temperature incinerators, use of non-combustive sources of energy, promote use of non-lead antiknock agents in the gasoline, promote re-plantation and so many positive efforts."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

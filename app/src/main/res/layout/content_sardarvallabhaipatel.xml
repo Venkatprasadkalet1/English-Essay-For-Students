@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Sardarvallabhaipatel"
+    tools:showIn="@layout/activity_sardarvallabhaipatel">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="“We salute Sardar Patel on his Jayanti. His momentous service and monumental contribution to India can never be forgotten”. It is with these words that Prime Minister Mr. Narendra Modi flagged off a run to commemorate the 142nd birth anniversary of the Iron Man of India, Sardar Vallabhbhai Patel.  Sardar (chief) was how he was addressed and with good reason. The tremendous contributions made by Patel to India’s freedom struggle and the resolute leadership displayed by him while our great nation was still in its early years of independence are indeed praiseworthy and memorable.
+
+Iron Man of India
+
+Born to a farmer in Gujarat (in the year 1875), Vallabhbhai Jhaverbhai Patel, displayed a resolute determination from an early age. Undaunted by his humble beginnings and the disheartening condition of the country under British colonial rule, Patel went on to study in England and became a barrister. Coming back home, Patel rose to eminence as one of the best barristers of Ahmedabad city. The idea of servitude, however, was not a pleasant one and his ideological clashes with the British continued to grow. He soon threw himself heart and soul into the national freedom movement. He rose to become one of the most influential leaders of the Indian National Congress and came to be regarded as a very close associate of Mahatma Gandhi. Though he remained very active in organizing mass civil disobedience protests in his home state, Gujarat, Patel did not lose sight of the nation as a whole.
+
+Integration of Princely States
+
+By the time Indian independence from the British Raj became imminent, there were over 550 princely states. These states were varied in size and might. The royal families were, in most cases, reluctant to join the Indian union. Integration of these princely states became a matter of prime importance and this responsibility was handed to Sardar Vallabhbhai Patel. Along with V. P. Menon, another exceptional administrator, Patel was responsible for bringing together these states and building up the Indian Republic. His strong determined approach, his frank communication, and his excellent negotiation skills managed to give shape to the country.
+
+Sardar Patel was not a man to mince words. He extended every possible concession for the royal families but did not hold back on the possibility of military action in case the states did not join India. Not only did he manage to secure the accession of these states but also oversaw the transformation of administration in a phased way. This earned his the moniker “Unifier of India”.
+
+Patel worked extensively with the civil servants and bureaucrats to establish unified nationwide systems across the country. He is also fondly referred to as the “patron saint” of our civil services for this reason but it is the common man who enjoys the benefits of these services that Patel managed to establish in India.
+
+First Home Minister
+
+As the first Deputy Prime Minister and Home Minister of the country, Sardar Patel steered the country through turbulent times. For a leader who passionately led India through (the latter part of) its freedom struggle, the violent partition and consequent bloodbath would have been heart wrenching and disappointing. Patel did not let the grief overshadow his sense of responsibility. He set up large scale relief camps and refugee shelters across northern India and set about restoring peace and stability in the country. The newly inaugurated Sardar Sarovar dam is but a translation of this great man’s vision, his commitment to regional prosperity and national upliftment.
+
+In the years following India’s independence, Sardar Patel played a very important role in shaping national policies. His success was at times limited due to the imposition of contrary ideas by Mahatma Gandhi, Nehru, and others, but the wisdom of his ideals and his policies remain at the very foundation of India’s growth.
+
+A Legacy of Unity
+
+Sardar Vallabhbhai Patel leaves behind a rich legacy of unity and integrity. His toils and efforts which managed to stitch together the numerous small and often conflicting princely states into the colourful tapestry that makes up Indian society, have been recognized by the Government of India and since 2014 his birth anniversary, 31 October, is commemorated as National Unity Day (Rashtriya Ekta Diwas). This year, the University Grants Commission (UGC) has asked all universities and higher education institutions in the country to celebrate Sardar Vallabhbhai Patel’s birth anniversary in the hope that the youth of the country shall imbibe the same sense of national pride and unity as demonstrated by Sardar Patel."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

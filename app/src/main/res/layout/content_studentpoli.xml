@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Studentpoli"
+    tools:showIn="@layout/activity_studentpoli">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="STUDENTS AND POLITICS
+
+Students of today are the future guardians of our nation’s des­tiny. They are the moulders and builders of future India. Political consciousness is, therefore, an indispensable factor contributing to the growth and development of a nation. Students of India must cultivate a sublime sense of discipline, which is one of the essential requisites of democracy.
+
+Should students take part in politics? It has been one of the most baffling questions before our national leaders.
+
+Those who oppose the participation of students in politics put up a strong case. They argue that politics is a dirty game. It creates groups and parties and leads to permanent enmities. It disturbs the peace of mind of the students. The primary duty of a student is to pay single-minded attention to his studies. They agree that a student cannot afford to take part in the luxury of politics.
+
+Politics makes a great interference in their studies. Their interest gets diverted from the main aspect. Interest in politics leads a stu­dent to be an active participant in strikes, demonstrations and pro­cessions, as a result of which he loses his real purpose in life and goes astray. Participation in politics thus spoils a student’s career.
+
+Those who support the participation of students in politics make out an equally strong case. They argue that education does not mean mere literacy. It means a total and all-round development of per­sonality. Participation in politics leads to a harmonious development of personality. It makes him aware of what is happening in his coun­try and in the world around him. It also develops in him the qualities of leadership. Instead of being a timid and shy bookworm, he grows into an aggressive, dominating and alert young man who knows how to fight the battle of life.
+
+Participation in politics trains a student to be a good citizen. It gives him training in the democratic way of life. He grows into a responsible and cultured citizen. It creates in him a sense of patriotism. He has a fair knowledge of the world. He develops a debating skill. As a leader he develops such qualities as courage, sincerity of purpose, a spirit of service, and sympathy for his fellowmen and self- discipline.
+
+Student-life is the formative period in one’s life. A student must develop all the qualities in him during this period. It helps him to lead a successful life. If he is kept totally away from politics, he is likely to grow into a lopsided personality. If we study the lives of our great leaders, we shall find that most of them did take active part in poli­tics even during their student days.
+
+Now, it is difficult to pronounce any verdict in favour of one or the other point of view. A student should take part in politics but it should not be an active participation. All activities are good if one remains within reasonable limits. Students should, therefore, pay primary attention to their studies. They should, at the same time, keep themselves informed about what is happening around them."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

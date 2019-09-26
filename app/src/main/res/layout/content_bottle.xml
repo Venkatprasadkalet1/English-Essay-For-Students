@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Bottle"
+    tools:showIn="@layout/activity_bottle">
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Formula that has been in the refrigerator must be warmed to just above room temperature. Place the bottle in a bowl of shallow water, then heat in the microwave for 10 seconds. Or you may place the bottle in a bowl of hot water for a few minutes. If mixing up fresh KMR powder formula, use warm water. Before feeding the kittens, always test the temperature of the formula by placing a few drops on your inner wrist to be sure it is not too hot. Always wash your hands well with soap and water before and after feeding the kittens. Bottles should be cleaned thoroughly before each use.
+
+When bottle nipples are brand new, you will need to cut a hole in the top. Cut an X in the tip of the nipple using small, sharp scissors. Or you can burn a hole in the nipple using a large needle. Heat the needle with a match, then poke it through the nipple tip. It may take a few attempts to make the hole the correct size. Once the hole is made, test it by placing the nipple on a bottle of formula and turning the bottle upside down. The formula should drip slowly out of the hole. If the hole is too big, the kittens will ingest too much formula too fast; if it is too small, they will have to work harder to eat and won’t eat as much as they should.
+
+To prevent the possibility of spreading viruses between the kittens and other pets in your house, keep a “kitten gown” (a robe, sweatshirt, etc.) in the kittens’ room to wear during feeding and handling of the kittens. You may also wear gloves if you wish, and remember to always wash your hands well before and after feeding your bottle babies.
+
+Never feed a kitten on his back. The kitten should be on his stomach in a position similar to how he would lay next to his mother to nurse. You may try holding the kitten upright swaddled in a warm towel or have the kitten lay on a towel in your lap. Experiment with what position works best for you and the kitten.
+
+Turn the bottle upside down and allow a drop of formula to come out. Place the bottle nipple in the kitten’s mouth and gently move it back and forth, holding the bottle at a 45-degree angle to keep air from getting into the kitten’s stomach. This movement should encourage the kitten to start eating. If at first you don’t succeed, wait a few minutes and try again. Usually the kitten will latch on and begin to suckle. If the bottle appears to be collapsing, gently remove the nipple from the kitten’s mouth and let more air return to the bottle.
+
+Allow the kitten to suckle at his own pace. If a kitten refuses to suckle, try stroking the kitten’s back or gently rubbing her on her forehead. This stroking is similar to momma cat’s cleaning and it may stimulate the kitten to nurse. If this doesn’t work, try rubbing some Karo Syrup on the kitten’s lips. If the kitten still doesn’t want to nurse, contact your medical staff immediately.
+
+Do not attempt to feed a kitten who is chilled because it can have serious health consequences. Try warming the kitten as described above. If you are unable to warm the kitten, contact your medical staff immediately.
+
+A kitten should eat about 8 milliliters (mls) of formula per ounce of body weight per day. For example, a kitten who weighs 4 ounces should eat about 32 mls of formula per day. To determine how much to give at each feeding, divide the total amount of formula per day by the number of feedings. For example, if you’re going to feed 32 mls per day and do 7 feedings per day (approximately every three hours), that would mean giving 4.5 mls per feeding.
+
+Nursing bottles are marked with measurements, so it’s easy to know how much you’re feeding the kittens. Please note that some bottles use ml for measurement, some use cubic centimeters (cc). They are the same: 1 cc = 1 ml.
+
+Using a kitchen or small postal scale, weigh the kittens daily to calculate the amount of formula they need. Keep a log listing daily weights and amount of formula consumed at each feeding.
+
+Newborn kittens, up to 1 week old, should be fed every 2-3 hours; by 2 weeks old, every 4-6 hours. Once they are 3 weeks old, they can be fed every 4 to 6 hours. Continue to follow the rule of 8 mls of formula per ounce of body weight per day, as described above, to determine the amount of food the kitten should be eating.
+
+If you are feeding multiple kittens, feed the first kitten until he stops nursing, then begin feeding the next kitten, and so on. Once you have fed all the kittens, feed the first kitten again and repeat with all the kittens. Usually one to three nursing turns will suffice. When a kitten stops nursing, he/she has had enough. Do not overfeed the kittens because it can cause loose stools and diarrhea. A well-fed kitten’s belly should be round, but not hard and distended. Smaller or weaker kittens may eat less per feeding and will need to be fed more often.
+
+Kittens need to be burped, just like human babies. Lay the kitten on his stomach, on your shoulder or in your lap, and very gently pat his back until you hear a little burp. You may need to burp a couple times per feeding.
+
+Young kittens may suckle on each other. This is a normal thing, but make sure they aren’t damaging the fur or skin of the littermate they are suckling on. If the suckling is causing problems, you should separate the kittens.
+
+Back to top
+Weaning
+
+Weaning may begin at 3 ½ to 4 weeks of age. Start by offering the kittens formula on a spoon. Once they are lapping off the spoon, try putting some formula in a saucer. As they master lapping up the formula out of the saucer, you can gradually add a small amount of canned food to the formula in the saucer, making a gruel. Increase the amount of canned food slowly, adding more food and less formula. Some kittens catch on right away, others may take a few days. To be sure the kittens are getting enough food, you may need to continue bottle feeding them a few times a day, until they are eating well on their own. Be sure to feed them what they need to be full, but don’t overfeed them.
+
+Monitor the kittens’ stools to make sure they are tolerating and digesting the gruel mix well. If the kittens have loose stools, reduce the amount of canned food and increase the formula until their systems have adjusted. As the kittens adjust to the gruel mix and you are adding more canned food to their diet, you can also add more water to the formula mix. If you are using KMR formula, add an extra measure of water when preparing the formula. Instead of 1 part formula to 2 parts water, mix 1 part formula to 3 or 4 parts water. For the Hoskins formula, you may add an extra ounce of water to the recipe.
+
+As the kittens eat more food and less formula, you will need to have a bowl of fresh water available to them at all times to keep them well hydrated. At this time, you may also add dry food to their diet. Add some of the watered-down formula mix to the dry food to entice the kittens to eat it. Gradually reduce the formula and let them eat the food dry. Again, keep watch on the kittens’ stools to make sure they are tolerating the food well. If diarrhea or constipation persists with the change in diet, contact your medical staff.
+
+Back to top
+Weight and hydration
+
+Weigh your kittens daily, preferably at the same time each day, using a kitchen or postal scale. Kittens should gain about ½ ounce every day or 3 to 4 ounces per week. By 8 weeks, most kittens weigh about 2 pounds. Enter their daily weights in the logbook. If the kittens are not gaining weight or are losing weight, contact your medical staff right away.
+
+A well-fed kitten should be properly hydrated. To test a kitten’s hydration, pull up on the skin at the scruff of the neck. The skin should bounce back easily. If it doesn’t bounce back, or goes back down slowly, the kitten may be dehydrated. If the kitten appears dehydrated, contact your medical staff.
+
+Back to top
+Elimination and litter box training
+
+Young kittens cannot eliminate on their own. A momma cat will clean her kittens, stimulating them to urinate and have a bowel movement. As their human caregiver, you now have the honor of performing this duty. After each feeding, use a warm, moist cotton ball, tissue or soft cloth to gently rub and clean the kitten’s lower belly, genital and anal area. The kitten should begin eliminating within a minute. Kittens should urinate after each feeding and have a bowel movement one to four times a day. Do not continue to rub the kitten for more than a minute or so, since this could irritate their delicate skin. Gently wash the kitten after she is done eliminating using a clean, damp, soft cloth. Record the kittens’ elimination type and frequency in the logbook.
+
+When they are between 3 and 4 weeks of age, kittens can be introduced to the litter box. Use a small cardboard box or plastic litter box with just enough clay litter to cover the bottom. Don’t use clumping litter. Adding a used cotton ball (from when you helped them urinate) to the box will help them get the idea of what to do next. Put the kittens in the box, allowing them to get the feel for the litter. Natural instinct will generally prevail and the kittens will begin investigating, scratching, and, within a few days, using the box.
+
+Back to top
+
+Help Kittens Grow
+A clean kitten is a happy kitten
+
+After feeding, clean any formula, urine, feces or other messes off the kitten using a clean, soft, warm, damp cloth. This action simulates how the momma cat would clean the kittens. If more cleaning is required, you may use a wetter washcloth dipped in warm water to loosen up caked-on messes in the kitten’s fur. Do not use soap or pet shampoo directly on the kitten. If you must use a shampoo to clean the kitten, add one or two drops of shampoo to a cup of warm water, then use the cloth dipped in this mixture to clean the kitten. Rinse the cleaned area with another cloth dipped in clear, warm water. Gently dry the kitten with a soft towel. Do not allow the kitten to become chilled. Once the kitten is clean and dry, place her back in the carrier on the covered heating pad, which should be covered in clean layers of bedding.
+
+Kittens’ ears should be clean and dirt-free. If the ears are dirty, gently clean the area with a Q-tip; you may need to dampen it in warm water. Do not use ear-cleaning solution because it could be harmful to the kitten. Only clean the outer area of the inside ear, just the part that you can see; do not push the Q-tip down into the ear. If the ears are extremely dirty or you see signs of ear mites (specks that look like coffee grounds), contact your medical staff about treatment options.
+
+Kittens may have some discharge in or around their eyes. To cleanse the area, gently wipe around the eye with a warm, damp, soft cloth. If the discharge continues, is cloudy, or the eyes are gooped shut, clean the eyes as directed above, then contact your medical staff for treatment options.
+
+All kitten bedding should be washed separately from other household laundry using detergent and ¾ cup of bleach per load. To clean carriers and litter boxes used for the kittens, use a mixture of ¼ cup of bleach per gallon of water. You may add a tablespoon of laundry soap to the wash water. Do not use any cleaning agents that contain ammonia or are not approved to mix with bleach, since it could cause hazardous fumes. Be sure the carrier and/or litter boxes are completely dry and free of bleach fumes before putting them back with the kittens.
+
+"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Howto"
+    tools:showIn="@layout/activity_howto">
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="This manual includes a plan for how to start an animal welfare organization, including writing a mission statement, setting goals, establishing a board of directors, defining policies, rallying public support, and more.
+
+Table of Contents
+Coming together for the animals
+1.) Do research and preliminary planning
+2.) Write your mission statement
+3.) Set your goals
+4.) Establish your board of directors
+5.) Make it all legal
+6.) Use dollars and sense
+7.) Define policies and standards
+8.) Take it to the public: Cultivate support in the community
+9.) Hold a productive first meeting
+10.) Recruit and develop people
+11.) Provide QUALITY services
+12.) Assess your progress and make changes
+For more information on nonprofit management
+Coming together for the animals
+
+Why start an organization to help animals? When you form a humane organization, you create a focal point for efforts to help the animals, an outlet for compassionate support from the public which did not exist before. Your group can become a powerful network to protect and advocate for the animals. There’s strength in numbers!
+
+Where do I start? If you start out with an understanding of what will be required to make your efforts successful, you’ll already be ahead of the game.
+
+While the purpose of your new organization is to help animals, all the principles that apply to running a successful business apply equally to this venture. Ultimately your organization will succeed or fail as a business.
+
+To achieve your goals, it is essential to invest sufficient time and resources into planning, management, and fundraising. Most people understand the importance of providing quality care to animals, but struggle with the administrative aspects of running the organization.
+
+Woman in a plaid shirt holding a black and white, medium hair cat, who is looking at the camera
+
+Lynda Foro, president of Doing Things for Animals (a national advocacy program for no-kill organizations), advises startup groups that while direct care may be the purpose of the organization, an equal amount of time is needed for management, fundraising, and related tasks.
+
+No one person must, or even can, do everything. Most successful organizations are the product of teamwork, requiring the cooperation of several people with varied skills and talents who share a dedication to the group’s purpose. One person’s interests and talents may lead him to spend most of his time on direct animal care, while someone else will need to spend most of her time on administrative tasks.
+Starting an organization step-by-step
+
+This publication takes you, step-by-step, through the process of starting an organization to help animals. It won’t all happen neatly in this order, but generally this is what needs to be done.
+
+Back to top
+1.) Do research and preliminary planning
+
+In the excitement of starting something new, it’s tempting to rush through this first step. But energy invested in research and planning early on saves at least twice the time in mistakes later.
+
+Know the basics. If you don’t have a business background, reading a single book on nonprofit management can make a world of difference. Most local libraries have books on the subject, and the price is right! Talking with knowledgeable people, visiting other successful organizations, and attending workshops or seminars can help to give you a rounded perspective and prepare you for what lies ahead. As you meet and talk with others in the humane movement, you’ll also be developing a valuable support network of colleagues.
+
+Be informed about issues. What is the scope of the problem in your own community? How can you best address it? What are the factors affecting animal overpopulation in general? What are others in the humane movement doing? How can we work together?
+
+Talking with other humane organizations, attending conferences, and subscribing to animal-related periodicals and publications for animal welfare professionals are good ways to keep up with recent developments. It’s uplifting and energizing to learn about new ideas and meet other like-minded individuals.
+
+“I attend the No-Kill Conference … I consider it my ‘sanity check,’ my once-a-year effort to get focused,” reports Jane Long of the People’s Anti-Cruelty Association / Albuquerque Animal Rescue. “I return home surrounded by the aura of confidence that I acquired from the inspirational speakers.”
+
+Best Friends co-founder Faith Maloney recounts an uplifting experience at a conference sponsored by SPAY/ USA several years ago: The development of early-age spay/neuter was first announced, making it possible to neuter puppies and kittens before adoption to ensure that they will not breed. Faith returned to her work with the determination and information necessary to implement this new policy, as did many of the other conference attendees.
+
+Learn as much as you can about animal care. Your organization sets an example for the public. Keeping up-to-date on proper animal care is critically important. It’s also important to know your limits. When in doubt, refer people to experts – veterinarians, behaviorists, and other organizations.
+
+Back to top
+2.) Write your mission statement
+
+Much of your organization’s success lies in articulating a clear and motivational mission statement for your work. This purpose should touch your heart and the hearts of those who will support your work.
+
+Ask yourself, “Exactly what are we trying to do here?” Defining your purpose precisely in words is tremendously powerful. Your mission statement will guide all of your work; it will help you with future decision-making and help get your message across to the public.
+
+A successful mission statement will be:
+
+    Brief (one or two sentences)
+    Clear and positive in tone
+    Action- and results-oriented
+    And will motivate people to support your work
+
+Writing your mission statement also lays the groundwork for filing your corporate papers, which customarily require a statement of purpose.
+
+Back to top
+3.) Set your goals
+
+Don't confuse goal-setting with your mission statement. Goals are specific statements about what you need to achieve to fulfill your mission. To make them more concrete, put your goals in writing. Focus on results and the actions needed to achieve them. Your goals should be inspiring and motivational! Whenever possible, make them measurable.
+
+Where to start? Start with your long-range goals and work back to the present. Where do you want to be in 10 years? (The answer to this question will give you your long-range goals.) What interim steps will you need to take to get there? (These are your intermediate goals.) Finally, decide which of these goals you’ll work on in the first and second years. (These are your short-range goals; you’ll want to focus on these right away.)
+
+Once the goals are agreed upon, consider how you will accomplish them. Specifically, what programs will you develop? What will be required in terms of financial resources and people?
+
+As you do your planning, keep in mind that it’s important to demonstrate success early on. (Remember the old adage: “Nothing succeeds like success.”) You may not want to tackle your most challenging project first; instead, hone your skills and develop the team with a more manageable project.
+
+Back to top
+4.) Establish your board of directors
+
+What is the role of the board? The board of directors governs the organization. The board is responsible for establishing the direction of the organization and for its financial, ethical, and legal well-being. The board is also responsible for hiring the executive director and for ongoing oversight.
+
+If board members also fulfill other roles within the organization, as they often do in humane organizations, they should have a clear understanding that this work is separate and apart from their role as board members. They must respect the authority of the appointed executive director and staff with regard to daily operations.
+
+Who should be on the board? When you are putting together the board, there are two key components to consider: the skills and talents that you need, and the personalities to make your organization work.
+
+Legal, accounting, veterinary, public relations, and business skills can all be valuable to your organization. Once you identify the types of skills needed, list potential individuals to contact. If you do not know them well, you’ll want to check them out – meet and talk with them. Also, talk with others who have worked with them in the past. Their ability to work well with others and their commitment to the core values of your organization are as important as their talents.
+
+Squatting man holding up a treat with a small black and white dog or puppy jumping up to get it
+
+How do we prevent problems before they start? Horror stories of troubled boards abound: the overly aggressive individual who scares everyone else off; the nice but uninvolved person who can never make it to the meetings; the contrary person who disagrees with everything. People who have had such experiences will tell you that an ounce of prevention is definitely worth a pound of cure.
+
+Take the time to get to know people before inviting them onto the board. Your bylaws can help with solving problems when they occur; they should allow for removal of a board member and should establish “terms of office” for them, which can provide a nonconfrontational way to end an unproductive relationship.
+
+How many is too many? Generally, a smaller board (seven individuals or less) is easier to work with and is often more efficient than a larger one. The size of the board of directors must be set down in your bylaws. Most states require a minimum of three board members.
+
+Factors to consider when selecting board members
+
+    Will they work well with your group? (A single troublesome individual can impede progress and make everyone else miserable.)
+    Do they understand and agree with the organization’s purpose and goals? Share its basic principles?
+    Will they put in the time needed?
+    What resources do they bring to the board?
+    Will they commit to help with fundraising?
+
+Back to top
+5.) Make it all legal
+
+Incorporation has several important benefits. It limits personal liability, lends credibility to your work, and enhances the status of the animals under your care. Once your group obtains 501(c)(3) nonprofit status from the IRS, donations to your work will be tax-deductible, which encourages larger gifts.
+
+Additionally, incorporating and obtaining your tax-exempt status becomes essential as your group grows. Failure to comply with IRS tax codes and state laws relating to charitable donations can create serious problems for your group.
+
+What to do first. You’ll want to start by registering the corporate name and gathering the necessary paperwork. Name registration and incorporation paperwork is usually available from your Secretary of State or Corporation Commission. Forms for filing your 501(c)(3) application are available from the Internal Revenue Service. You may also need to file with your state for a certificate to solicit donations and for sales tax exemption. This is often done through the Attorney General’s office.
+
+Woman holding black and white cat in a room that is surrounded with lots of orange shelves
+
+Where to call. You can call your State House to get the phone number for your Secretary of State and Attorney General’s office. Ask for information on:
+
+    Registering the corporate name
+    Incorporating a nonprofit
+    Any other regulations that apply to charitable nonprofit organizations
+
+You can also call the IRS at 800-TAX FORM or visit its website at www.irs.gov.
+
+Why bylaws are needed. Bylaws set down the framework for the governance of the organization. It’s important that the bylaws are in compliance with both your state and federal government requirements. For this reason, it’s important to do some research. “Boilerplate” bylaws are available at your local law library. Looking at other organizations’ bylaws can also be helpful. Consider the wording carefully and keep the bylaws simple.
+
+What’s in a name?
+
+Select your organization’s name carefully. It’s possible to change a corporate name, but it’s much better to get it right the first time! Name changes can be expensive, time-consuming, and confusing to donors.
+
+How will the name sound and what will it imply to an individual learning about your group for the first time? The name SPCA implies that the group performs cruelty investigations. The term “rescue” suggests that you provide rescue services for animals. A geographic name indicates that you only serve and raise resources from a restricted area.
+
+Try to select a name that is:
+
+    Distinctive
+    Descriptive
+
+Avoid names that are:
+
+    Common (such as Adopt-a-Pet, Save-a-Pet, P.A.W.S.)
+    Similar to another organization
+    Very long and complicated
+
+Back to top
+6.) Use dollars and sense
+
+You’ll need an effective accounting system that documents income and expenses in understandable categories. If you do not have an accountant or bookkeeper, consider recruiting one to help you with this task.
+
+What do we do first? You’ll need to create a budget. Based on your track record of spending and bringing in resources and on your plans for the next year, you can project expenses. If you’re just starting out, use your goals as a starting point for estimating expenses. Your accountant can be of help here. The budget is a guideline. You don't have to get it penny-perfect; just do the best you can. You'll get better at projections over time.
+
+When doing your budget, do not neglect to allocate resources to fundraising. It takes money to make money!
+
+Woman laughing next to a big bloodhound dog named Luther
+
+Why go through all this? Well, there are several good reasons: First, the board and executive director need to have a clear understanding of the resources needed to make your plans work. It’s a sobering experience to realize that you have the responsibility to raise these resources.
+
+Second, the IRS requires that you put together a budget and have a sound accounting program in place for tracking your work. Finally, large donors, particularly foundations and businesses, will want to see your budget before they consider funding you.
+
+When your budget is done, you can clearly see what you need to raise in terms of financial resources. (Check out our other manual, Animal Shelter Fundraising Ideas.) But you still have more work to do to ensure the success and stability of the organization.
+
+Back to top
+7.) Define policies and standards
+
+Defining your organization’s policies and standards is an ongoing process. If your organization is vital and growing, the policies and standards will be revised periodically. But you will not want to put off developing the initial policies for too long.
+
+Establishing policies and standards (in writing), and sharing them with everyone involved, is a critical part of creating an environment where people can work together successfully toward a common goal. Everyone needs to know who makes decisions and what the usual procedures are.
+
+Your policies will need to include things like the services you will routinely provide for the public, veterinary care protocol, and a listing of individuals empowered to authorize veterinary care. Such guidelines help to create stability within the organization (keeping everyone on the same track). They also give the organization credibility by helping to ensure that consistent, quality services are provided. If you need a starting place, examine other organizations’ policies and procedures.
+
+Aren’t policies and bylaws the same thing? They shouldn’t be. While the organization’s bylaws address the framework and governance of the organization, policies and procedures address daily operations. Policies are more detailed, but they are also easier to change than the bylaws.
+
+Back to top
+8.) Take it to the public: Cultivate support in the community
+
+Hold a public meeting. Once the groundwork is laid, you need to cultivate the support of the community, reach out, and involve more people. In order to succeed, your organization is going to need the support of many, many people. The next step is holding a public meeting, where you can explain what your group is going to accomplish.
+
+Man with a small cream and white kitten lying over his shoulder
+
+You don’t want to throw a party and have nobody show up! Publicity is key here, so follow these steps:
+
+Start your mailing list. Compile the addresses of your animal-loving friends and ask all your board members and volunteers for names and addresses of people they know who may be interested. You’ll need a simple, computerized mailing-list database to keep track of these addresses.
+
+These names and addresses (your mailing list) form the foundation of all your future fundraising efforts. (See Animal Shelter Fundraising Ideas for more information on building a mailing list.)
+
+Create a meeting notice. Send it to all the folks on your newly created mailing list. Use an eye-catching photo or drawing of an animal on the notice and make sure that ALL of the following pertinent information is included:
+
+    Who is involved
+    Organization’s name, mailing address, phone number, e-mail address
+    Subject of the meeting
+    When (date and time)
+    Where (give the address and directions)
+
+Also, remember to make it friendly, fun, and interesting. Will refreshments be served? Will a local celebrity or trusted community leader be there? Invite people to bring a friend.
+
+Timing the arrival of the notice is important, too. More than three weeks prior and people forget; less than 10 days before the meeting and their schedules are already filled!
+
+Put up posters. A good poster campaign is an inexpensive and highly effective way to attract people to your meeting. An 8 1/2 x 11 poster printed on brightly colored paper with an eye-catching image of an animal will do the job.
+
+        Select locations and assign volunteers to post the notices. Vet clinics, groomers, public libraries, town halls, supermarket bulletin boards, pet supply stores, and local businesses should all be covered. To maintain good relations in the community, always ask permission before posting notices.
+
+        Contact the media. Send a news release to the local newspapers and a public service announcement to local radio stations. (See the publicity section in Animal Shelter Fundraising Ideas for more information.)
+
+        Woman sitting on the ground with a small black and tan dog sitting in her lap looking at the camera
+
+        Creating publicity materials that work
+
+        Appearance matters! If it’s too busy, hard to read, sloppy, or dull, it will not have the desired result. Use graphics or photographs to make your materials more eye-catching.
+        Accuracy counts. Have at least two people proofread all materials before they go out – letters, posters, flyers, literature about the group, everything. They should be checking for errors in spelling, grammar, and content.
+        Style and tone. Avoid using guilt or a “doom and gloom” approach. You can present substantive information in a positive manner. Your events should sound appealing and up-beat and your organization should be presented as a winning, successful program.
+
+        Back to top
+        9.) Hold a productive first meeting
+
+        Be aware of the goal of the first meeting. At this first meeting, it’s important to establish your credibility and to explain the program clearly and positively. While you want to convince people of the seriousness of this problem, be sure to speak in a positive tone. You must convince the attendees that this is a doable project, that they can make a difference. No one wants to get on board a sinking ship!
+
+        An unproductive meeting can be the kiss-of-death to a young group, since the busy, productive people you need to connect with do not have time to waste.
+
+        Provide written materials. Provide handouts that people can take home, and encourage them to share the information with others. These are some of the materials you’ll want to have available at the meeting:
+
+        Information about the program or organization
+        Donation request form or flyer
+        Sign-in sheet that requests the attendee’s name and mailing address
+        Volunteer form that gives people the opportunity to indicate how they may be willing to help out and to inform you about any feral colonies or animal problems that they are aware of in town
+        Posters announcing the next meeting date
+        Donation coin canister
+        Photos of animals that you have helped and photos of some that are in need of help
+
+        Organizing a successful meeting
+
+        State in one or two sentences exactly what you would like your meeting to accomplish.
+        Prepare a written agenda. Set time limits for each item. (Provide a written copy of the agenda to each attendee.)
+        Set ground rules and appoint a strong, but fair, chairperson. Her job is to maintain focus and order and prevent the meeting from degenerating into a series of “cute animal stories” or “war stories.” After the meeting ends is the appropriate time for people to chat. (Don’t underestimate the value of personal time spent getting to know people. Many valuable connections are made informally, after the meeting is over.)
+        Arrange follow-up. Note action items and take action!
+
+        Back to top
+        10.) Recruit and develop people
+
+        Carefully select key volunteer staff. All of your preparation will pay off here. You want volunteers to buy into your organization's mission and goals – up front.
+
+        Appoint one of your board members to spearhead your volunteer recruitment. Provide written job descriptions (these can be brief) and training, which must include the organization’s policies and procedures. Effective follow-up is as important as initial training. A good volunteer coordinator works with the volunteers on an ongoing basis to ensure that important tasks are completed on time, to get feedback, and to supply additional training as needed.
+
+        Recruit capable people. Many people approach volunteer recruitment by standing up at a meeting and asking, OK, is anyone willing to do this? Instead of waiting to see who volunteers, try actively selecting the person you want to do the job. This takes a bit more time, since you’ll need to get to know the individuals, but it tends to result in higher-quality help. Once you have selected the right person, call or arrange to meet, and let her know that she’s just the right person for the job!
+
+        Train people. After volunteers are assigned tasks, they'll need thorough training in order to perform their roles effectively. Anyone in your group who provides hands-on animal care (including trapping, foster care, transport) must receive general animal health-care information,complete training in the care and handling of the animals, and instruction in the proper use of equipment. Training should be a top priority,since you must ensure the safety and well-being of the volunteers and all animals that come under your care. Everyone also needs to have an understanding of the organization’s policies and procedures.
+
+        Address problems. While you want to be tolerant of differences and develop each individual to their fullest potential, remember that the organization’s mission must come before the interests of any one person. If an individual is disruptive to many others or becomes an impediment to the organization’s mission, you can and should fire the volunteer. You do not have to accept the services of an individual who is not working within your organization’s prescribed guidelines. Naturally, this assumes that you have carefully and fairly examined the situation. It’s often advisable to get a partner in such decisions (perhaps a board member or program coordinator), since another perspective helps to ensure fairness and diffuse tension and blame. It may also be helpful to have a written policy about the organization’s relationship to volunteers."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

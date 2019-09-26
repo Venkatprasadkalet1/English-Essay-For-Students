@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cool"
+    tools:context="com.actionbar.venkat.thor.MainActivity1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back10"
+            android:text="The Cow" />
+
+        <Button
+            android:id="@+id/button38"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="The tiger" />
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back10"
+            android:text="The Lion" />
+
+        <Button
+            android:id="@+id/button41"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="The Crow" />
+
+        <Button
+            android:id="@+id/button36"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back10"
+            android:text="my pet Dog" />
+
+        <Button
+            android:id="@+id/button39"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_back5"
+            android:text="The Bullock" />
+
+        <Button
+            android:id="@+id/button37"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back10"
+            android:text="Bottle Feeding Kittens" />
+
+        <Button
+            android:id="@+id/button40"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back8"
+            android:text="How to Start an Animal Rescue or Other Nonprofit Animal Organization" />
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back10"
+            android:text="Reasons to Adopt a Pet" />
+
+        <Button
+            android:id="@+id/button15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back8"
+            android:text="Teacup Pigs" />
+
+        <Button
+            android:id="@+id/button31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back10"
+            android:text="Introducing Dog to Each Other" />
+
+        <Button
+            android:id="@+id/button32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back8"
+            android:text="How to Start an Animals Sanctuary" />
+
+        <Button
+            android:id="@+id/button33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back10"
+            android:text="Injured Bird" />
+
+        <Button
+            android:id="@+id/button34"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back8"
+            android:text="Taking Action For Animals" />
+
+        <Button
+            android:id="@+id/button35"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/android_back10"
+            android:text="How To Write a Persuasive Paper" />
+
+    </LinearLayout>
+</ScrollView>

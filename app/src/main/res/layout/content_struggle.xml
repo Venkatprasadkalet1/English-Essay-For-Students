@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Struggle"
+    tools:showIn="@layout/activity_struggle">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Introduction
+
+Life is a struggle, sometimes you have to lose something in order to get something, but it's always your choice to consider what you want or need the most. If education improves people's life style and social environment, it also affects our lives in an undesirable way. I know education is essential in almost every aspect of our lives, but do we really want it to entirely take our place? That is, should we give priority to education only and put everything else behind? People see education from different aspects, but one thing about education that everyone agrees on is that it has done so much, socially and politically, for us. Considering all the improvements and differences that education has made, we are unable to see what it has done to us. Today we see education simply as academic success but that's not all there is about education. Being yourself, valuing your culture and identity, and remaining in family are the key issues that we should consider when thinking of getting education. The more we are trying hard to achieve academic success, the more we are starting to grow apart from our love ones and it is changing everyone in certain way. ...read more.
+
+Middle
+
+My parents also want us to get education and be someone as everybody's parents do, so my dad allows us to have anything and do anything as long as it is not out of culture and concerns studying. But after living here for a couple of months, my brother found a girlfriend, which my culture doesn't allow. When we found out, we tried to stop him because they were both disobeying our culture. But he took advantage of going to college and kept seeing her. Still my dad allowed him to go to college because he wants us to make a career but instead he chose her and ran away. So I think even if you manage to achieve so much academic success, you should never forget where you come from and who you are. Take advantage of education and opportunities that you get by educating yourself, but don't let it challenge you your identity and your community. Education will definitely make your life better but it is not going to change your identity and culture or should it? Although education get you some fame and make you wealthy, it can affect your personal life in an unfavorable way. ...read more.
+
+Conclusion
+
+Parents are the role models of their kids; they are the one who we look up to. So they should also teach their children the important lessons of life like how to value your cultural beliefs and giving them the real education first. Since education is most important in today's lives, kids should definitely educate themselves and make a career but they should never forget their culture and family neither should they disobey them. Study hard but don't be someone to question your identity. Educate yourselves in way people will respect you. Don't be embarrassed or feel ashamed by their lack of education, at least they know the value of culture and family. And nobody is perfect, but if education can empower people and make a difference in the world we should definitely make the most of it. There is always an opportunity cost in everything that's why we should educate ourselves so we can make the best choice."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

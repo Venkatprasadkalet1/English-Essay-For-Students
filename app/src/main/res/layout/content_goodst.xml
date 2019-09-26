@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Goodst"
+    tools:showIn="@layout/activity_goodst">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Ideal Student – 5 (600 words)
+
+Ideal students are not born ideal or perfect. They are nurtured to become ideal by their parents and teachers. The environment at home has a great impact on the way a student performs in school. Teachers also play a significant role in the same. However, the parents and teachers can only guide a student and it ultimately depends on how driven he himself is.
+
+What makes a Student Ideal?
+
+Here are a few things that make a student ideal:
+
+    These students pay attention in the class and try to grasp as much as they can in their classroom sessions.
+    They do not hesitate asking questions in the class to clarify their doubts.
+    They make sure they study all that is done in the class each day as they go home.
+    They keep things organized.
+    They do not only try to do well academically but also take part in other activities such as sports, debate competitions, art and craft activities and more.
+    They take initiatives and give their best shot. They do not give up on opportunities because of the fear of failure.
+    They do not give up even if they face failure. They try to do things again until they finally achieve the desired result.
+
+Ideal Students are Favourite in School
+
+Ideal students are the ones who are good at almost everything in the school. They emanate positive energy. Everyone in their class wants to be their friends. Having an ideal student as a best friend makes a good impression on the teachers as well as other students. If your friend is good in studies you also get help in studies. His notes are always readily available for you. He also motivates you to study with devotion and take part in extra-curricular activities such as sports, music, dance, etc. A person’s company has a huge impact on him especially during the growing years. Those who keep company of good/ ideal students are bound to inculcate good habits.
+
+Ideal students are also a favourite among the teachers. Teachers give their example to others in the class and ask them to learn their good habits. Teachers entrust these students with various other tasks such as preparation of projects, distribution of books/ notebooks and monitoring of class in their absence. Every teacher wants her class to have ideal students.
+
+Being an Ideal Student Helps Later in Life
+
+It is said that, you are what you repeatedly do. Excellence then becomes a way of life. An ideal student is organized. He keeps his room, school bag, books and other stuff in an organized manner so that he doesn’t have to waste time looking for things when need be. He knows where exactly to look for his stuff. Being organized does not only mean keeping things intact but also means the ability to prioritize and organize your tasks in an efficient manner so as to complete them on time. This becomes a habit and even as such a student grows up he remains organized. Those who are organized can manage both personal and professional life efficiently.
+
+An ideal student knows how to strike a balance between different activities and as he grows into a professional it becomes easier for him to maintain a work-life balance. He is also quite hard working and determined and this helps a great deal later in life.
+
+Conclusion
+
+The life of an ideal student may seem tough from a distance. However, it is actually much more sorted as compared to those who procrastinate and do not give complete attention to their studies and other tasks. Ideal students are go getters. They aim high and work hard to achieve the set goals."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

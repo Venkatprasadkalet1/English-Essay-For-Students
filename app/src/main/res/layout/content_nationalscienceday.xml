@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Nationalscienceday"
+    tools:showIn="@layout/activity_nationalscienceday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="National Science Day is celebrated all over India with great enthusiasm on 28th of February every year in order to commemorate the invention of the Raman Effect in India by the Indian physicist, Sir Chandrasekhara Venkata Raman on the same day in the year 1928. For his great success in the field of science in India, Chandrasekhara Venkata Raman was awarded and honored with the Nobel Prize in the Physics in the year 1930.
+National Science Day 2018
+
+National Science Day 2018 in India will be celebrated on 28th of February, at Wednesday.
+History of National Science Day Celebration in India
+
+28th of February, 1928 was the great day in India when an invention in the field of Indian science was completed by the famous Indian physicist, Sir Chandrasekhara Venkata Raman. He was a Tamil Brahmin and first one in the science, who had researched such invention in India. To commemorate and honor this event always in the future, 28th of February was asked to the Indian Government to designate as a National Science Day in India by the National Council for Science and Technology Communication (NCSTC) in the year 1986.
+
+From then, the national science day was started celebrating all across the India as a great event in the field of Indian science. It is celebrated every year by students, teachers, scientists and researchers in all the schools, colleges, universities, educational institution including scientific, academic, medical, technical and research institutions of India. On the first celebration ceremony of the National Science Day in India, the National Council for Science and Technology Communication had declared the institution of the National Science Popularization awards in order to recognize an excellent and wonderful endeavor in the field of science communication and popularization.
+
+Sir Chandrasekhara Venkata Raman had worked from 1907 to 1933 at the Indian Association for the Cultivation of Science, Kolkata, West Bengal in India during which he had researched on many topics of the Physics from which the Raman Effect (effect on scattering of light when passing through different materials) became his great success and discovery which has been marked in the Indian history. For his big invention he was honored through the various Indian awards including the Nobel Prize in the year 1930. From the year 2013, the “Raman Effect” has been designated as an International Historic Chemical Landmark by The American Chemical Society.
+
+During the national science day celebration of the year 2009, the Indian Department of Science and Technology has awarded the five Indian institutions through the National Award for Science Communication in order to recognize the big efforts and achievements of the Indian scientists of the government and non-government organizations for popularizing and leading the modern science in the country. The Vikram Sarabhai Community Science Centre was given the highest award in the year 2009 to recognize its big contribution to the science.
+
+The national science day has been started getting celebrated as the Science Carnival to recognize scientific activities and programs by the participation of students from school and college, scientists from the state and national faculties. This event celebration has provided a real platform for various new comer scientists to fix their feet and bright their career in the science profession.
+
+
+How National Science Day is Celebrated
+
+National science day is celebrated as one of the main science festivals in India every year during which students of the schools and colleges demonstrates various science projects as well as national and state science institutions demonstrates their latest researches. The celebration also includes public speech, radio-TV talk shows, exhibitions of science movie, science exhibition based on themes and concepts, watching night sky, live projects and researches demonstration, debates, quiz competitions, lectures, science models exhibitions and many more activities.
+
+It is celebrated every year with immense passion at the Giant Metrewave Radio Telescope (also called GMRT) at Khodad which is a worldwide famous telescope getting operated at low radio frequencies by the NCRA (National Centre for Radio Astrophysics) established by the TIFR (Tata Institute of Fundamental Research).
+
+Variety of activities is organized by the NCRA and GMRT at the ceremony of national science day celebration in order to recognize their leading research activities in the field of radio astronomy and astrophysics. Variety of programmes is also held for the common public and student community to popularize the science and technology in the country.
+
+The minister of science and technology give a message through his speech at this day to the students, scientists, researchers and general public of the nation.
+Objectives of Celebrating National Science Day
+
+> National Science Day is being celebrated every year to widely spread a message about the significance of scientific applications in the daily life of the people.
+
+> To display the all the activities, efforts and achievements in the field of science for human welfare.
+
+> To discuss all the issues and implement new technologies for the development of the science.
+
+> To give an opportunity to the scientific minded citizens in the country.
+
+> To encourage the people as well as popularize the Science and Technology.
+
+
+Themes of National Science Day
+
+The theme of the year 1999 was “Our Changing Earth”.
+
+The theme of the year 2000 was “Recreating Interest in Basic Science”.
+
+The theme of the year 2001 was “Information Technology for Science Education”.
+
+The theme of the year 2002 was “Wealth from Waste”.
+
+The theme of the year 2003 was “50 years of DNA and 25 years of IVF – The blue print of Life”.
+
+The theme of the year 2004 was “Encouraging Scientific Awareness in Community”.
+
+The theme of the year 2005 was “Celebrating Physics”.
+
+The theme of the year 2006 was “Nurture Nature for our future”.
+
+The theme of the year 2007 was “More Crop Per Drop”.
+
+The theme of the year 2008 was “Understanding the Planet Earth”.
+
+The theme of the year 2009 was “Expanding Horizons of Science”.
+
+The theme of the year 2010 was “Gender Equity, Science and Technology for Sustainable Development”.
+
+The theme of the year 2011 was “Chemistry in Daily Life”.
+
+The theme of the year 2012 was “Clean Energy Options and Nuclear Safety”.
+
+The theme of the year 2013 was “Genetically Modified Crops and Food Security”.
+
+The theme of the year 2014 was “Fostering Scientific Temper and Energy conservation”.
+
+The theme of the year 2015 was “Science for Nation Building”.
+
+The theme of the year 2016 was “Make in India: S and T driven innovations”.
+
+The theme of the year 2017 is “Science and Technology for specially abled persons”."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

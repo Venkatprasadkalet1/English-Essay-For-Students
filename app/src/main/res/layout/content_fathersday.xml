@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Fathersday"
+    tools:showIn="@layout/activity_fathersday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="My Father Essay 6 (400 words)
+
+The person I admire ever in my life is only my lovely father. I still remember all my childhood memories with my father. He was the real reason of my happiness and joy. What I am is because of him as my mother was always busy in the kitchen and other household activities and it was my father who has joy with me and my sister. I understand he is very unique Dad in the world. I am feeling of being so lucky to have such father in my life. I always praise to god to give me such opportunity to take birth in the family with good father.
+
+He is very polite and peaceful person. He never scolded me and takes my all mistakes very easily and makes me realise my all mistakes very politely. He is the boss of my family and helps each and every family member to take good decision in the bad time. He always shares his life drawbacks and achievements with me to let us know. He has his own business of online marketing but never force me to do go in the same field or attract me towards his own business instead he always promote to do what I want in my life. He is really a good dad not because he helps me but because of his knowledge, strength, helping nature and most importantly his way of handling people.
+
+He always respects his parents means my grandparents and cares for them all time. I still remember that when I was little, my grandparents were generally talked to me about my father naughtiness in his childhood but they told me that your father is very good person in his life, be like him. It is my father who wants to see everyone happy in the family and always asks whenever anyone becomes sad and solves his/her problems. He loves and cares my mom and suggests her to take rest when she gets tired of doing all the household chores. My dad is my inspiration, he always becomes ready to help me in my school tasks and even go to every PTM to discuss my behaviour and performance in the class.
+
+My father was born in very poor family however currently he is one of the richest people in the city because of his patience, hard works and helping nature. My friends generally tell me so lucky of being the son of such father. I usually laugh on such type of comments and tell my father, he also laughs and says that what they are telling is not true but the truth is that I am so lucky to have son like you. He tells me that, my son always be what you want and always believe in you."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

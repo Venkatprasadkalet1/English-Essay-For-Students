@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Dadabhainaoroji"
+    tools:showIn="@layout/activity_dadabhainaoroji">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Dadabhai Naoroji is one of those personalities of the nineteenth century, who were respected by the British and were also honoured by Indians. In fact, he was considered to be a father figure among the nationalist, being a founder-member of the Indian National Congress (INC). Dadabhai not only worked towards attaining Independence but also inspired many educated people to join hands with him.
+
+Dadabhai Naoroji was born on 4 September 1825 in a Parsi family. In 1845, he did his B.A. and ten years later went to London. There, he assisted Bhikhaji Cama, a leading businessman, in his business. He organised the Indians living in London and formed the Indian Society. After sometime he was chosen to be a member of the British Parliament. He was perhaps the first or second Indian to have the honour of becoming member of the British Parliament.
+
+When Dadabhai joined Congress, it was basically a society of Government servants and its main function was to appraise the British government of the people’s problems. Dadabhai was extremely popular and was elected as its President in 1896 and 1906. Dadabhai was not satisfied with merely petitioning the complaints to the government. He sought Independence. He was summoned to the court for his activities and asked for sitting in the court.
+
+Dadabhai Naoroji is among those leaders who did not overlook the importance of keeping in touch with the British while demanding Independence."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

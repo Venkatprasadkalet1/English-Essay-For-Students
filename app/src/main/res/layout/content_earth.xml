@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Earth"
+    tools:showIn="@layout/activity_earth">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Save Earth Essay 6 (400 words)
+
+Introduction
+
+Save earth and save environment both related to the safety of life on the earth. As being human being, we should strictly involve in the activities reducing pollution and global warming and save the earth.
+
+Easy Ways to Save Earth
+
+There are various easy ways which can be helpful in saving the earth. Earth is the only known planet of the solar system having life. In the ancient time, people were not involved in any type of destructive work, so there was no any fear of pollution and other environmental issues. After explosion in the population, people started developing cities and industries for the modern lifestyle and easy life for everyone. For industrialization man learned misusing the natural resources beyond the limit. People involved in deforestation which resulted in extinction of various wild animals, pollution, and global warming. Due to the global warming the protective ozone layer got a hole, rise in sea level, melting of ice caps of Antarctica and Greenland, etc negative changes occurred. Such types of environmental changes are alarming sign to us. Following are some ways regarding save earth:
+
+    We should save forest through afforestation and reforestation. Plants are the most basic need of life whether human beings, animals or other living things. They give us food, oxygen, shelter, fuel, medicines, safety, and furniture. They are very necessary to maintain the natural balance between environment, climate, weather, and atmosphere.
+    We should take care of the wildlife by stopping deforestation and promoting reforestation. Thousands of species and birds have been extinct because of destruction of their habitat. They are very necessary to balance the food chain in the nature.
+    Our environment is being declined continuously as a result of deforestation, industrialization, urbanization, and pollution. It is threatening the lives through global warming and climate changes because of the emission of carbon dioxide and other greenhouse gases. We should save our environment to balance all the natural cycles.
+    We are needed to bring huge level changes in our unnatural lifestyle as much as possible to save the earth.
+    There is need to transform cities into Eco-cities to maintain the ecological balance in the atmosphere.
+    The government of all the countries need to work together to bring global changes.
+
+Why to Save Earth
+
+There is urgent need to save our earth because of the continuous rising in global temperature, melting of polar ice caps, bleaching of coral reefs, and increasing risks of tsunami, floods and droughts. The condition of our mother earth is getting poor which is reducing the chances of healthy life. Earth is the most important source of all the basic elements required to keep us alive. Bad human activities have given rise to various environmental issues due to release of toxic fumes, chemical wastes and excessive noise.
+
+Conclusion
+
+Government has taken various effective steps regarding save earth, save life and save earth, save environment in order to continue the healthy life on the earth. Without earth, life is not possible anywhere in the universe. Human activities related to the destruction of natural resources of earth are impacting the earth environment very badly. So, it is our sole responsibility to save the earth by practicing Eco-friendly activitie"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

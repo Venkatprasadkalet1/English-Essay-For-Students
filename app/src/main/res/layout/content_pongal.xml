@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Pongal"
+    tools:showIn="@layout/activity_pongal">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Introduction: Pongal is the biggest harvest festival for the people of Tamil Nadu. People belonging to Hindu faith observe this festival to please the Sun God who has been so kind to them.
+
+Pongal Festival is celebrated around 14th January every day. People eagerly wait for this day to offer cooked rice to the God on the Pongal day.
+
+Harvest Festival: Pongal is a harvest festival. It is the most important festival of Tamil Nadu. The season has made the people busy in the rural Tamil Nadu. Men, women, children all would go to the fields to reap the harvest. Since rice is to be offered to God how it can be cooked in the kitchen inside the house. In the courtyard or some other open space to let God to see how enthusiastic the people are to make him offerings.
+
+The paddy fields looks like the waves of a green sea.  The heart of the farmer is filled up with joy. With this have mellowed the generous hearts of the people to Tamil Nadu. Sun God is just ready to have a bit of change in his course bending a little to the North. Winter is just over and harvest season has set in.
+
+Celebration: A couple of days before the festive occasion ladies would clean and decorate the whole house with festoons. They would decorate the big earthen vessel too with kumkum and swastika. The eldest or the youngest member of the family is called to fill the pit with rice and water. The Pongal (cooked rice) is to be prepared for appearing to the God some milk must be added to the water in the vessel. But the people who participate in the process of cooking have to the careful. They have not to tread over the beautiful rangoli that has been designed around the heart.
+
+Basically Pongal is an agricultural festival. People in the rural area are very enthusiastic. But many have moved to cities. Urbanization is fast spreading in Tamil Nadu. The gap between the rural and urban people has almost disappeared. Naturally Pongal is celebrated with the same joy, pleasure and enthusiasm everywhere in the state. In the border districts, the people of Karnataka and Andhra Pradesh would also share the joy.
+
+It is Pongal morning, young and old all have taken both in rivers lakes and even on wells in the villages. A happy day for children. They have news clothes.
+
+As the evening approaches, people meet to eat the rice together. The rice is distributed among the rich and the poor alike. A little tired they would go to bed dreaming of the festivities of the day.
+
+The next day is celebrated as Muttu Pongol. It is the day to honor the cattle world that has helped the farmer to grow and harvest paddy. Cows, bullocks and their kinds are decorated in different for which they would wait for full one year.
+
+But before they go to bed how they can forget their companions. The rich would show their generosity by distributing money whole heartedly among their employees. The married girls won’t be forgotten. They too get their presents beautiful clothes and cosmetics from relatives. All are blessed before the Sun God changes its course and prepares Indra, the God of rains to visit the earth again in a couple of months.
+
+Regional variations: Gujaratis, throughout the state would send kites towards the Sun God the same day. In Gujarat, this fesitval is known as  Uttarayan. In the north and Maharashtra it is Makar Sankranti when the sun enters the planetary zone of Makar. They would distribute and share with others coconut and sugar bright white things as white as the rays of Sun God. A day earlier Punjab would celebrate Lohri with the evergreen Bhangra dance around a bonfire like that of Holi. "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

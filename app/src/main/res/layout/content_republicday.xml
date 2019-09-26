@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Republicday"
+    tools:showIn="@layout/activity_republicday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Republic Day Essay 6 (400 words)
+
+Our Motherland India was slave under the British rule for long years during which Indian people were forced to follow the laws made by British rule. After long years of struggle by the Indian freedom fighters, finally India became independent on 15th of August in 1947. After two and half years later Indian Government implemented its own Constitution and declared India as the Democratic Republic. Around two years, eleven months and eighteen days was taken by the Constituent Assembly of India to pass the new Constitution of India which was done on 26th of January in 1950. After getting declared as a Sovereign Democratic Republic, people of India started celebrating 26th of January as a Republic Day every year.
+
+Celebrating Republic Day every year is the great honour for the people living in India as well as people of India in abroad. It is the day of great importance and celebrated by the people with big joy and enthusiasm by organizing and participating in various events. People wait for this day very eagerly to become part of its celebration again and again. Preparation work for the republic day celebration at Rajpath starts a month before and way to India Gate becomes close for common people and security arrangement done a month before to avoid any type of offensive activities during celebration as well as safety of the people.
+
+A big celebration arrangement in the national capital, New Delhi and State capitals takes place all over the India. Celebration starts with the National Flag unfolding by the President of India and singing National Anthem. Following this Indian army parade, state wise Jhankis, march-past, awards distribution, etc activities takes place. At this day, the whole environment becomes full of the sound of National Anthem “Jana Gana Mana”.
+
+Students of schools and colleges are very keen to celebrate this event and starts preparation around a month before. Students performing well in the academic, sports or other fields of education are honoured with the awards, prizes and certificates on this day. Family people celebrate this day with their friends, family and children by participating in activities organized at social places. Every people become ready in the early morning before 8 am to watch the celebration at Rajpath, New Delhi in the news at TV. At this day of great honour every Indian people should sincerely promise to safeguard the Constitution, maintain peace and harmony as well as support in the development of country."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Ranilakshmibai"
+    tools:showIn="@layout/activity_ranilakshmibai">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Rani Lakshmi Bai of Jhansi was a great patriot. She was born at Bithur on June 15. 1834. She was named Manu Bai.
+
+In her childhood she learnt the use of weapons. She had warlike qualities. She was a clever horse rider and a clever archer.
+
+
+She was married to Raja Ganga Dhar Rao of Jhansi. After her marriage she was named Rani Lakshmi Bai. She could not enjoy the pleasures of married life. She became widow after two years of her marriage.
+
+She had no issue. She wished to adopt a son. Lord Dalhausi, the Governor General of India, did not allow her to do so.
+
+He wanted to make Jhansi a part of British India. Lakshmi Bai stood against him. She opposed foreign rule.
+
+She refused to obey the orders of Governor-Gen- eral. She adopted a son and declared herself independent. Nana Sahib, Tantia Tope and Kanwar Singh were waiting for a chance. They joined hands with Rani.
+
+Naya Khan demanded seven lakhs of rupees from the Rani. She sold her ornaments to dispose him off. This traitor joined the British.
+
+He again attacked Jhansi. The Rani rose against Naya Khan and the Brit­ish. She filled the heart of her soldiers with the spirit of heroism. She fought bravely and defeated her enemy.
+
+Jhansi was again invaded in 1857. Rani was asked to surrender, but she refused to do so. The result was that the city was destroyed and captured by the British.
+
+But Rani was still firm. At the news of Tantia Tope’s death she said,”So long as there is a drop of blood in my veins and a sword in my hand, no foreigner dare to spoil the sacred land of Jhansi.”
+
+
+Soon after this Lakshmi Bai and Nana Sahib captured Gwalior. But one of her chiefs Dinkar Rao proved traitor. So they had to leave Gwalior.
+
+Now Rani began to organise a new army. But she had not enough time to do so. Col. Smith attacked her with a large army.
+
+She fought bravely and heroically. She got a very bad wound. So long as she lived, she kept the flag of independence flying.
+
+The Indians lost the First War of Independence., but Rani of Jhansi sowed the seeds of Independence and heroism. India will never forget her name. She is immortal."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

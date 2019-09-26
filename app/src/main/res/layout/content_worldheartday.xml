@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Worldheartday"
+    tools:showIn="@layout/activity_worldheartday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="World Heart Day is a campaign established to spread awareness about the health of heart among common people all through the world. This initiative was founded in the year 2000 to inform people to take care of their heart. A huge percentage of common public in the society is suffering from the heart diseases like stroke, heart attack, heart failure, etc. Heart problems are the leading causes of death in the world.
+
+It is celebrated annually all over the world on 29th of September. A particular theme is decided for the each year celebration in order to focus on the main subject and make it effective. Theme is prepared by keeping in mind the key issues of heart health.
+
+According to the World Heart Federation, at least 80% of the premature deaths (because of cardiovascular diseases) can be protected by controlling four main risk factors such as unhealthy diet, tobacco use, lack of physical activity and use of alcohol.
+
+The heart related problems and deaths can be solved by the active involvement of the common public through the campaign of world heath day. Various governmental and private organizations including NGOs all around world are working to spread the awareness of CVD (cardio vascular disease-the world’s number one killer).
+World Heart Day 2018
+
+World Heart Day 2018 will be celebrated all over the world at Saturday, on 29th of September.
+World Heart Day History
+
+World Heart Day was celebrated every year on the last Sunday of September month from the year it was established till 2010. It is an effective event established in 2000 and organized every year by the World Heart Federation since 2000. From the year 2011, it was started celebrating annually on 29th of September (means no longer on last Sunday of the month).
+
+World Heart Federation and its members actively involves in the celebration in order to spread the news about premature deaths from heart diseases and its risk factors (tobacco intake, lack of physical exercise, unhealthy diet and alcohol intake) to the common public. There are many collaborators of the World Heart Federation in this campaign including several major international non-profits (Indian Heart Association). Through this campaign, several effective preventative measures are promoted in order to reduce the risk of cardiovascular diseases.
+
+About World Heart Federation
+
+World Heart Federation (WHF), a nongovernmental organization, is based in the Geneva, Switzerland. An International Society of Cardiology was founded in 1946 and International Cardiology Federation in 1970. Both organizations were merged to form the International Society and Federation of Cardiology (ISFC) in 1978. Later the name of International Society and Federation of Cardiology was changed to the World Heart Federation in 1998.
+
+It has established the world heart day campaign in 2000 to be celebrated every year on 29th of September. This organization and its members are dedicated to lead a major global fight against heart diseases and stroke. The strategy of this federation is especially focusing on the vulnerable areas of the world such as low and middle income countries.
+
+It is a united community, of around 200 member organizations, only global body in the world dedicated to lead this fight against heart diseases. This federation brings together strength of various medical societies and heart foundations all over the world (more than 100 countries from Asia-Pacific, East Mediterranean, Europe, the Americas and Africa).
+
+
+
+According to the statistics, approximately 17.3 million people were died of cardiovascular diseases in 2005. In such serious situation, World Heart Federation is a hope to prevent and control heart ailments through proper awareness campaigns and actions. Heart health and disease related information and ideas are shared among people for disease prevention and control through the promotion of healthy diets, physical activities, tobacco and alcohol free living including healthy life style.
+
+The World Heart Federation motivates the health care professionals, medical societies, policy makers, patients, organizations and other healthy individuals to come forth and participate actively in the campaign to reduce the fear of heart disease and stroke as well as ensure people for longer and better lives.
+Why to Celebrate World Heart Day
+
+World heart day is celebrated all across the world to reduce the number of deaths because of cardiovascular diseases worldwide. It is an international campaign to spread awareness among common public to save them and motivate to live with healthy heart. According to the WHO, cardiovascular diseases are the reason of around 30% deaths of all global deaths. Some of the most dangerous risk factors leading to the heart disease and stroke are high blood pressure, high level of bad cholesterol, increased glucose level, smoking habit, inadequate intake of diet, fruit and vegetables, increased weight, and obesity.
+
+World Heart Day is an effective way established by the world heart federation to aware people around the globe that heart ailments are the leading cause of death. World Heart Federation, in collaboration with the WHO, spreads important news about heart diseases and main risk factors to the public worldwide.
+
+It motivates people to get participated and take some knowledge, go through the proper heart check-ups, and follow other control measures all through the life. It is a perfect day when many people do promises to themselves to quit smoking, get involved in daily physical activities, start eating healthy diet, etc in order to keep their heart in good working order.
+
+It is a day when people realize about overeating, unhealthy diets, lack of exercises, bad life style, etc causing heart ailments. It brings some hope to people that heart problems can be prevented and controlled for whole life by following healthy life style.
+
+The main aim of world heart day is to improve global heart health by encouraging people for lifestyle changes and gain knowledge about ways to be good to the heart. There is a target by WHO to reduce non-communicable disease mortality rate by 2025 by reducing the premature deaths because of cardiovascular disease.
+
+
+World Heart Day Celebration
+
+World Heart Day is celebrated throughout the world every year by organizing variety of events and activities related to the heart health for more awareness in the common public. The aim of this campaign is to motivate people for active participation in huge number to make this campaign successful and world free of heart diseases. There are many ways people can be involved in the celebration such as planning their own ways, sharing healthy heart selfies on Twitter, Facebook pages and other social media sites to boost the campaign, keep an eye on the website of world heart federation regularly for current updates and information.
+
+Various governments, non-government organizations, charities, NGOs and other organizations celebrate this event to promote the campaign through many activities like fun runs, concerts, public talks, heart check-up camps, overall health check-up, sporting events, walks, science forums, fitness sessions, stage shows, screenings, exhibitions and many more. Variety of awareness events are organized by the world heart federation in collaboration with the other organizations in more than 100 countries worldwide. It provides a huge opportunity to the people across the globe to take part in the biggest event against cardiovascular disease."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

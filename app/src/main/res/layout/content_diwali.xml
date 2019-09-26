@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Diwali"
+    tools:showIn="@layout/activity_diwali">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Diwali Essay 7 (1000 words)
+
+Diwali is the most significant Hindu festival celebrated all over the India in the autumn season every year. The spiritual significance of this festival indicates the victory of light over darkness. It is a five days long festival celebrated by the people with huge preparations and rituals. It falls every year in the month of October or November. Many days ago of the festival, people start cleaning, renovating and decorating their homes and offices. They purchase new dresses, decorative things like diyas, lamps, candles, puja materials, statue of God and Goddess and eating things especially for Diwali.
+
+People do worship of God Ganesha and Goddess Lakshmi for getting wealth and prosperity in their life. They perform puja on main Diwali with lots of rituals. After puja, they get involved in the fireworks activities and then distribute gifts to each other among neighbors, family members, friends, offices, etc. People celebrate Dhanteras on first day, Naraka Chaturdasi on second day, Diwali on third day, Diwali Padva on fourth day, and Bhai Dooj on fifth day of the festival. It becomes official holiday in many countries on the day of festival.
+
+Celebration of Diwali with Family without Crackers
+
+Diwali is my favorite festival of the year and I celebrate it with lots of enthusiasm with my family members and friends. Diwali is called as the festival of lights because we celebrate it by lighting lots of diyas and candles. It is a traditional and cultural festival celebrated by each and every Hindu person all over India and abroad. People decorate their houses with lots of candles and small clay oil lamps indicating the victory of good over evil. Family members spend their most of the day time in preparing house (cleaning, decorating, etc) to welcome the festival with grand evening party. Neighbors, family members, and friends gets collected in the evening party and enjoy the party with lots of delicious Indian dishes, dance, music, etc all through the night. Houses look very attractive in white wash, candle lights and rangolis. High pitch music and fireworks makes the celebration more interesting.
+
+People go to their home by taking off from their job, offices and other works; students also book their train around three months ago to easily go to their home on Diwali festival because everyone wants to celebrate this festival with their family members in the home town. People generally enjoy the festival by feasting, bursting crackers and enjoying the dance with family and friends. However, it is prohibited by the doctors to got outside and enjoy firecrackers especially people suffering from lung or heart diseases, hypertension, diabetes, etc. Such people have to knock the doctor’s door because of consuming highly saturated food and sweets in high amount and lack of exercises and pollution caused by crackers in these days.
+
+Significance of Diwali
+
+Diwali festival is celebrated by the people with great revelry and lots of fun and frolic activities. It becomes the happiest holiday for Indian people in the year and celebrated with significant preparations. It is the festival of high significance for Indian people during which people clean their homes, decorate, do shopping, buy new things including gifts, kitchen utensils, appliances, cars, golden jewelry, etc and perform so many rituals. There are many ancient stories, legends, and myths about celebrating this festival. Girls and women of the home do shopping and make rangolis in creative patterns on the floors near to the doors and walkways of home. There are little variations in the celebration of this festival according to the regional practices and rituals.
+
+The spiritual significance of this festival symbolizes the victory of light over darkness and victory of good over evil. It is celebrated to honor the Goddess of wealth, Lakshmi and God of wisdom, Ganesha. Its religious significance varies according to the region all through the country. Somewhere, it is celebrated to honor the returning of Rama, Sita and Lakshmana to their home after long exile period of 14 years (according to Hindu epic Ramayana). Some people celebrate it to remember the return of Pandavas to their kingdom after 12 years of Vanvas and one year of agyatavas (according to Hindu epic Mahabharata). It is also believed that it was started celebrating when Goddess Lakshmi was born after churning the ocean by the gods and demons. Diwali celebration also indicates the start of a new Hindu year in the west and some northern parts of India. It is celebrated by the people of Sikh religion to mark the Bandi Chhor Divas by lighting up the Golden Temple. It is celebrated by the people of Jain religion to mark the Nirvana attained by the Mahavira.
+
+Pollution on Diwali
+
+Together with the Diwali celebration, there is indirect increase in the environmental pollution all over the world because of the bursting of various types of firecrackers during this festival. Such firecrackers are very dangerous as they release toxic pollutants like sulphur dioxide, carbon monoxide, carbon dioxide, and so many etc which gets intermingled into the air and causes variety of ailments like asthma, bronchitis, hypertension, etc. It affects the people of all age group however those people who already suffer any type of ailment. Together with the human beings, it also affects the lives of animals, birds and other living beings due to air and noise pollution.
+
+However, now-a-days, there is a campaign run by the government to celebrate pollution free Diwali all over the country. Schools and various organizations also organizes various demonstrations prior to the celebration to educate and aware students for pollution-free festival. Environment and pollution departments also do many efforts by publishing pollution free news in the various newspapers to aware people and curb noise and air pollution because of firecrackers. Bursting sound-emitting firecrackers has been banned by the Supreme Court especially during 10pm to 6am.
+
+Air and water pollution is also caused by the decay of remnants of fireworks and deluge of garbage like empty bottles, papers used to light off rockets, gift wrappers, dried flowers, etc at the nook and corners of the city. We all should practice celebrating the pollution free Diwali every year in order to save and enjoy the natural beauty of environment forever."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

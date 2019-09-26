@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Rules"
+    tools:showIn="@layout/activity_rules">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Discipline in school life is very important for students. We can’t be well educated without discipline. Without learning and the following discipline in school life can cost students later in their career.
+
+In school education, discipline is a set of rules and regulations that remind us of the proper code of behavior. Discipline is ever more important during school life.
+
+But discipline is not only important for school students it’s for everyone. Discipline is self-improvement practice. It is what helps us all to achieve our goals in life.
+
+See a successful business owner, a popular leader and you will find that are well disciplined. Disciplined founders and leaders have higher business intelligence and strong analytical skills. Because they practiced their business growth strategies consistently and with focus.
+
+For example, you have goals and dreams. You want to achieve them. And most of the time people got 50% success. But discipline aligns us to keep going, keep working, keep dreaming until it is not 100%. That’s the way of success.
+
+And that’s why I think implementations of discipline in students mind help them to achieve their goals and dreams later in the life. But let’s learn about the importance of discipline in students life in details with example.
+
+In school life, students have a tender mind that does not know what is right or wrong. Students need constant guidance and supervision from his teachers otherwise, he can go towards the wrong path.
+
+Using an analogy to explain this, we can say that a school is like a canal that a farmer builds for irrigating his fields. There is a purpose behind building a canal.
+
+The purpose is to guide/redirect the water to those areas that are far from the water source. Its purpose is to connect two water sources and provide nourishment to villages so that crops can grow.
+
+Likewise, there is a purpose of building a school. Its purpose is to guide/redirect the students in school life to the right direction so that they grow up to become socially, scientifically and morally educated. This is where discipline comes into the picture.
+
+The nature of water is to flow where gravity takes it. If there is no canal to give it a fixed path, it will disperse everywhere. It becomes useless for the farmer because his fields are still dry. In the same way, a student’s mind is playful by nature, it will go in every direction unless the student is given a fixed path (discipline) to follow.
+
+Building a canal and maintaining discipline in schools is not an easy task.  The water in the canal and the students in the schools will resist any attempts to control or regulate them. The water will try to seep through the canal if there are cracks in it or it will try to flow over the wall if they are not high enough.
+
+Similarly, the students will try to escape the rules and regulations if discipline is not maintained or enforced strictly. If their mind is not occupied by their teachers in learning activities, it will wander into bad activities. They might even wonder themselves outside class if there is no teacher to watch them.
+
+Like they say, an empty mind is a devil’s workshop.
+
+But it takes a lot of hard work to build a strong canal that keeps the water flowing properly. With a school also it’s the same; there is a lot of hard work that goes into running a school such that the students don’t fall out of line.
+
+Just like the walls of a canal don’t let the water go outside it and guide the water to the field, the discipline in school doesn’t let the students go outside their ethical and moral boundaries and guides them to become good human beings.
+
+Related:  Importance of communication skills for students
+
+To sum it up, we can say that students are like water and discipline in schools is like the walls of a canal. The water if flow well if the walls of the canal are strong and the students will do better in life if the discipline in their schools is strict.
+
+That’s why discipline is really important and plays a great role in students school life."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

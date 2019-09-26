@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Baisakhi"
+    tools:showIn="@layout/activity_baisakhi">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Baisakhi Essay – 5 (600 words)
+
+Baisakhi, also known as Vaisakhi or Vasakhi, is mainly a Sikh festival which is celebrated with immense zeal in the Indian state of Punjab. People from the Sikh and also many Hindu communities living in other parts of the country also celebrate the festival as it marks the beginning of the New Year for them. The festival mostly falls on the 13th of April each year.
+
+The Significance of Baisakhi
+
+Though known to be one of the main Sikh festivals, Baisakhi is basically a Hindu festival. It is said to be one of the three Hindu festivals that Guru Amar Das chose for Sikhs. The other two being Diwali and Maha Shivratri though as per some he chose Makar Sankranti instead of Maha Shivratri.
+
+The day is considered auspicious and celebrated owing to several reasons. Here is a look at the reasons making this day special:
+
+    The day saw the beginning of the Sikh order post the persecution and execution of Guru Tegh Bahadur who refused to convert to Islam as ordered by the Mughal Emperor Aurangzeb. This led to the coronation of the tenth Sikh Guru and the formation of the Khalsa Panth. Both these events occurred on the Baisakhi Day. The formation of the Khalsa Panth is celebrated each year on this day.
+    Sikhs also celebrate it as a spring harvest festival.
+    It is also the first day of the New Year for the people belonging to the Sikh community.
+    This is an ancient Hindu festival that marked the Solar New Year. The Hindus also celebrate spring harvest on this day.
+
+Baisakhi Celebrations
+
+While there are so many reasons to celebrate this festival. It is celebrated in more or less the same manner in various parts of the country.
+
+The Gurudwaras are decorated with lights and flowers all over on this day and kirtans are held to celebrate this auspicious day. Nagar kirtan processions are also held at several places across the country and large numbers of people take part in these. People sing holy songs, burst crackers and distribute sweets during these processions. So prayers are offered and people also enjoy and celebrate this festival by way of these huge processions.
+
+Many people go to nearby rivers or lakes during the early morning on this day to take a holy dip before visiting the Gurudwaras. Visiting the Gurudwaras is a ritual on this day. People dress up in new clothes and go to their local Gurudwaras to offer prasad and prayers. Many also head to the Golden Temple located in Amritsar, Punjab which is considered to be the holiest Gurudwara in Sikhism.
+
+Apart from this, community fairs are organized. People visit these fairs to relish good food and enjoy games and rides. Many people organize get together at their home to socialize with their neighbours and relatives.
+
+Hindus also celebrate this festival by taking a dip in holy rivers such as Ganga, Kaveri and Jhelum and visiting temples. They organize get together and enjoy festive foods with their near and dear ones as a part of the celebration. The festival is known by different names in Hinduism including Pohela Boishakh in Bengal, Bohag Bihu or Rangali Bihu in Assam and other North Eastern states in India, Vishu in Kerela, and Puthandu in Tamil Nadu. It marks the first day of the year for these communities.
+
+Conclusion
+
+The festival is celebrated for various reasons by different communities however what remains at the core of this festival is the idea to offer prayers, socialize and enjoy good food. There is immense joy and excitement among the people on this day."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

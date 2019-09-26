@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Agriculture"
+    tools:showIn="@layout/activity_agriculture">
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Agriculture Essay 5 (600 words)
+
+Agriculture is one sector that has been in place since thousands of years. It has developed over the years with the use of new equipments and techniques of farming and domestication. This is one sector that has not only seen immense growth but has also been the reason for growth of various other sectors.
+
+The Growth and Development of Agricultural Sector
+
+India is one such country which is largely dependent on the agricultural sector. Agriculture in India is not just a means of livelihood but a way of life. The government is continually making efforts to develop this sector. Let us learn how this sector has evolved with time.
+
+Though agriculture is being practiced since centuries in India, it remained under developed for a pretty long time. We were unable to produce sufficient food for our people and foreign export was simply out of question. On the contrary, we had to purchase food grains from other countries. This was because agriculture in India depended on the monsoon. In case, there was enough rain, the crops fertilized properly, when there wasn’t enough rain the crops just failed and most parts of the country were hit by famine. However, things changed with time. After independence, the government planned to bring about improvement in this sector. Dams were constructed, tube-wells and pump-sets were set up, better quality seeds, fertilizers were made available and new techniques were employed.
+
+With the use of technologically advanced equipment, good irrigation facilities and with specialized knowledge about the field things began improving. We soon started producing much more than we required and subsequently started exporting food grains and different agricultural products. Our agricultural sector is now stronger than that of many countries. India stands first in the production of groundnuts and tea and ranks second in the production of sugarcane, rice, jute and oil seeds across the globe.
+
+However, we still have a long way to go and the government is making efforts in this direction.
+
+Negative Repercussions of Agriculture on Environment
+
+As much as it has helped in the development of the human civilization and the growth of the country’s economy, agriculture has also had certain negative repercussions on the people involved in this sector as well as the environment as a whole. Here are the negative repercussions of agriculture on environment:
+
+    Agriculture has led to deforestation. Many forests are cut to turn them into fields to cultivate crops. The negative impacts of deforestation and the need to control it is hidden from none.
+    Not many of you may be aware that the building of watersheds and draining of water from the rivers for irrigation of fields leads to drier natural habitats.
+    The runoff from the fields into the rivers and other water bodies results in that water getting poisoned owing to the use of excessive nutrients and insecticides.
+    Topsoil depletion and groundwater contamination are some of the other issues that the agricultural activities have given way to.
+
+Agriculture has thus impacted the soil and water resources negatively and this has had a major impact on the environment.
+
+Agriculture is also considered to be a hazardous occupation. Those involved in farming are constantly exposed to different chemical based fertilizers and pesticides and the continual use of these can lead to several health hazards such as skin diseases, lung infections and certain other serious illnesses.
+
+Conclusion
+
+While agriculture has given so much to our society, it comes with its own set of cons that cannot be overlooked. While the government is doing so much to bring about growth and development in this field, it should also take measures to tackle the negative impact it is creating on the environment and those involved in the field."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

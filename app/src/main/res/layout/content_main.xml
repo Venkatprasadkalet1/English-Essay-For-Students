@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.actionbar.venkat.thor.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/button2"
+            android:layout_below="@+id/button2"
+            android:layout_marginTop="142dp"
+            android:background="@drawable/button_back"
+            android:text="    habitet related   " />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/button2"
+            android:layout_below="@+id/button2"
+            android:layout_marginTop="44dp"
+            android:background="@drawable/buttom_back2"
+            android:text="Freeddom fighters" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="28dp"
+            android:background="@drawable/button_back3"
+            android:text="      national days     " />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/button14"
+            android:layout_below="@+id/button14"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/button_back4"
+            android:text=" student related    " />
+
+        <Button
+            android:id="@+id/button14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/button3"
+            android:layout_below="@+id/button3"
+            android:layout_marginTop="37dp"
+            android:background="@drawable/button_back5"
+            android:text="  culture related    " />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/button6"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="15dp"
+            android:background="@drawable/button_back6"
+            android:text="     science related   " />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/button6"
+            android:layout_alignBottom="@+id/button6"
+            android:layout_alignStart="@+id/button"
+            android:background="@drawable/android_back7"
+            android:text="       social media        " />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/button14"
+            android:layout_alignStart="@+id/button5"
+            android:background="@drawable/android_back8"
+            android:text="     farming related  " />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/button7"
+            android:layout_alignTop="@+id/button14"
+            android:background="@drawable/android_back9"
+            android:text="     industry related" />
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/button"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="0dp"
+            android:layout_marginEnd="0dp"
+            android:background="@drawable/android_back10"
+            android:text="    Animals related  " />
+
+    </RelativeLayout>
+
+</ScrollView>
+

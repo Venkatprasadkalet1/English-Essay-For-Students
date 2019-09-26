@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".The_Dog"
+    tools:showIn="@layout/activity_the__dog">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="My Pet Dog Essay 5 (600 words)
+
+Introduction
+
+I have a pet dog named Roger. It is a German shepherd and it has been a part of my family since the last 3 years. It is very warm, friendly and playful. However, outsiders often find it dangerous. This is because of its built and colour. It is vigilant and guards our house all the time.
+
+Why I wanted to keep a Pet Dog?
+
+Everyone in my family is fond of Roger. We all treat him like a family member. We cannot imagine life without him. However, I still remember the time when I wanted to keep a pet dog and all my family members were against the idea. I was 8 years old that time and my friend, Aanya owned a very cute little pug. She always brought it to the park. Whenever I visited her place, I saw her playing with it. Both of them looked so happy and loved each other’s company. Many a times, I called Aanya to play with me at my home but she refused saying she was busy feeding or bathing Roger. I felt really bad and wished that I too had a dog as a company. It is then that I decided to bring home a pet dog.
+
+How I struggled to get My Pet Dog?
+
+I knew I wanted a dog as a pet but I wasn’t aware that it would be such a struggle for me to convince my parents to get one home. As soon as, the thought of keeping a pet dog came into my mind, I rushed to my mom and told her that I want to get one home. My mother just laughed and dismissed my request with a pat on my cheek. I repeated my wish and she again took it lightly. This infuriated me and I told her that I really wanted a pet. It was then that my mother realised that I was serious about it. So she made me sit and explained as to why we could not keep a pet.
+
+Both my parents are working. Though my grandparents live with us, they are old and taking care of a pet would have been too much to ask from them. Besides, my brother was a toddler then and my mother feared that he might catch infection. She tried to explain all these points to me. But I did not listen to any of her explanations. I went to my grandmother and requested her to convince mom to get a pet dog. My grandmother also tried to explain the same points. However, I kept convincing her for days and she finally agreed to take care of the dog for half the day until I came home from school. The rest was all my responsibility.
+
+Somehow, I also convinced my father. Since he has a liking for dogs, convincing him was not that difficult. So finally my mother had to agree. We went to a nearby pet shop and my heart went drooling over this 2 months old German shepherd who was sleeping peacefully in a small cage. I knew at once that I wanted to keep him.
+
+Roger won everyone’s Heart
+
+Roger was so small and cute that almost everyone in my family fell in love with it as soon as I brought him home. My mother who detested the idea of bringing a pet home also found it cute and grew fond of it over the time. Dogs love babies and are very protective about them. Roger and my younger brother thus became friends almost instantly. Super excited about including Roger in the family, I told all my friends about it the same day.
+
+Conclusion
+
+Roger has become an inseparable part of our lives today and I just love it. Dogs are really adorable. I feel that everyone should keep a pet dog."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

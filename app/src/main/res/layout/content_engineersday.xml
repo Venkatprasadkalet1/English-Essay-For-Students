@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Engineersday"
+    tools:showIn="@layout/activity_engineersday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Engineers’ Day is celebrated on September 15 every year in India commemorating the birthday of one of the greatest engineers in India so far and a great human being Sir Mokshagundam Visvesvarayya, popularly known as Sir MV.
+Engineers’ Day 2018
+
+Year 2018 will mark the 50th anniversary of the Engineers Day in India and 157th birth anniversary of Sir Mokshagundam Visvesvarayya. It will be celebrated on 15 September, Saturday.
+
+Sir MV was internationally popular for his brilliance and his great achievement in harnessing water resources in India. This is also important to know that all over the world engineers’ day is celebrated on different dates. Engineers are the professionals who design, build and test the construction, raw materials and process of the project; they also consider the restrictions imposed by the regulation, feasibility, safety and cost of the project. Engineers play a very significant role in every walk of our lives. They convert the theoretical knowledge of basic sciences into actual products and thus make our lives easy. Engineers possess versatile minds and help in filling the gap between science, technology and the community. Engineers in India contribute greatly to the nation’s technological and industrial growth.
+Why Do We Celebrate Engineers’ Day?
+
+Engineers’ day is celebrated for the great works of Sir MV towards the development of various places which are the most developed cities of today’s India. Sir MV is an international hero, recognized for his mastermind in harnessing water resources; he had successfully designed and constructed several river dams, bridges and revolutionized the irrigation system in India by implementing irrigation and drinking water system all over India.
+How Engineers’ Day is Celebrated
+
+Different cities have different methods of celebrating Engineer’s Day. Engineering is a vast field with different specialization such as electrical, technical, computer, mechanical, etc and thus different departments call for celebration in different style. The celebration methods may also vary from company to company. While government companies follow the annual theme for the Engineers’ day, private companies may either follow the theme or may decide their own theme. Engineers play a great role in the advancement and economic growth of any company and thus it doesn’t matter how they celebrate the annual day, what is important that they must rejoice the annual function to keep motivated themselves and continue with the great work they do for general public.
+Suggestions for Engineers’ Day Celebration
+
+Even though there are many suggestions such as organizing debate, discussion or forum of engineers to discuss the national or local problems faced by the public such as potholes on the road, damaged roads, bridges, etc or matters related to electrical, mechanical, computer engineers, etc. The platform may also offer opportunities to engineers for sharing problems faced by them while accomplishing their duties. The recent train accidents can be a pertinent issue that can be discussed in such forums on the Engineers day. The private and government companies can collectively select this topic, discuss amongst themselves and come up with options to reconstruct the situation.
+Significance of Engineers’ Day Celebration in India
+
+Engineers’ day is celebrated for the great works of Sir MV towards the development of various places which are the most developed cities of today’s India. Sir MV is an international hero, recognized for his mastermind in harnessing water resources; he had successfully designed and constructed several river dams, bridges and revolutionized the irrigation system in India by implementing irrigation and drinking water system all over India.
+
+Among all the developing countries, India is one of the prime exporters of light and heavy engineering goods. India produces a wide range of items. The bulk of capital goods required for mining equipment, steel and petrochemical plants, cement, fertilizer, power projects are made in India. The engineers of India are also involved in making equipment for irrigation projects, construction machinery, cotton textile and sugar mill machinery, diesel engines, transport vehicles, tractors, etc. Thus, the role of Engineers in a developing India is not only diverse, but it is also very significant.
+Engineers Day History
+
+India as a nation reportedly creates approximately 20 lakhs engineers every year including all the fields and disciplines such as computer science, electronics, civil, electrical, technical, mechanical, etc. The engineers celebrate engineers’ day every year on 15th September in the honor of Sir Mokshagundam Visvesvaraya, one of the greatest engineers of his time, a great educationist, Statesman, a scholar and indeed the most celebrated engineer India has produced till date. Sir MV has been the personification of everything that a country needs to endeavor for a better future. Thus, the Engineers’ day is marked as a tribute to his achievements and will towards growth and development.
+
+Early life of Sir Mokshagundam Visvesvaraya
+
+Sir MV was born on September 15th, 1861 to father Srinivasa Sastry and mother Venkachamma at Muddenahalli village in Kolar district of Karnataka. He lost his father at the age of 15 and moved with his mother to Bangalore where his maternal uncle H Ramaiah lived. He got admitted to the Wesleyan Mission High School in 1875; after completing his schooling, he completed B.A with distinction from Central College of Bangalore and Civil Engineering from College of Engineering, Pune in 1881 and 1883 respectively. He secured first rank in the LCE and FCE examinations (equivalent to BE Examination of the current days).
+
+
+
+Professional Life
+
+He started his professional life as an Assistant Engineer with Public Works Department (PWD) at Mumbai (earlier Bombay) in 1884 and was later requested to join the Indian Irrigation Commission. As a Public Works Department engineer, he accomplished several projects related to maintenance of public buildings, road construction and laying out city developments plans in several important towns.
+
+He worked with complete dedication and perseverance and got promoted as Chief Engineer in Mysore State in 1909. He also worked as Chairman of Bhadravati Iron Works and later became the member of Back Bay Enquiry Committee, London. He was also the member of the governing council of Indian Institute of Science, Bangalore, Dewan of Mysore State for 6 years, President of Education and Industrial Development Committees in Mysore State and the Member of the Governing Council of TATA Iron and Steel Company (TISCO).
+
+Achievements of Sir Mokshagundam Visvesvaraya
+
+Though there are several achievements in the life of Sir MV and each cannot be described but out of the most recognizable ones is the Block System of Irrigation; a scheme prepared by him at the illustration of the then president of the Indian Irrigation Commission. He wanted to make irrigation mechanism more popular and profitable in the Bombay Presidency and to yield a practical return on the expenditure that the Government had incurred on them at that time. During his stay in the Bombay Presidency, he got closer to some of the gems like Gopal Krishna Gokhale, Mahadeo Govind Ranade and Bal Gangadhar Tilak.
+
+Another notable task accomplished by Sir MV was the system of automatic weir water floodgates first installed in the year 1903 at Khadakvasla reservoir near Pune, designed and patented by him. These gates were first used to control the floods of the Mootha Canal flowing through Pune. Similar gates were later used in the Krishnasagar dam in Mysore, Tigra Dam in Gwalior and other large storage dams.
+
+The works of Sir MV were highly successful and notable followed by the invitation from the Nizam’s Government to take up the responsibility and charge of the Chief Engineer’s position at Hyderabad in 1909. There he designed a flood protection system for protecting the city of Hyderabad from floods and consequently earned a celebratory status, as reported by Newspaper ‘The Hindu’.
+
+Later in 1909, Sir MV joined the Mysore Services as Chief Engineer and after serving there for three consecutive years as the Chief Engineer, he was appointed as Dewan of Mysore by the then ruler Krishnarajendra Wodeyar and contributed to the all-round development of Karnataka by architecting the city; Sir MV served there as Dewan for six years. He also built several dams in Mumbai, some of which are functional till date. He was the chief engineer during the construction of Krishna Sagar Dam on the Kaveri River and the adjoining Brindavan Gardens. He played a notable role in turning around the Bhadravati Iron and Steel Works, set up the Mysore Sandalwood Oil Factory and contributed to the founding of the Bank of Mysore and also built one of the most praiseworthy dams i.e. Krishnarajasagara Dam in Karnataka. Sir MV was also instrumental in getting the highly prestigious Mysore University established. The famous Sri Jayachamaraja Polytechnic Institute of Bangalore was built on the recommendation of Sir MV.
+
+Bharat Ratna
+
+Due to his great contributions, Sir MV received India’s highest honor and the most prestigious award, the ‘Bharat Ratna’ in 1955. King George V also knighted him as the Commander of the Indian Empire for his innumerable contributions to the benefit of the public and social cause.
+
+Values of Sir MV
+
+Sir MV is highly respected and recognized as a man of values. He is known as the perfectionist; the one who completed even the smallest of the tasks flawlessly and with utmost perfection. He was very punctual and popular for his dressing sense. His determination, courage and will power converted many impossible projects into reality. Sir MV was very health conscious; even at the age of 92, he was as fit as a young man and participated in every activity and proceeding. The great personality Sir MV left for his heavenly abode in the year 1962.
+Themes of Engineers Day in India 2017
+
+The theme of Engineers Day in India 2017 is “Role of Engineers in a Developing India”. India has a strong, diversified and well-developed industrial machinery and capital base competent enough to manufacture the complete range of industrial machinery. The industry has also been able to successfully develop over the years advanced and developed manufacturing technology. Among all the developing countries, India is one of the prime exporters of light and heavy engineering goods. India produces a wide range of items. The bulk of capital goods required for mining equipment, steel and petrochemical plants, cement, fertilizer, power projects are made in India. The engineers of India are also involved in making equipment for irrigation projects, construction machinery, cotton textile and sugar mill machinery, diesel engines, transport vehicles, tractors, etc. Thus, the role of Engineers in a Developing India is not only diverse but it is also very significant.
+
+Themes of Engineers Day in India of previous years
+
+    The theme of Engineers Day in India 2016 was “Skill Development for Young Engineers to Reform the Core Sector: Vision 2025”.
+    The theme of Engineers Day in India 2015 was “Engineering Challenges for Knowledge Era”.
+    The theme of Engineers Day in India 2014 was “Making Indian Engineering World-Class”.
+    The theme of Engineers Day in India 2013 was ‘Frugal Engineering-Achieving More with Fewer Resources”.
+    The theme of Engineers Day in India 2012 was Engineering Preparedness for Disaster Mitigation.
+    The theme of Engineers Day in India 2011 was “Engineering Preparedness for Disaster Mitigation”.
+    The theme of Engineers Day in India 2010 was “Impending Paradigm Shift in Engineering Sciences and Future Challenges”.
+    The theme of Engineers Day in India 2009 was “Green is the theme for this year.”
+
+Conclusion
+Engineers have been the most instrumental characters for the development of any nation. India is achieving great recognition as a developing nation in the international world and this has been possible due to the significant role of Indian Engineers. Sir MV was one such engineer who changed the face of irrigation system, water resource system and several other things. Needless to mention, he is still the great inspiration for everyone. Almost every engineer wants to follow his footprints and contribute to the development of India. In order to remember his significant contributions, people of India celebrate engineers’ day on his birthday i.e. September 15th every year."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

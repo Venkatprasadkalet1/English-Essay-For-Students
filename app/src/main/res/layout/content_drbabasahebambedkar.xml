@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Drbabasahebambedkar"
+    tools:showIn="@layout/activity_drbabasahebambedkar">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Bhimrao Ambedkar Essay 5 (600 words)
+
+Introduction
+
+After India’s independence government invited B.R. Ambedkar to serve as Independent India’s first Law Minister. He was appointed to write new constitution of India and as the chairman of Constitution Drafting committee. As a chairman of Drafting committee his role as an architect of the constitution was crucial. The constitution drafted by Dr. Ambedkar was the first social document. Majority of the Constitutional provisions by him aimed at social revolution or attempt to promote revolution by establishing conditions important for achieving social revolution.
+
+The provisions prepared by Ambedkar provided constitutional assurance and protection of civil liberties for citizens of India. This also included freedom of religion, prohibition of all forms of discriminations and the abolition of untouchability. Ambedkar also advocated for the economic and social rights of women. He was successful in introducing a system of reservations of jobs in civil services, colleges and schools for the members of schedule tribes, schedule caste and other backward classes.
+
+Bhimarao Ambedkar’s Role to Eradicate Caste Discrimination
+
+Caste is a system in which distinction of status, duties and rights of an individual is done on the basis of birth of an individual in a particular group. It is the rigid form of social inequality. Babasaheb Ambedkar was born in a poor family, low Mahar caste. His family was subjected to constant social and economic discrimination.
+
+Being from Untouchable caste of Mahars he was a social outcast and was treated as untouchable. His teachers would not treat him well in the school and other children would not eat beside him. He had to sit outside the class and was segregated. He had to face this humiliation throughout his childhood. Later, he became the spokesperson of the backward castes and classes in India.
+
+Due to caste system many social evils prevailed in the society. For Babasaheb Ambedkar it was important to break the religious notion on which caste system was based. According to him, caste system was not just division of labor but also the division of laborers. He believed in the unity of all the communities. After passing the Bar course in Gray’s Inn Babasaheb Ambedkar started his legal career. He used his skills in advocating the cases of caste discrimination. His victory in defending non-Brahmin leaders charging Brahmins established the base of his future battles.
+
+Babasaheb Ambedkar initiated full-fledged movements for the rights of Dalits. He demanded that public water sources should be open to all the castes and the right for all the castes to entre temples. He condemned Hindu scriptures supporting discrimination.
+
+Bhimarao Ambedkar chose to fight against caste discrimination that afflicted him throughout his life. He proposed the idea of separate electoral system for untouchables and other disregarded communities. He projected the concept of reservations for Dalits and other outcasts. Poona pact was signed in 1932 by Babasaheb Ambedkar and Pandit Madan Mohan Malvia, for the reservation of seats for untouchable classes in the provisional legislature, within the general electorate.
+
+The notion of Poona pact was more seats to lower classes in return to their continuance of joint electorate. These classes were later defined as Scheduled Tribes and Scheduled Castes. In order to reach people and make them understand the negatives of social evils he launched a Newspaper called Mooknayka (Leader of the silent).
+
+Babasaheb Ambedkar also joined Mahatma Gandhi in the Harijan Movement that opposed the social injustice faced by backward caste people in India. Babasaheb Ambedkar and Mahatma Gandhi were the leading personalities who fought to eliminate Untouchability from India.
+
+Conclusion
+
+Thus Dr. B.R. Ambedkar fought throughout his life for justice and equality. He acted for the eradication of caste discrimination and inequality. He firmly believed in justice and equality and ensured that constitution makes no discrimination based on religion and caste. He was the forefather of republic India."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

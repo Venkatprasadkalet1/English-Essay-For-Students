@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Radio"
+    tools:showIn="@layout/activity_radio">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Radio is a medium of communication. It is a wireless set. Radio can transmit messages all around the world instantly, and the message can be received in any part of the globe.
+
+Hertz, a German scientist, first produced electro-magnetic waves by using a simple device. However, the waves that he produced could not travel long distances. Later in 1885, an Italian scientists by name Marconi invented electro-magnetic waves which could travel long distances carrying messages. These electro-magnetic waves travel at a fantastic speed of 3 lakh kilometers per second and cover the surface of the earth the same second. Electro-magnetic waves with frequency range of 100 kilo hertz and 100000000 kilo hertz are called radio waves. We can notice them in our radios on short wave and medium wave transmission. Marconi got the Nobel Prize for physics in the year 1909 for his invention.
+
+The radio works on a single principle. The sound waves produced by the speaker are converted into electro-magnetic waves by the microphone. The electro-magnetic waves are superimposed on a carrier wave by the radio transmitter on the required wave length. The radio transmitter has an important role in the radio transmitter.
+
+The radio wave transmission is effected either by (1) ground waves or surface wave or (2) sky waves or ionosphere waves. The ground waves or the surface waves are not effective for long distances, as they lose energy by the obstruction of hills and trees. The second type, sky type electro-magnetic waves are beamed up into the atmosphere, from where they reflect back to earth. These waves have no barriers. Ionosphere is the atmospheric area, above the earth between 180 kms and 400 Kms. The waves thus reflected are received by the aerial of the radio receiver. It converts them back into sound waves and pass on to amplifiers, to produce the original sound waves. Thus men are able to hear speeches, messages etc., from long distances through radio the same second.
+
+Radio is no longer a luxury. It has become a necessity. Even remote villages, we find radios. Shepherds and cowherds carry radios with them. Radios are available in different sizes. Radio is not limited to communication of news only. It is a medium now for many things. The radio is indispensable in flying aeroplanes and sailing ships. Radio is very necessary in modern wars, for the police to maintain law and order, and the spread of culture. Radio is transmitting educational broadcasts also. Even illiterates can easily make use of this media to get knowledge and entertainment.
+
+Radio in India is largely state controlled. The Akash Vani as it is called is a controlled organization. Amateur radio sets, called H A M have come into service and they are doing some useful service in times of natural calamities. But for the HAM sets, large parts of Orissa during the 1999 Super Cyclone would have been cut off for weeks.
+
+Radio has been playing a very useful role in the area of communication and it will continue to do so."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

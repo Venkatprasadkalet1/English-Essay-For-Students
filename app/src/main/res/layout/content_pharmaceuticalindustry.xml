@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Pharmaceuticalindustry"
+    tools:showIn="@layout/activity_pharmaceuticalindustry">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Pharmaceutical Industry
+
+The pharmaceutical industry has become a billion dollar industry due to it’s ability to convince the world that there is a pill for everything. How powerful is the pharmaceutical industry? Enough so that its entire industry is referred to as “Pharma”. It has become an industry looked to for political donations and lobbyists who are paid to put pressure on Congress to make things flow smoothly for the pharmaceutical industry, which has led to corruption within the industry as a means of underfunding and diminishing the power of the Food and Drug Administration.
+
+Similar to the paradigm created by the oil industry and its blatant disregard for the environment and natural habitats of animals, pharmaceutical companies have also undermined the notion of medicine by using physicians as a means to advertise their products for profit, not necessarily what is best for the patient being treated by the physician.
+
+The main problems faced by the pharmaceutical industry today is no longer proving the need for drugs, as they have been quite successful in accomplishing that. The problem now is providing the results demanded by a society that have been convinced by the propaganda of pharmaceutical companies. Medication is beyond expensive, and with health insurance companies unwilling to pay for anything not considered life or death necessary and employers offering poor health coverage to begin with, the problems and challenges faced by the those who need medication are far more pressing than those faced by the pharmaceutical industry.
+
+The medications on the market today have been successful for the past ten years-and with some slick marketing and ad nauseam television time-will continue to sell. Most studies and reports commissioned internally and by outside companies have forecasted out to 2020 for much of the same. The managerial systems and processes used to create and manufacture drugs are in place and that will not change for other new drugs that are currently being tested in hopes of being brought to the consumer’s attention by that time.
+
+What is in place for the pharmaceutical company will not change. There is no risk of losing any ground due to the simple fact that people will continually become sick or develop other ailments that will require more medication. The biggest challenge truly facing the pharmaceutical industry is how it can capitalize on the opportunities created by more sick people and patients."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".DrRajendraprasad"
+    tools:showIn="@layout/activity_dr_rajendraprasad">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="
+Short Essay on 'Dr. Rajendra Prasad' (251 Words)
+Friday, May 23, 2014
+
+'Rajendra Prasad' was born on 3rd December, 1884 in the Ziradei village, Siwan district of Bihar, India. His father's name was Mahadev Sahai, who was a scholar of Sanskrit and Persian languages. His mother's name was Kamleshwari Devi, who was a religious woman.
+
+After the completion of elementary education, Rajendra Prasad went to study at T.K. Ghosh's Academy in Patna. He joined the Presidency College, Calcutta in 1902. Once an examiner wrote on his answer sheet 'examinee is better than examiner'. It proves that he was a great scholar. Rajendra Prasad served in various educational institutions as a teacher. He joined the High Court of Bihar and Odisha as a lawyer in 1916.
+
+Rajendra Prasad was a good political leader, lawyer, statesman and social worker. He took active part in the freedom movements of India. He joined the Indian National Congress in 1911. He was elected as the President of the Indian National Congress during the Bombay session in October 1934. He was sent to Jail many times. He was elected the President of Constituent Assembly on 11 December 1946. Dr. Rajendra Prasad was elected the first President of the Republic of India.
+
+Dr Rajendra Prasad died on 28 February 1963. His death was a great loss for the nation. He was subsequently awarded the Bharat Ratna, the India's highest civilian award. He authored many books. He was a great educationist and a man of world fame. High principles and ideals of Dr. Rajendra Prasad will always alive to show the right path"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

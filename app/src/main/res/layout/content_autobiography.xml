@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Autobiography"
+    tools:showIn="@layout/activity_autobiography">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="I am an Indian farmer. I get up early in the morning. I take my plough and oxen and go to my field. I plough my field for the whole day. My wife and children also help me in my work. I continue to work from morning to evening. For me, rain, cold or suns do not matter much. I take great care of my crops and dreams of good crops. Sometimes my dreams are crashed by Nature. Often it appears in the form of drought, flood or untimely, uneven rains,hail, frost, mist or fog.  Since I am poor, I have to borrow huge money from the money-lenders at high interest. I hope to pay back the money earned from my crops. In case of crops failure, I become hopeless. It becomes difficult for me to pay back the money. I am nt very educated. I think the governmental and non-governmental organizations should come forward and make me aware of the latest technologies, programmes and policies. My prosperity means prosperity of the nation.
+
+Read more on Brainly.in - https://brainly.in/question/1172617#readmore"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

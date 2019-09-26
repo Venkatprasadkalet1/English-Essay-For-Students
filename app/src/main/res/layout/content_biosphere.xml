@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Biosphere"
+    tools:showIn="@layout/activity_biosphere">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Biosphere is defined as that part of the earth and atmosphere in which many smaller ecosystems exist and operate. Three main subdivisions of the biosphere are lithosphere (solid matter); hydrosphere (liquid matter), and atmosphere or the gaseous envelope of the earth which extends up to a height of 22.5 km. The area of contact and interaction between these components is really important for life, for it is here that the entire life is confined and the basic processes of life like photosynthesis and respiration occur.
+
+Living organisms are, mostly, confined to the parts of biosphere that receive solar radiation during the day. As stated above this includes atmosphere, the surface of land, the few meters of soil and the upper layers of water of oceans, lakes and rivers. The illuminated zone may be a few centimeters in turbid water of a river, and up to about 100 meters in clearest part of an ocean. In the ocean, the biosphere does not end where light ceases as gravity enables the energy flow to continue downward, since fecal pellets, cast skins and organisms dead and alive are always falling from the illuminated regions into the depths.
+
+In addition to the extension of the biosphere downwards, there is a limited extension upwards also. On very high mountains, like Himalayas, the limit above which chlorophyll-bearing plants cannot live appears to be about 6,200 meters.
+
+In simple words, biosphere can be viewed as the part of the earth consisting of oceans and the surface of the continents, together with the adjacent atmosphere (i.e. the troposphere). However, polar ice caps and the higher mountains slopes above the snow line are known as parabiosphere.
+
+Since living organisms require inorganic metabolites from each of the subdivision of the biosphere, water from the hydrosphere, mineral from lithosphere and chemical elements from atmosphere, a brief discussion on the nature and working of each subdivision will help us to know the mechanism which influences metabolic activities of living organisms.
+
+Atmosphere
+
+Atmosphere is of much significance to life as all the components of air (except inert ones) serve as metabolites, and each chemical element circulates through a cycle maintaining a perpetual supply of metabolites. It is at this stage that the role of organisms and significance of atmosphere to life emerge on the interface of the biospheric subdivisions. The metabolic role of a few important gases in the following pages will highlight the importance of atmosphere.
+
+The green plants incorporate a variety of inorganic elements and compounds. For example, during the process of converting solar energy into chemical energy, atmospheric carbon dioxide enters the living world as the basic constituent of all organic compounds. Carbon dioxide along with water is used by all plants in their photosynthetic process to produce organic substances such as, glucose a vital molecule in living things, and oxygen.
+
+The chemical reaction involved in the process is as follows:
+
+Photosynthesis thus provides food for us to eat and oxygen for us to breath. Here, the carbon and oxygen supplied by carbon dioxide remain in living matter until death. Only after decomposition of the living matter, the CO2 returns to the atmosphere to complete the cycle. At this point we should remember that photosynthesis occurs only in chlorophyll bearing organisms, namely, green and purple bacteria, blue green algae and the vast population of higher plants.
+
+Oxygen, an important constituent of the atmosphere, enters the living world through respiration, which is a familiar process in both plants and animals including man. Through it, glucose molecules are converted into energy needed for various activities. Respiration and photosynthesis together form a cycle called photosynthesis – respiration cycle, which can be depicted as following:
+
+Carbon dioxide of the atmosphere is replenished not only through the process respiration or biological oxidation but also through combustion of fuels and volcanic eruptions. The other important constituent in this cycle is water.
+
+Nitrogen is also an essential component of living systems. It is required by organisms for the synthesis of proteins, nucleic acids, and other nitrogenous compounds. In nature, atmospheric nitrogen is fixed by specialized organisms. There are industrial processes to convert atmospheric nitrogen into fertilizers.
+
+Movement of materials through living organisms involves many more substances than those contained in water and carbon dioxide. In addition to carbon, oxygen, hydrogen and nitrogen, all organisms need phosphorus, sulphur, sodium, potassium, calcium, magnesium, iron, manganese, cobalt, copper, zinc and probably chlorine and some certainly use of special functions, aluminium, boron, bromine, iodine, selenium, molybdenum, vanadium, silicon, strontium, barium and possibly nickel.
+
+Hydrosphere
+
+You know that water is the most important component of protoplasm; hence it is essential for life in all living organisms. In metabolism, it is the only source of hydrogen and one of the several sources of oxygen.
+
+The earth is sometimes called the watery planet, as this is the only planet in the solar system, which has an abundant supply of water. Oceans form 71 percent of the total surface area of the earth. Water evaporates with the help of solar energy and moves into the atmosphere. Water vapor after graining higher altitudes cools condenses to form clouds, which precipitate as rain or snow and thereby, return to the parent water system the hydrosphere.
+
+Water is used as a raw material for various metabolic processes. The living organisms draw it mainly from the hydrosphere. During the process of metabolism, water consumed by organisms is partly excreted back into the environment and a portion used for building the organisms is returned to the environment after their death and decay.
+
+Lithosphere
+
+The other sub-division of the biosphere is the lithosphere, which helps, in the metabolic process in two ways. One, it is the only source of most of the minerals for organisms belonging to either terrestrial or aquatic conditions, and two, it forms the soil, required mainly by terrestrial plants.
+
+Keeping in view, the two basic processes of life i.e., photosynthesis and respiration we have in the above paragraphs examined the three main sub-divisions of biosphere.
+
+Thus, biosphere in reality in the reality is the largest definable unit of natural landscape in which many smaller ecosystems operate."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

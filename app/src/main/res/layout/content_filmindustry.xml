@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Filmindustry"
+    tools:showIn="@layout/activity_filmindustry">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="519 Words Essay on The Indian Film Industry
+Article shared by
+
+Every day, some young boy or girls in some small town in India hops on a bus or train with dreams in their eyes and a song in their heart, hoping it make it big in the world of films. Many falls by the wayside but some go on to become big names in an industry which is the largest in the world.
+
+The Indian film industry is built on the dreams of millions of such people. The country produces more than 1000 films every year in over 20 languages. A feat which even Hollywood cannot match!
+
+The major film studios are found in Mumbai, Chennai, Hyderabad and Kolkata. Other cities too produce many films in regional languages like Malayalam, Kannada, Bhojpuri, etc. When we talk of national appeal, it is Bollywood, or the Hindi film industry, which rules the roost. Actors like Amitabh Bachchan, Shahrukh Khan, Aamir Khan, etc. have a pan Indian appeal and their films do well in almost all regions.
+
+
+
+In 1896, the Lumiere brothers’ Cinematographer displayed six silent short films in Bombay. Thus began India’s tryst with motion pictures. Three years later, Harischandra Sakharam Bhatvadekar became the first Indian to exhibit a short film on a wrestling match at Hanging Gardens, Bombay. He also exhibited another about playful monkeys.
+
+In 1913, ‘King Harischandra’, a silent movie by Dadasaheb Phalke, was released. The first film with sound or ‘talkie’ was Ardeshir Irani’s ‘Alam Ara’. It was released in 1931. The forties was a golden era with many good films like Mehboob’s ‘Roti’, Shanthram’s ‘Dr. Kotnis ki Amar Kahani’, Chetan Anand’s ‘Neecha Nagar’ and Raj Kapoor’s ‘Barsaat’ and ‘Aag’ finding their way to theatres.
+
+The first International Film Festival of India was held in 1952 in Bombay. Six years later, Satyajit Ray’s ‘Pather Panchali’ made history by winning the prestigious Cannes award. Satyajit Ray, Ritwik Ghatak and Mrinal Sen laid the foundations for new cinema in India. Ray became the only Indian to get the coveted Oscar Lifetime Achievement award in 1997.
+
+
+The first color film was ‘Kisan Kanya’ (1937). Among developing countries, India boasts some of the best filmmaking technologies. Major studios in the US now outsource their animation work to Indian companies. Ramoji Rao’s Film City in Hyderabad is a sight to see. Here, any kind of locale can be recreated.
+
+The Indian film industry has a turnover of thousands of crores and employs millions of People. It was after the late 1990s that the industry was recognized as such. India has a National Film Development Corporation. It finances certain films which don’t require huge budgets. Financing of films by the underworld in the 90s led to many problems. Now there is a trend to corporatize film production with big business houses entering the fray.
+
+Indian films are becoming popular among western audiences too. This has added to India’s soft power. The film, ‘Slumdog Millionaire’, which has an Indian cast, swept the Oscars this year, generating much interest in Indian actors and technicians. The Indian film industry has rewritten the destinies of many people and will continue to do so in the future."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

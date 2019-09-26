@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".The_tiger"
+    tools:showIn="@layout/activity_the_tiger">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbf"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Essay on Tiger 6 (800 Words)-----------------------------
+
+Introduction:
+
+The national animal of India is Tiger. It is very beautiful in its physical appearance. It is found in two colours (orange or golden and white). It has small fur overall its body. Its eyes look like a burning lamp in the night. It sleeps in day and goes for a hunt during the night. It has good smell sense, by the help of this sense it can hunt easily. It has four long canine teeth in which two are in the upper jaws and rest in lower jaw. It has great strength and stamina. Its forelimbs are very strong. It is a quadruped beast. It lives in wet, humid and hot forests as well as in ice cold forest. People admire the Tiger for its strength, courage and beauty. The child of a tiger is called as cub and the female tiger is called as Tigress.
+
+Subspecies of Tiger:
+
+There are ten recognized subspecies of tiger in which six subspecies are surviving till now. Trinil subspecies of tiger has been extinct in the primitive time. The modern surviving subspecies are following:
+
+    Siberian Tiger:
+
+The scientific name of Siberian tiger is ‘P.T. Atlaica’. This subspecies of tiger is also known as Amur tiger which is found in Russia. In 1940, this subspecies was dropped intensely and currently 40 tigers of this subspecies are left; Russia stepped in and saved this subspecies. In 1980, there were 500 tigers. In comparison with the other subspecies, Amur tiger has thicker coats, paler hues and less strips in dark brown color instead of black stripes.
+
+    Indochinese tiger:
+
+The scientific name of this subspecies is ‘Pantherea Tigries corbetti’. Indochinese Tiger is also known as Corbett tiger. It is found in China, Cambodia, Thailand, Burma, Laos and Vietnam. It likes to live in mountainous or hilly regions in forest.
+
+    Bengal Tiger:
+
+Bengal Tiger is called as Indian tiger and its scientific name is ‘P.T. Tigris’. It is mostly found in India, Nepal, Bhutan and Bangladesh. To protect the life of tigers, Indian Government had launched Project Tiger in India in 1973. According to the researchers, there are fewer than 2500 tigers left in wild.
+
+    Sumatran Tiger:
+
+It is found only on the island of Sumatra. The scientific name of this subspecies is ‘P.T. Sumatree’. It is mainly seen the national park of island. It has darkest orange coat with heavy and narrowly spaced black strips.
+
+    Malayan tiger:
+
+Malayan Tiger’s scientific name is P.T. Jacksoni. It is exclusively found in Malay Peninsula and the southern tip of Thailand. In 2004, Malayan tiger was recognized as the separate subspecies. It is little differ from Indochinese tiger.
+
+    South China Tiger:
+
+The scientific name of South China tiger is P.T. Amoyensis. It is also known as Amoy or Xiamen tiger. It is the most endangered subspecies of tiger as well as one of the 10 most endangered animals in the world. In 1950, researchers estimated 4,000 tigers in the wild, but in 1996 the number of these tigers was dropped to 30-80. No one has seen South china tiger in last 25 years; leading experts consider it “functionally extinct”.
+
+Qualities and Fact about Tiger:
+
+Tiger has so many qualities or facts which are following:
+
+    Tigers live for about 25 year in a zoo as well as in the wild.
+    Its long tail is helpful to maintain balance while running behind the prey.
+    Tiger bones are used to cure joint pain, stiffness, back-pain, rheumatism and muscle spasms.
+    It has black strips on its body.
+    It attacks on its prey suddenly.
+    It likes to live and hunt alone.
+    It catches its prey on neck and strangulates it.
+    It runs 85 km/hr in a time.
+    It jumps about 7 or 8ft in a time.
+    Male tiger has larger territories than the females.
+    It roars to communicate with far-off tigers.
+    When many tigers are present at the hunting time, the male tiger wait for female and cubs to eat first.
+    The strips on each and every tiger are unique, like the human fingerprints.
+    Most of the tigers have yellow eyes just like the cat, but white tigers have blue eyes.
+    Its urine smells strongly of buttered popcorn.
+    It scratches trees and uses its urine to mark its territories.
+    It can swim also.
+    The largest subspecies of tiger is Siberian tiger which is found in Russia.
+    The baby of a tiger becomes completely blind for the first week of its life.
+
+Conclusion:
+
+Tiger is a strong animal. Even after being declared as the national animal of India, it is hunted and illegally used for smuggling for many years. Tiger poachers kill tiger for various purposes such as to get their skin, bones, teeth, medicines, etc. Some people kill the tiger and other wild animal for entertainment. Just because of these reasons, various subspecies of tigers are in danger. In this reference, Indian Government has launched “Project Tiger” program to save the tigers in 1973. We should also try to make this mission successful by making people aware about the smuggling Project Tiger g of tigers."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

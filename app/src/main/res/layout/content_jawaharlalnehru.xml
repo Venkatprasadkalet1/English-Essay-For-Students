@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Jawaharlalnehru"
+    tools:showIn="@layout/activity_jawaharlalnehru">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Pandit Jawaharlal Nehru is counted among the very famous personalities of the India and almost every Indian knows about him very well. He was very fond of the children and loved them much. Children of his time were used to of saying him as Chacha Nehru. He was the most popular national and international figure. He is considered as the maker of modern India because of his hardship during his first prime ministership of India. He became the first and longest serving prime minister of the country from the year 1947 till 1964. He took the responsibility of the India to lead it ahead just after the independence of the country.
+
+He was born on 14th of November in 1889 at Allahabad, India to the Motilal Nehru. His father Motilal Nehru was a prominent and successful lawyer and very rich person of that time. He provided the environment to his son as a prince. Pt. Nehru took his earlier study at home in the observation of most efficient teacher. At his 15, he went to the England for higher studies at public school in Harrow and Cambridge University. He completed his degree in the year 1910 and joined law just like his father and truly he became a lawyer later. He started practising his law in the Allahabad High Court after his return to the country. He got married to the Kamala Kaul in the year 1916 at the age of 27 and became the father of Indira.
+
+He saw that people of India were treated very badly by the Britishers then he promised to join the freedom movement and fight for India against the Britishers. His patriotic heart did not allow him to sit comfortably and forced him to join the Indian independence movement with the Bapu and finally he joined the Non-cooperation Movement of Mahatma Gandhi. He had to go to the jail several times however did not fed up and continued his fight by suffering all the punishment cheerfully. Finally Indian got independence on 15th of August in 1947 and citizens of India selected him as a first Indian prime minister to lead the country in the right direction.
+
+After his selection as the prime minister of India, he had created many ways to progress the country under his guidance. Dr. Rajendra Prasad (the late President) said about him that “The country is marching forward on the road of progress in the leadership of Panditiji”. Serving the country with his hardship, he died on 27th of May in 1964 because of the heart attack."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

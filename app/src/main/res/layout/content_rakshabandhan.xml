@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Rakshabandhan"
+    tools:showIn="@layout/activity_rakshabandhan">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Introduction
+
+Raksha Bandhan, the festival that celebrates the pious brother sister bond, falls during the auspicious month of Saavan. On this day, the sisters tie a sacred thread on their brothers’ wrist wishing good health and fortune for their brothers. The brothers, on the other hand, bless their sisters and promise to take care of them. It is being celebrated with immense enthusiasm since the ancient times.
+
+Mythological References – Raksha Bandhan
+
+The festival of Raksha Bandhan finds mention in a number of mythological stories. This means that it is being celebrated since the ancient times. The ancient stories related to the festival also point out that it was not just celebrated between real brothers and sisters or cousins. Here are some mythological references of this pious festival:
+
+    The Legend of Indra Dev
+
+As per the ancient Hindu book, Bhavishya Purana, once when the Gods fought with demons, Indra, the Lord of rain and sky, suffered at the hands of the demon King Bali. Unable to see Indra in such a condition, Sachi, his wife shared the concern with Vishnu. Vishnu gave her a sacred thread and asked her to tie it around Indra’s wrist. Sachi tied the thread wishing long life and success for her husband. Following this, Indra miraculously defeated Bali. The festival of Raksha Bandhan is said to be inspired from this story. Rakhi is considered to be a protective thread. During the earlier times, this sacred thread was even tied to the kings and warriors by their sisters or wives to protect them during the war.
+
+    Goddess Lakshmi Tied the Sacred Thread to King Bali
+
+It is said that when demon King Bali won the three worlds from Vishnu, he later asked him to stay with him at his place. Vishnu agreed to him however Vishnu’s wife, Goddess Lakshmi did not like his decision. She thus decided to tie rakhi to Bali. When Bali asked her for a gift in return she asked him to send her husband back to Vaikunth. Bali could not say no to his sister. Such is the power of this sacred thread.
+
+    The Sacred Bond of Krishna and Draupadi
+
+It is said that while killing Shishupala, Lord Krishna accidently got his finger hurt. As his finger began bleeding, Draupadi rushed to him, tore a piece from her sari and tied it around Krishna’s finger. Krishna was touched by this gesture and promised to protect Draupadi. Thereafter, Draupadi tied a sacred thread to Krishna every year. When Draupadi was in utmost distress during Cheerharan by the Kauravas, it was Lord Krishna who saved her. The two shared a very special bond.
+
+    Rabindra Nath Tagore’s Idea of Raksha Bandhan
+
+Renowned Indian writer, Rabindra Nath Tagore believed that Raksha Bandhan was a day to strengthen the bond of togetherness not just among brothers and sisters but among all countrymen. The famous writer was devastated at hearing about the partition of Bengal. The British government used the tactic of divide and rule to split this province. The Hindu Muslim conflict formed the basis of this division. It was around this time that Rabindra Nath arranged for Raksha Bandhan celebration to bring Hindus and Muslims closer. He requested people of both these religions to tie the sacred thread of protection to each other to strengthen their bond.
+
+In West Bengal, people still tie rakhi to their friends and neighbours to promote the feelings of oneness and unity.
+
+Conclusion
+
+Rakhi holds special significance for siblings. Many of them are unable to meet each other due to their professional and personal commitments. However, they make it a point to take out time for one another on this special day."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

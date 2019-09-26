@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cool"
+    tools:context="com.actionbar.venkat.thor.MainActivity7">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+>
+
+        <Button
+            android:id="@+id/button117"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back11"
+            android:text="Business" />
+
+        <Button
+            android:id="@+id/button118"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back12"
+            android:text="cottage industry" />
+
+        <Button
+            android:id="@+id/button119"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back11"
+            android:text="light industry" />
+
+        <Button
+            android:id="@+id/button120"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back12"
+            android:text="manufacturing" />
+
+        <Button
+            android:id="@+id/button121"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back11"
+            android:text="Timber industry" />
+
+        <Button
+            android:id="@+id/button122"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back12"
+            android:text="pharmaceutical industry" />
+
+        <Button
+            android:id="@+id/button123"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back11"
+            android:text="software industry" />
+
+        <Button
+            android:id="@+id/button124"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back12"
+            android:text="technology industry" />
+
+        <Button
+            android:id="@+id/button125"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back11"
+            android:text="real estate industry" />
+
+        <Button
+            android:id="@+id/button126"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back12"
+            android:text="film industry" />
+
+        <Button
+            android:id="@+id/button127"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back11"
+            android:text="world wide web" />
+
+        <Button
+            android:id="@+id/button128"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back12"
+            android:text="mining" />
+
+        <Button
+            android:id="@+id/button129"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back11"
+            android:text="industrial revolution" />
+
+        <Button
+            android:id="@+id/button130"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/back12"
+            android:text="Search from web" />
+    </LinearLayout>
+</ScrollView>

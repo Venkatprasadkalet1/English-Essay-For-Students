@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Earthpollution"
+    tools:showIn="@layout/activity_earthpollution">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Pollution Essay 12 (400 words)
+
+Environment pollution is the mixing of harmful pollutants into the environment causing disturbance to the natural processes and cycles. Various types of environmental pollution are categorized as the water pollution, air pollution, land pollution and noise pollution. Production of solid and liquid wastes on large scale from the industries, emissions of hazardous gases, deforestation, global warming, and many more problems originated by the human beings are the main reasons of increasing the environmental pollution. In the last one decade, there is a great increase in the level of environmental pollution and scenario has become worse than earlier.
+
+In the whole universe, there is only one planet named earth provides facility of all basic elements required for the life existence. It gives us life and what we give it, pollution. However, it was much better that if we give it nothing but we give it pollution and contamination regularly. As we all live on this planet, we all are highly responsible for the maintenance of the earth. However, we all forget our responsibility and busy in our daily routine and competitions to just fulfill our needs in anyways. Fresh air and clean water are two most basic needs to sustain life but nothing of both is possible in the modern time. It seems that, after some decades here would be no man, no plants, no animals and no life.
+
+All the natural gases in the environment make their balance by reacting each other. Some of them are used as a food by the plants like carbon dioxide. But, just imagine what happened when we start finishing plants. Decreasing number of plants causes less use of carbon dioxide which gets spread into the whole environment and in turn increases environmental temperature level and thus global warming. It again calls many problems and natural calamities like melting glaciers, flood, increasing water level in sea and ocean, and finally destruction of humanity from this planet. Just imagine, only decreasing number of plants may cause such a big problem which is not our only mistake. We are doing lots of such mistakes daily and it should not be a big surprise for us that one day the chance of life existence would be finished on this planet.
+
+Still we have time, the get together effort of all of us may save the earth, environment and the life here. Environmental pollution needs a global level awareness and every one of us needs to understand our all mistakes, causes of pollution, ways to solve the problems created by it and most importantly how to stop the negative environmental changes and environmental pollution."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

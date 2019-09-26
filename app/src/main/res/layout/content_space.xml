@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Space"
+    tools:showIn="@layout/activity_space">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Space Travel
+
+The travel to outer space refers to as Space Travel. The history of advance of science is the story of marvelous discoveries and inventions, each one more extra-ordinary than the others. Man has, since beginning, been very curious to know everything. He has been successful in flying in the sky like birds and also in fathoming the sea. Now he is curious to know about things above the earth, i.e. the heaven, the stars, the planets and the satellites. He wants to know about space and the solar world.
+
+Space scientists have invented rockets which move through space at enormously swift speed. They travel so fast that within a short time they reach beyond the gravitational pull of the earth and pass into limitless space. Space scientists of many countries have launched missiles that move at the speed of thousands of kilometers per hour.
+
+The knowledge of astronomy, physics etc. has enabled man to know much about stars and planet, their behavior, their motions etc.
+
+The year 1969 was remarkable when Neil Armstrong, Edwin and Collins set their feet on the moon on 20th July. The name of the spaceflight was ‘Apollo 11’. The day was a memorable day in space travel. Neil Armstrong and his two companions walked on the surface of the moon for about two hours and brought many valuable specimens. They made the whole world wonder-struck. "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

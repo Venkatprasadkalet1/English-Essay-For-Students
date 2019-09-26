@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Worldhealthday"
+    tools:showIn="@layout/activity_worldhealthday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="The desire to outdo others, to earn more money and to become the most influential in society is what deriving people crazy due to which they have failed to achieve a work-life balance in their lives.
+
+Due to this imbalance and deteriorating food eating habits, people are becoming divorced from a healthy, normal life and are living a mechanical lifestyle where work and even excessive work load has replaced everything. In the day to day schedule, people don’t even have time to look after their health, exercise and indulge in healthy food eating habits. As a consequence of which they are becoming prone to severe health conditions. Even worse, due to overriding ambitions and the constant struggle to realize those ambitions, people are living under excessive mental pressure. Their inability to adapt to the highly competitive environment, thwarted efforts is making them feel depressed and succumb to chronic mental conditions.
+
+As this has become a global phenomenon which every country is grappling with, the need to draw people’s attention towards World Health Day has become of paramount importance. Friends, World Health day is celebrated every year on 7th of April under the aegis of World Health Organization (WHO). In fact, this year’s World Health Day marks the 70th anniversary of the WHO.
+
+Established in the year 1950, every annual celebration has a theme to draw people’s attention towards the current global health concern. Interestingly, the WHO on this day puts together local, regional as well as international events in connection with the chosen theme. Local governments also try to be a part of this band-wagon because after all global health implies each and every one! On this day, people are urged to walk a few extra miles out of concern for their health and start a healthy diet or start the intake of multi-vitamins or consider going to the gym.
+
+Even better, you can volunteer in our local events or may organize one in our society. You can also contribute to this day by simply spreading the word around about the importance of good health and ill-effects of an unbalanced lifestyle. With every year, the WHO comes with a different and compelling theme, but has always made sure to cover the most important issues, such as Staying active while ageing, Global Polio Eradication, including even road safety. Every such issue is deemed to be extremely important form the point of view of global health and so they deserved a special limelight of their very own on this day.
+
+In the end, all I want to say on this World Health Day is that I would like to urge my society members to adopt a healthy lifestyle and also encourage others to do so because this is the way we can bring if not big but at least some glimpse of change in our immediate surroundings."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

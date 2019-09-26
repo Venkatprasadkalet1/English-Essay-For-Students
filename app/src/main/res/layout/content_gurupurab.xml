@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Gurupurab"
+    tools:showIn="@layout/activity_gurupurab">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text=" Short Essay on 'Gurpurab' (200 Words)
+Monday, October 28, 2013
+
+'Gurpurab' is also known as Guru Nanak Jayanti. It is one of the biggest festivals of Sikhs. The birthday of Guru Nanak Dev is celebrated as Gurpurab. Gurpurab is celebrated in the month of Kartik on the day of full moon known as Kartik Purnima.
+
+Guru Nanak was the founder of the Sikh religion. He was the first Sikh Guru. Guru Nanak Dev Ji was born on 15th April 1469 in Rai-Bhoi-di Talwandi in the present Shekhupura District of Pakistan, which is now known as Nankana Sahib.
+
+On Gurpurab, Sikhs wear new clothes and go to the Gurudwaras. The morning of Gurpurab starts with Prabhat Feris in the Gurudwara followed by processions in localities singing hymns. Sikhs offer their prayers and pay homage to the Guru Granth Sahib. On this day, the holy book of Sikhs, the Guru Granth Sahib is continuously read and recited in the Gurudwaras. Lamps are lit, processions are taken out, free langars (meals) are arranged and a sweet prasad is distributed all over the country. The Nanakpanti Hindus and the other followers of Guru Nanak’s philosophy apart from the Sikhs also observe this sacred festival. "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

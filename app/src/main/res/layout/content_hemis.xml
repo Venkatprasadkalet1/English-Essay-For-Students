@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Hemis"
+    tools:showIn="@layout/activity_hemis">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="The Hemis Festival is a spectacular two-day event celebrated on the courtyard of the Hemis Monastery, situated 25 miles southeast of the town of Leh in Ladakh. It is the biggest and oldest monastery in the region (built in the 11th century). Every year, culture curious travelers and locals throng this ancient monastery to commemorate the birthday of Lord Padmasambhava (Guru Rinpoche), the founder of Tibetan Tantric Buddhism. This two day extravaganza falls every year on the 10th day of the Tibetan lunar month. Visitors can enjoy a fascinating mask dance performed by the monastery lamas to the accompaniment of drums, cymbals and long horns. It is a sight to behold and in this photo essay we have made an effort to share some beautiful images of the mystical Hemis Festival.
+
+The festival will be celebrated on the 15th of July this year. Contact us if you want a tailor made itinerary to attend this spectacular event in the transcendental Himalayan land of Ladakh.
+
+Zuley!"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

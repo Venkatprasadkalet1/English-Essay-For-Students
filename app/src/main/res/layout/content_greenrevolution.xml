@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Greenrevolution"
+    tools:showIn="@layout/activity_greenrevolution">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="The Green Revolution refers to the technological advances in agriculture that changed the way farmers in this country managed their farms. These changes allowed farmers to grow and harvest more crops with less manpower. The increase in the amount of food produced allowed them to export crops to other countries. The increase in production also resulted in the price of food decreasing in this country. The main objective of this paper is to discuss the affects the Green Revolution had on Third World countries.
+             The Green Revolution myth goes like this: the miracle seeds of the Green Revolution increase grain yields and therefore are a key to ending world hunger.1 Higher yields mean more income for poor farmers, helping them to climb out of poverty, and more food means less hunger. Dealing with the root causes of poverty that contribute to hunger takes a very long time and people are starving now. So we must do what we can which is to increase production.2 The Green Revolution buys the time Third World countries desperately need to deal with the underlying social causes of poverty and to cut birth rates.3 In any case, outsiders, like the scientists and policy advisers behind the Green Revolution can't tell a poor country to reform its economic and political system, but they can contribute invaluable expertise in food production.4
+             The Green Revolution benefited primarily those land-owners who could afford the investment necessary for such intensive agriculture. Without a certain dosage of expensive nitrogen fertilizers per hectare, the high-yield varieties would not grow properly.5 Rich farmers tended to obtain bigger yields while small holders were unable to benefit from the new methods.
+             The Green Revolution greatly affected Third World countries. It is "
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

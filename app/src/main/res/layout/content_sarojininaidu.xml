@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Sarojininaidu"
+    tools:showIn="@layout/activity_sarojininaidu">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="There was mourning throughout the length and breadth of India when Mrs. Sarojini Naidu passed away at the age of 70.
+
+This was the touchstone of her popularity; it was also India’s tribute of gratitude and love for one of her noblest daughters. Her qualities of mind and heart could not remain hidden under a bushel. Mental acumen and charm of manner were hers by na­ture, so much so that wherever she trod she she left a trail of goodness behind her.
+
+Long before she entered the political arena in defense of her country, she was known the world over as a poetess of high rank. She wrote in English, and began writing on topics specifically Indian only after a caution.
+
+
+During her English probation she met the then celebrated English critic and poet, Sir Edmund Gosse. Buoyed up with the English beauty of land-and-sea-scope, she had composed a little book of verse on the subject.
+
+She showed it to Gosse. With the eyes of a connoisseur, the great man said: “Why do you write about England, good lady? Write rather about India and i assure you of fame.”
+
+That settled the matter. Mrs. Naidu threw her poems on England into the fire. From that day on she devoted her poetic talent to the glory of India and Indian things.
+
+This noble woman was not only at home in the English tongue; she was a genius in expression. In prose and verse she thrilled her audiences with impeccable diction and faultless ex­pression like an orator born.
+
+What was more, she was blessed with an imposing personality that made its mark wherever she went. India has produced a fair bunch of women of distinction, but in Mrs. Sarojini Naidu were combined in a powerful manner both intellectual precision and nobility of heart, coupled with an inborn gift for self-expression.
+
+Her career in the political sphere brought glory not so much to her personality as to her nation. For years on end we had the pleasure to listen to her convincing voice on public platforms and on the radio. No one doubted that she was a force and an outstanding national asset.
+
+She strove through her poetic-injected messages to instill genuine patriotism in the hearts of Indians; hundreds have been influenced by the magnetism of her person­ality.
+
+
+She travelled to various countries, carrying everywhere the torch of hope and reassurance to enlighten the masses along the right road that led to ultimate freedom.
+
+In our fight for independence, our own Gandhiji singled her out as one of India’s most powerful leaders. She was true to her words; she practiced what she preached: sacrifice was the acid test and the summary of all her endeavours.
+
+That was why she tried, in spite of repeated obstacles, to encourage the masses to leave no stone unturned in the acquisition of true culture and the spirit of service. She was adamant in her conviction that India and Indians had a great mission to fulfill.
+
+It made her supremely happy to see that, at the end, her dream was achieved. The sublime mission was realised; it became a reality. We won our indepen­dence, thanks in fair measure to her gallant fight for it.
+
+The words of her matchless lullaby to her India babe came true at last: From groves of spice, O’er fields of rice, Athwart the lotus stream, I bring to you, A glint with dew, A little lovely dream.
+
+The little lovely dream that simmered and bubbled in her brain for so many years finally reached fruition and crystallised: Inde­pendent India."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.v4.widget.NestedScrollView>

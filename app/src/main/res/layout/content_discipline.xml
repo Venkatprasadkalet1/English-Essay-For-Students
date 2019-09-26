@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Discipline"
+    tools:showIn="@layout/activity_discipline">
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Discipline Essay 6 (400 words)
+
+Discipline is something which keeps everyone under good control. It motivates a person to go ahead in the life and get success. Every one of us has experienced discipline in different forms according to their own requirement and understanding towards life. It availability of it in everyone’s life is very necessary to go on the right path. Without discipline life becomes inactive and useless as nothing go according to the plan. If we need to implement our strategy in right way about any project to be completed, we need to be in discipline first. Discipline is generally of two types. One is induced discipline in which we learn to be in discipline by others and another one is self-discipline which comes from own mind to be in discipline. However sometimes, we need motivation from someone effective personality to improve our self-discipline habit.
+
+We need discipline in many ways at many stages of our life so it is good to practice discipline from the childhood. Self-discipline means differently to different people such as for students, it means motivating ownself to get concentrated on the study and complete assignments in right time. However, for working person, it means to get up from bed on time in the morning, do exercise to get fit, go to office on time, and do job tasks properly. Self-discipline is highly required by everyone to have, as in modern time no one has time for others to motivate towards being in discipline. Without discipline one can be failure in the life, she/he cannot enjoy academic success or other success in the career.
+
+Self-discipline is required in every field like dieting (it needs to control over fatty and junk foods), regular exercise (it needs to concentrate), etc. One can get health disorders and fatty body without control over food so it needs discipline. Parents need to develop self-discipline habits as they need to teach their kids a good discipline. They need to motivate them all time to behave well and do everything at right time. Some naughty children do not follow their parent’s discipline, in such cases parents need to have dare and patience to teach their naughty children. Everyone has different time and capacity to learn the meaning of discipline according to the nature. So, never give up and always try to get in discipline, as a small step can be converted to large step a day."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>

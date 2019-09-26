@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Worldredcrossday"
+    tools:showIn="@layout/activity_worldredcrossday">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:background="@drawable/mouse"
+            android:textSize="17dp"
+            android:textColor="#fbfb"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="Red Cross Day
+
+World Red Cross day means 8th of May is celebrated every year as the birthday anniversary of founder of the Red Cross. Henry Dunant was the founder of the Red Cross as well as the founder of International Committee of the Red Cross (ICRC), born in the Geneva in the year 1828. He was the most famous person and became the recipient of 1st Nobel Peace Prize.
+
+World Red Cross Day is an annual event celebration, celebrating the principles of “International Red Cross and Red Crescent Movement”. It is celebrated every year to pay tribute to the volunteers participated in the event as well as welcome their precious contribution for helping people in need.
+World Red Cross Day 2018
+
+World Red Cross Day 2018 will be celebrated all across the world by the National Societies affiliates to the ICRC (International Committee of the Red Cross) on 8th of May, at Tuesday.
+World Red Cross Day History
+
+Red Cross was introduced as a major contribution to the peace after the World War I by an international commission at 14th International Conference of the Red Cross. The principles of the Red Cross Truce was presented and approved on 15th International Conference at Tokyo in the year 1934 to get applicable all across the world in different regions. The possibility of its annual celebration was asked to the “League of the Red Cross Societies (LORCS)” by the International Federation of the Red Cross Societies (IFRC) General Assembly. And just 2 years later the proposal of celebrating this day annually was adopted and was first celebrated as the Red Cross Day on 8th of May in 1948. Later, it was officially named as the “World Red Cross and Red Crescent Day” in the year 1984.
+
+World Red Cross Day is celebrated by the people on international level to alleviate people’s suffering, enhancing their dignity, protecting their life from emergencies and lots of natural disasters including epidemic diseases, flood and earthquakes. It is celebrated by all the sections of the Red Cross organizations to help people by keeping in front it’s all fundamental principles which are humanity, independence, impartiality, neutrality, universality, voluntary and unity.
+
+International Committee of the Red Cross and its members (National Societies) organize lots of programmes and events in order to encourage volunteers as well as facilitate and promote their humanitarian activities. International Red Cross movement members assists the suffered people of any problems. People are motivated to protect their own lives and take care of the dignity of other victims.
+
+It is celebrated annually to honor the founder of an International Red Cross Crescent Movement, Henry Dunant. It is celebrated by the National Societies (affiliated to ICRC) in their countries to aware people about the need of life protection in some drastic conditions. It highlights the international services to motivate people to hugely participate in the life saving activities.
+Why World Red Cross Day is Celebrated
+
+World Red Cross Day has become an important day in the history of world which is being celebrated annually to play big role in the life saving events as well as assisting the vulnerable social people all around the world. It is celebrated to commemorate the birthday of Henri Dunant who had founded the International Committee of the Red Cross (ICRC) in the year 1863 in the Geneva, Switzerland.
+
+It aimed to provide relief to the human beings in distress and desolation due to war, food shortage, epidemic diseases or natural calamities. Its celebration is highlighted through a special theme of the year to fulfill the aim of celebration as well as make people aware of its importance. It also aims to attract more private or governmental organizations to be active members and participate regionally to help needed people suffering from any kind of disaster.
+
+Around 97 million members and volunteers of the Red Cross and Red Crescent Societies are also honored at this day of being the largest humanitarian network of relief worldwide serving over 170 countries. Around 240 million people all over the world have become benefited of the free assistance of Red Cross workers. In 1922, peace and relief was given by the Red Cross members to the people affected by the World War I.
+
+National Societies acts as auxiliaries of the Red Cross in the humanitarian field and assists with the range of services such as natural disaster relief, medical services and other health and social programmes. A meeting held every two years between the National Societies and their Federation in the General Assembly whereas every four years, a meeting held where whole Movement meets at the Geneva Conventions which is called as the “International Conference of the Red Cross and Red Crescent”. Following are the objectives of the World Red Cross Day celebration:
+
+> It is celebrated to provide relief and peace to the injured people to prevent death rate due to the disasters of any kind.
+
+> It helps in initiating active efforts all over the world to reduce casual death rate because of epidemic illnesses.
+
+> It helps people living in the vulnerable areas to manage the public health emergencies.
+
+> It empowers its members, civil societies and other involved local communities to provide immediate response to the health disasters in the vulnerable situations.
+
+> It helps in reinstating the human dignity.
+
+> Geneva conventions help in monitoring the compliance of warring parties.
+
+> It helps the wounded people on the battlefield by organizing the nursing care.
+
+> It avails the treatment for prisoners of war and help in searching the missing persons during conflict.
+
+> It avails protection and nursing care to the people in civil populations.
+How World Red Cross Day is celebrated
+
+World Red Cross Day is celebrated by organizing variety of events and programmes at many places to help people free of cost. 50 volunteers are enrolled by the District Red Cross Branches and 25 volunteers by the taluka Red Cross Branches to offer the humanitarian services every year. The particular branch with their enrolled new volunteers welcomes the Red Cross Rath by the Zone wise Rath Yatra Movement where it has organized local programmes to highlight the Red Cross activities.
+
+New enrolled volunteers are guided by the state branch representatives and branch office bearer for the further activities throughout the year. All the new enrolled volunteers work throughout the year for at least 60 hours called volunteer hours on the subjects they had assigned for. They motivate the group of youth people to help people in emergencies such as earthquakes, flood, cyclone, thalassemia and etc.
+
+Some of the National societies celebrate the World Red Cross Day by organizing the anaemia and blood donation awareness programmes. New volunteers also organize some awareness campaigns related to the subjects in their local community according to the requirement and need of people.
+
+A seminar is held between the experienced members of the Indian Red Cross Society and enrolled volunteers at the National Headquarter. It is celebrated in many states of the India (Orissa, Jammu and Kashmir, Jharkhand, Kolkata, Chandigarh, Bihar, Himachal Pradesh,) by welcoming and honoring the Red Cross Volunteers. The programmes are also attended by the state governors and state ministers throughout the country. The event celebration news is covered by the new channels, TV channels and radio talks.
+
+Youths from the local communities are inspired to get actively participated in the activities in order to protect the human beings and animals from disaster. Blood donation camps and other health checkup camps are organized in local places for the easy reach of the poor people.
+About World Red Cross Society
+
+World Red Cross societies and Red Crescent Societies are the largest humanitarian network of the world offering relief to the disaster. It celebrates the World Red Cross Day by organizing activities in more than 170 countries of the world. It has become the strongest force of the world having unpaid assistants (including 97 million members and enrolled volunteers) all around the world for helping 233 million people every year.
+
+It aims to accomplish its meeting in other regions of the world as well to alleviate all the deadly and painful diseases including measles and other crises. Its primary objective is to completely eradicate epidemic diseases, save children from the sufferings, lessen the maternal and child mortality rate and etc. A cross of red color on the white background is the symbol of Red Cross Day which was originated in the year 1864 in the Geneva Convention.
+
+
+About International Committee of the Red Cross (ICRC)
+
+The International Committee of the Red Cross (ICRC) was founded in the year 1863 in the Geneva, Switzerland as a private institution for managing the people’s disaster sufferings worldwide. It consists of 25 members and Red Cross committee who are empowered for the life saving events and protecting victim’s dignity on national and international level under the human rights law.
+
+Red Crescent Societies are affiliated and works in collaboration with the World Red Cross to assist in the activities of the movement. National Red Crescent societies and Red Cross Societies are exists on national level in almost each country worldwide. Recently, around 186 National Societies (use Red Cross as their official symbol) are available which are recognized by the ICRC.
+World Red Cross Day Theme
+
+World Red Cross Day is celebrated every year using a particular theme of the year to run this campaign very effectively all over the world. Some of the themes are mentioned below:
+
+> World Red Cross Day theme of 2018 is “Memorable smiles from around the world”.
+
+> World Red Cross Day theme of 2017 was “Less Known Red Cross Stories”.
+
+> World Red Cross Day theme of 2016 was “Everywhere for everyone”.
+
+> World Red Cross Day theme of 2015 was “Together for Humanity”.
+
+> World Red Cross Day theme of 2014 was “Together for Humanity”.
+
+> World Red Cross Day theme of 2013 was “Together for Humanity”.
+
+> World Red Cross Day theme of 2012 was “youth on the move”.
+
+> World Red Cross Day theme of 2011 was “Find the Volunteer inside You”.
+
+> World Red Cross Day theme of 2010 was “Urbanization”.
+
+> World Red Cross Day theme of 2009 was “Climate Change and its humanitarian consequences serving as a Solferino of Today”."
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+
+</android.support.v4.widget.NestedScrollView>
